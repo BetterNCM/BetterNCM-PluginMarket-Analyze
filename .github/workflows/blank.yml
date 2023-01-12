@@ -1,0 +1,21 @@
+name: Sync with betterncm database.
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron:  '30 5,17 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      - name: Sync with betterncm database.
+        run: wget -O ./downloads.json https://betterncm.microblock.cc/api/getPluginDownloads
+      - name: Commit it back to repo.
+        uses: stefanzweifel/git-auto-commit-action@v4.14.1
+        with:
+          commit_message: Sync with betterncm database.
