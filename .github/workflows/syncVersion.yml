@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron:  '0/10 * * * *'
+    - cron:  '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Sync with betterncm database.
-        run: wget -O ./downloads.json https://betterncm.microblock.cc/api/getPluginDownloadsReal
+        run: wget -O ./versions.json https://betterncm.microblock.cc/api/getPluginDownloadsReal
       - name: Commit it back to repo.
         uses: stefanzweifel/git-auto-commit-action@v4.14.1
         with:
