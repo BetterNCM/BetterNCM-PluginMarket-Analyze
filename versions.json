@@ -12,7 +12,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "0.1.0",
-		"count": 5966
+		"count": 5984
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -22,7 +22,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.5",
-		"count": 554
+		"count": 587
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -32,12 +32,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.0.8",
-		"count": 1512
+		"count": 1593
 	},
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.2.4",
-		"count": 820
+		"count": 858
 	},
 	{
 		"name": "MoTheme",
@@ -57,7 +57,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.1.2",
-		"count": 813
+		"count": 847
 	},
 	{
 		"name": "RuLyrics",
@@ -67,7 +67,7 @@
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 3642
+		"count": 3654
 	},
 	{
 		"name": "actionEnhancement",
@@ -87,7 +87,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.2.7",
-		"count": 9706
+		"count": 9756
 	},
 	{
 		"name": "MoTheme",
@@ -147,7 +147,7 @@
 	{
 		"name": "InfLink",
 		"version": "0.1.6",
-		"count": 5880
+		"count": 5903
 	},
 	{
 		"name": "MoTheme",
@@ -157,12 +157,12 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 2747
+		"count": 2761
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "0.2.0",
-		"count": 1133
+		"count": 1186
 	},
 	{
 		"name": "StylesheetLoader",
@@ -212,12 +212,12 @@
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 58
+		"count": 66
 	},
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 1890
+		"count": 1895
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -227,7 +227,7 @@
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.6",
-		"count": 1005
+		"count": 1009
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -237,7 +237,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.1.3",
-		"count": 1909
+		"count": 1931
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -302,7 +302,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.1",
-		"count": 4686
+		"count": 4696
 	},
 	{
 		"name": "HideScrollbar",
@@ -322,17 +322,17 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.2",
-		"count": 4860
+		"count": 4879
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "1.8.1",
-		"count": 432
+		"count": 434
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.5.1",
-		"count": 1285
+		"count": 1286
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -357,7 +357,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.2",
-		"count": 11469
+		"count": 11518
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -382,12 +382,22 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 3037
+		"count": 3047
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 1970
+		"count": 1980
+	},
+	{
+		"name": "RefinedNowPlaying",
+		"version": "2.5.2",
+		"count": 58
+	},
+	{
+		"name": "Apple-Musiclike-lyrics",
+		"version": "1.8.2",
+		"count": 46
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -417,7 +427,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "0.2.3",
-		"count": 7472
+		"count": 7487
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -447,7 +457,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 8800
+		"count": 8850
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -457,7 +467,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.0",
-		"count": 7667
+		"count": 7705
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -492,7 +502,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 350
+		"count": 352
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -507,7 +517,7 @@
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.6",
-		"count": 2927
+		"count": 2945
 	},
 	{
 		"name": "ActionEnhancement",
@@ -537,7 +547,7 @@
 	{
 		"name": "libsonginfo",
 		"version": "1.0.0",
-		"count": 7339
+		"count": 7369
 	},
 	{
 		"name": "FluentProgressBar",
@@ -547,12 +557,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 8031
+		"count": 8074
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 9047
+		"count": 9088
 	},
 	{
 		"name": "ActionEnhancement",
