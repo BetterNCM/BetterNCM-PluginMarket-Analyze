@@ -1,76 +1,81 @@
 [
 	{
-		"count": 16618,
+		"count": 16654,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 16693,
+		"count": 16753,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 6565,
+		"count": 6583,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 9664,
+		"count": 9709,
 		"name": "libsonginfo",
 		"version": "all"
 	},
 	{
-		"count": 14198,
+		"count": 14251,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 7702,
+		"count": 26,
+		"name": "elaina-theme",
+		"version": "all"
+	},
+	{
+		"count": 7727,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 4404,
+		"count": 4428,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 4394,
+		"count": 4408,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 7797,
+		"count": 7814,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 945,
+		"count": 991,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 11294,
+		"count": 11351,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 6714,
+		"count": 6739,
 		"name": "VisualRecord",
 		"version": "all"
 	},
 	{
-		"count": 22536,
+		"count": 22610,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 689,
+		"count": 706,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 12784,
+		"count": 12841,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -80,52 +85,52 @@
 		"version": "all"
 	},
 	{
-		"count": 9859,
+		"count": 9900,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
 	{
-		"count": 9574,
+		"count": 9593,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	},
 	{
-		"count": 12341,
+		"count": 12396,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 11228,
+		"count": 11316,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 23462,
+		"count": 23517,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 14794,
+		"count": 14838,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 3739,
+		"count": 3750,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 2208,
+		"count": 2215,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 8846,
+		"count": 8861,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 919,
+		"count": 926,
 		"name": "Customize",
 		"version": "all"
 	},
@@ -135,27 +140,27 @@
 		"version": "all"
 	},
 	{
-		"count": 8503,
+		"count": 8522,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 19457,
+		"count": 19515,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 2350,
+		"count": 2362,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 2524,
+		"count": 2533,
 		"name": "Microrange",
 		"version": "all"
 	},
 	{
-		"count": 13297,
+		"count": 13345,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	}
