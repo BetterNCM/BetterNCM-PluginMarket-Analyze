@@ -12,7 +12,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "0.1.0",
-		"count": 10154
+		"count": 10156
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -22,7 +22,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.5",
-		"count": 4821
+		"count": 4823
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -87,7 +87,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.0",
-		"count": 5222
+		"count": 5227
 	},
 	{
 		"name": "BGEnhanced",
@@ -162,7 +162,7 @@
 	{
 		"name": "InfLink",
 		"version": "0.1.6",
-		"count": 17729
+		"count": 17734
 	},
 	{
 		"name": "MoTheme",
@@ -172,7 +172,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 6676
+		"count": 6678
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "0.2.0",
-		"count": 10580
+		"count": 10584
 	},
 	{
 		"name": "StylesheetLoader",
@@ -347,7 +347,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.2",
-		"count": 8381
+		"count": 8382
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -382,7 +382,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 4240
+		"count": 4242
 	},
 	{
 		"name": "StylesheetLoader",
@@ -472,7 +472,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "0.2.3",
-		"count": 10749
+		"count": 10750
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -507,7 +507,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 17429
+		"count": 17430
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -557,7 +557,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1182
+		"count": 1184
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -602,7 +602,7 @@
 	{
 		"name": "libsonginfo",
 		"version": "1.0.0",
-		"count": 13620
+		"count": 13621
 	},
 	{
 		"name": "FluentProgressBar",
@@ -612,12 +612,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 16675
+		"count": 16677
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 17281
+		"count": 17283
 	},
 	{
 		"name": "ActionEnhancement",
