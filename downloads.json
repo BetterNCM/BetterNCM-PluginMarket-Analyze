@@ -1,11 +1,11 @@
 [
 	{
-		"count": 23629,
+		"count": 23634,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 26164,
+		"count": 26167,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -15,22 +15,22 @@
 		"version": "all"
 	},
 	{
-		"count": 15104,
+		"count": 15107,
 		"name": "libsonginfo",
 		"version": "all"
 	},
 	{
-		"count": 20920,
+		"count": 20923,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 3205,
+		"count": 3206,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 11008,
+		"count": 11009,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -40,7 +40,7 @@
 		"version": "all"
 	},
 	{
-		"count": 5795,
+		"count": 5796,
 		"name": "Transmission",
 		"version": "all"
 	},
@@ -55,17 +55,17 @@
 		"version": "all"
 	},
 	{
-		"count": 18679,
+		"count": 18683,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 10051,
+		"count": 10053,
 		"name": "VisualRecord",
 		"version": "all"
 	},
 	{
-		"count": 34671,
+		"count": 34675,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -75,7 +75,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18759,
+		"count": 18761,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 16024,
+		"count": 16027,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -95,27 +95,27 @@
 		"version": "all"
 	},
 	{
-		"count": 19511,
+		"count": 19514,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 22364,
+		"count": 22371,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 33308,
+		"count": 33312,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 249,
+		"count": 253,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 22624,
+		"count": 22628,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,12 +125,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2865,
+		"count": 2866,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 11588,
+		"count": 11591,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -150,17 +150,17 @@
 		"version": "all"
 	},
 	{
-		"count": 49,
+		"count": 50,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 11466,
+		"count": 11467,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 30214,
+		"count": 30218,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18105,
+		"count": 18108,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	}
