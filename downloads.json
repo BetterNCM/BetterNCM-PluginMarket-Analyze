@@ -1,111 +1,116 @@
 [
 	{
-		"count": 28993,
+		"count": 0,
+		"name": "list-scroll-fix",
+		"version": "all"
+	},
+	{
+		"count": 29018,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 1084,
+		"count": 1110,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 3203,
+		"count": 3240,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 3375,
+		"count": 3398,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
 	{
-		"count": 32158,
+		"count": 32187,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 11169,
+		"count": 11178,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 2789,
+		"count": 2807,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 20049,
+		"count": 20055,
 		"name": "libsonginfo",
 		"version": "all"
 	},
 	{
-		"count": 1382,
+		"count": 1392,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 25767,
+		"count": 25790,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 5837,
+		"count": 5855,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 16584,
+		"count": 16622,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 10017,
+		"count": 10027,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 7049,
+		"count": 7065,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 11750,
+		"count": 11754,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 5805,
+		"count": 5814,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 25304,
+		"count": 25353,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 12101,
+		"count": 12112,
 		"name": "VisualRecord",
 		"version": "all"
 	},
 	{
-		"count": 45062,
+		"count": 45124,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 2124,
+		"count": 2126,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 147,
+		"count": 231,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 22425,
+		"count": 22445,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,62 +120,62 @@
 		"version": "all"
 	},
 	{
-		"count": 20564,
+		"count": 20589,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
 	{
-		"count": 14368,
+		"count": 14376,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	},
 	{
-		"count": 25950,
+		"count": 25997,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 33086,
+		"count": 33189,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 40765,
+		"count": 40803,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 10399,
+		"count": 10444,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 28354,
+		"count": 28387,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 5996,
+		"count": 6004,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 3287,
+		"count": 3288,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 13737,
+		"count": 13745,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 1959,
+		"count": 1962,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 1151,
+		"count": 1157,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -180,42 +185,42 @@
 		"version": "all"
 	},
 	{
-		"count": 3076,
+		"count": 3087,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 5862,
+		"count": 5881,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 1420,
+		"count": 1424,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 13601,
+		"count": 13611,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 37250,
+		"count": 37284,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 3677,
+		"count": 3679,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 4129,
+		"count": 4141,
 		"name": "Microrange",
 		"version": "all"
 	},
 	{
-		"count": 20761,
+		"count": 20768,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	}
