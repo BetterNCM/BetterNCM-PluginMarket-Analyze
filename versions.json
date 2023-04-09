@@ -47,7 +47,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 23390
+		"count": 23467
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 51717
+		"count": 51842
 	},
 	{
 		"name": "RuLyrics",
@@ -97,12 +97,12 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.0",
-		"count": 1230
+		"count": 1247
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 10975
+		"count": 10994
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -177,7 +177,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.4",
-		"count": 6629
+		"count": 6630
 	},
 	{
 		"name": "RuLyrics",
@@ -197,7 +197,7 @@
 	{
 		"name": "keyboard-seek",
 		"version": "0.1.0",
-		"count": 370
+		"count": 422
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -227,7 +227,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.0.2",
-		"count": 3263
+		"count": 3272
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -247,7 +247,7 @@
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 500
+		"count": 507
 	},
 	{
 		"name": "InfLink",
@@ -272,7 +272,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 13900
+		"count": 13919
 	},
 	{
 		"name": "ark-theme",
@@ -282,7 +282,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.0",
-		"count": 359
+		"count": 361
 	},
 	{
 		"name": "FluentProgressBar",
@@ -302,12 +302,12 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 29960
+		"count": 30041
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.17.0",
-		"count": 986
+		"count": 1087
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -332,7 +332,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 19225
+		"count": 19294
 	},
 	{
 		"name": "MoTheme",
@@ -372,7 +372,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 187
+		"count": 219
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -397,7 +397,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 1029
+		"count": 1051
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -412,17 +412,17 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.1",
-		"count": 1825
+		"count": 1858
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 4441
+		"count": 4456
 	},
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 2970
+		"count": 2975
 	},
 	{
 		"name": "BGEnhanced",
@@ -432,7 +432,7 @@
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 3990
+		"count": 3994
 	},
 	{
 		"name": "BGEnhanced",
@@ -452,7 +452,7 @@
 	{
 		"name": "vocaloid-info",
 		"version": "1.1.4",
-		"count": 204
+		"count": 206
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -467,7 +467,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 8798
+		"count": 8832
 	},
 	{
 		"name": "RuLyrics",
@@ -482,7 +482,7 @@
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 239
+		"count": 248
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -552,7 +552,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.1",
-		"count": 335
+		"count": 336
 	},
 	{
 		"name": "RoundCornerNCM",
@@ -567,7 +567,7 @@
 	{
 		"name": "relive-theme",
 		"version": "0.5.3",
-		"count": 358
+		"count": 366
 	},
 	{
 		"name": "VisualRecord",
@@ -602,7 +602,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 865
+		"count": 881
 	},
 	{
 		"name": "BGEnhanced",
@@ -647,7 +647,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.4",
-		"count": 959
+		"count": 991
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -662,17 +662,17 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 12310
+		"count": 12327
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "2.0.1",
-		"count": 648
+		"count": 687
 	},
 	{
 		"name": "InfLink",
 		"version": "0.1.8",
-		"count": 10210
+		"count": 10451
 	},
 	{
 		"name": "StylesheetLoader",
@@ -722,7 +722,7 @@
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 2267
+		"count": 2270
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -747,12 +747,12 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 8866
+		"count": 8874
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 6621
+		"count": 6629
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -772,7 +772,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.5.7",
-		"count": 1696
+		"count": 1697
 	},
 	{
 		"name": "FluentMusicCover",
@@ -857,7 +857,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 2091
+		"count": 2139
 	},
 	{
 		"name": "LyricBar",
@@ -872,7 +872,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 43348
+		"count": 43408
 	},
 	{
 		"name": "light-dark-theme-switcher",
@@ -882,7 +882,7 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0",
-		"count": 3186
+		"count": 3191
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -907,7 +907,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.6.4",
-		"count": 3513
+		"count": 3586
 	},
 	{
 		"name": "NcmDump",
@@ -947,7 +947,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 2668
+		"count": 2672
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -957,7 +957,7 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 3173
+		"count": 3177
 	},
 	{
 		"name": "crossfade-lfp",
@@ -987,12 +987,12 @@
 	{
 		"name": "elaina-theme",
 		"version": "0.2.18",
-		"count": 1282
+		"count": 1305
 	},
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.6",
-		"count": 11358
+		"count": 11367
 	},
 	{
 		"name": "ActionEnhancement",
@@ -1032,27 +1032,27 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 47116
+		"count": 47176
 	},
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.0",
-		"count": 1749
+		"count": 1751
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.0",
-		"count": 513
+		"count": 526
 	},
 	{
 		"name": "BGEnhanced",
 		"version": "0.2.12",
-		"count": 2493
+		"count": 2545
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 46608
+		"count": 46667
 	},
 	{
 		"name": "ActionEnhancement",
