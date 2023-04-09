@@ -1,21 +1,26 @@
 [
 	{
-		"count": 50733,
+		"count": 50849,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 48481,
+		"count": 48552,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 2808,
+		"count": 2811,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 11804,
+		"count": 35,
+		"name": "keyboard-seek",
+		"version": "all"
+	},
+	{
+		"count": 11833,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -30,17 +35,17 @@
 		"version": "all"
 	},
 	{
-		"count": 49664,
+		"count": 49712,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 17049,
+		"count": 17066,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 5977,
+		"count": 5992,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
@@ -50,77 +55,77 @@
 		"version": "all"
 	},
 	{
-		"count": 3129,
+		"count": 3135,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 39610,
+		"count": 39655,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 12884,
+		"count": 12913,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 29014,
+		"count": 29052,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 243,
+		"count": 244,
 		"name": "RevivedUnblockInstaller",
 		"version": "all"
 	},
 	{
-		"count": 17000,
+		"count": 17015,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 11096,
+		"count": 11112,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 14928,
+		"count": 14939,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 12164,
+		"count": 12185,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 48643,
+		"count": 48696,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 17596,
+		"count": 17609,
 		"name": "VisualRecord",
 		"version": "all"
 	},
 	{
-		"count": 77077,
+		"count": 77179,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 2943,
+		"count": 2946,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 8813,
+		"count": 8817,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 33144,
+		"count": 33176,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -130,62 +135,62 @@
 		"version": "all"
 	},
 	{
-		"count": 35864,
+		"count": 35911,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
 	{
-		"count": 19831,
+		"count": 19844,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	},
 	{
-		"count": 48621,
+		"count": 48671,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 127040,
+		"count": 127229,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 62754,
+		"count": 62817,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 33131,
+		"count": 33194,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 47984,
+		"count": 48037,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 9025,
+		"count": 9030,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 4163,
+		"count": 4168,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 22240,
+		"count": 22264,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 2923,
+		"count": 2926,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 3135,
+		"count": 3142,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -195,52 +200,52 @@
 		"version": "all"
 	},
 	{
-		"count": 1670,
+		"count": 1700,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
 	{
-		"count": 6293,
+		"count": 6305,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 11260,
+		"count": 11282,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 3992,
+		"count": 4001,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 18241,
+		"count": 18254,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 59405,
+		"count": 59465,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 4496,
+		"count": 4497,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 3252,
+		"count": 3258,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 6620,
+		"count": 6628,
 		"name": "Microrange",
 		"version": "all"
 	},
 	{
-		"count": 29660,
+		"count": 29690,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	}
