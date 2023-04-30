@@ -52,7 +52,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 34828
+		"count": 34830
 	},
 	{
 		"name": "ark-theme",
@@ -92,7 +92,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 71671
+		"count": 71675
 	},
 	{
 		"name": "RuLyrics",
@@ -107,17 +107,17 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.0",
-		"count": 5320
+		"count": 5321
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 13016
+		"count": 13018
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.4",
-		"count": 742
+		"count": 745
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -287,7 +287,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.2",
-		"count": 348
+		"count": 349
 	},
 	{
 		"name": "MoTheme",
@@ -297,7 +297,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 16753
+		"count": 16754
 	},
 	{
 		"name": "ark-theme",
@@ -312,7 +312,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.7.2",
-		"count": 576
+		"count": 580
 	},
 	{
 		"name": "FluentProgressBar",
@@ -332,7 +332,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 41009
+		"count": 41010
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -427,7 +427,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 4219
+		"count": 4220
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -442,12 +442,12 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.1",
-		"count": 8242
+		"count": 8244
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 7112
+		"count": 7114
 	},
 	{
 		"name": "search-on-osu",
@@ -502,7 +502,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 13459
+		"count": 13460
 	},
 	{
 		"name": "RuLyrics",
@@ -642,7 +642,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 3701
+		"count": 3702
 	},
 	{
 		"name": "BGEnhanced",
@@ -767,17 +767,17 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 100
+		"count": 102
 	},
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 2702
+		"count": 2703
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 410
+		"count": 411
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -812,7 +812,7 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 8140
+		"count": 8141
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -922,7 +922,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 8854
+		"count": 8857
 	},
 	{
 		"name": "LyricBar",
@@ -937,7 +937,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 52872
+		"count": 52874
 	},
 	{
 		"name": "light-dark-theme-switcher",
@@ -992,7 +992,7 @@
 	{
 		"name": "elaina-theme",
 		"version": "0.2.20",
-		"count": 269
+		"count": 270
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -1107,7 +1107,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 56606
+		"count": 56607
 	},
 	{
 		"name": "PlaybackRate",
@@ -1127,7 +1127,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 55445
+		"count": 55446
 	},
 	{
 		"name": "ActionEnhancement",
@@ -1147,6 +1147,6 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.0",
-		"count": 1726
+		"count": 1729
 	}
 ]
