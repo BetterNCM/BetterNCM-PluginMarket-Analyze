@@ -92,7 +92,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 74055
+		"count": 74058
 	},
 	{
 		"name": "RuLyrics",
@@ -107,7 +107,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.0",
-		"count": 5840
+		"count": 5841
 	},
 	{
 		"name": "Transmission",
@@ -117,7 +117,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.4",
-		"count": 2785
+		"count": 2788
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -287,7 +287,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.2",
-		"count": 1257
+		"count": 1259
 	},
 	{
 		"name": "MoTheme",
@@ -402,7 +402,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 4790
+		"count": 4791
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -502,7 +502,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 14095
+		"count": 14096
 	},
 	{
 		"name": "RuLyrics",
@@ -642,7 +642,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 4063
+		"count": 4064
 	},
 	{
 		"name": "BGEnhanced",
@@ -777,7 +777,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 1427
+		"count": 1428
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -922,7 +922,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 9722
+		"count": 9723
 	},
 	{
 		"name": "LyricBar",
@@ -937,7 +937,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 54054
+		"count": 54057
 	},
 	{
 		"name": "light-dark-theme-switcher",
@@ -1107,7 +1107,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 57737
+		"count": 57739
 	},
 	{
 		"name": "PlaybackRate",
@@ -1122,12 +1122,12 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.2.12",
-		"count": 12652
+		"count": 12655
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 56512
+		"count": 56514
 	},
 	{
 		"name": "ActionEnhancement",
@@ -1147,6 +1147,6 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.0",
-		"count": 4435
+		"count": 4441
 	}
 ]
