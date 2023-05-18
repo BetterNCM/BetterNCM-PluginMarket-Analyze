@@ -52,7 +52,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 47918
+		"count": 47960
 	},
 	{
 		"name": "ark-theme",
@@ -92,7 +92,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 90393
+		"count": 90448
 	},
 	{
 		"name": "RuLyrics",
@@ -107,12 +107,12 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.0",
-		"count": 9026
+		"count": 9031
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 14613
+		"count": 14622
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -212,7 +212,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 1325
+		"count": 1327
 	},
 	{
 		"name": "keyboard-seek",
@@ -297,7 +297,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 19296
+		"count": 19309
 	},
 	{
 		"name": "ark-theme",
@@ -332,7 +332,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 53869
+		"count": 53908
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -362,7 +362,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 40978
+		"count": 41017
 	},
 	{
 		"name": "MoTheme",
@@ -402,7 +402,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 8305
+		"count": 8317
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -427,7 +427,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 6817
+		"count": 6824
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -442,17 +442,17 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.1",
-		"count": 13234
+		"count": 13249
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 9130
+		"count": 9141
 	},
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 3881
+		"count": 3887
 	},
 	{
 		"name": "BGEnhanced",
@@ -467,7 +467,7 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 1443
+		"count": 1449
 	},
 	{
 		"name": "BGEnhanced",
@@ -502,7 +502,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 17356
+		"count": 17369
 	},
 	{
 		"name": "RuLyrics",
@@ -517,7 +517,7 @@
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 1561
+		"count": 1563
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -642,7 +642,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 6195
+		"count": 6203
 	},
 	{
 		"name": "BGEnhanced",
@@ -707,7 +707,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 18156
+		"count": 18170
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -767,17 +767,17 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 1538
+		"count": 1544
 	},
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 3067
+		"count": 3068
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 6946
+		"count": 6962
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -797,7 +797,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "2.0.2",
-		"count": 7869
+		"count": 7881
 	},
 	{
 		"name": "Apple-Musiclike-Lyrics",
@@ -807,12 +807,12 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 11938
+		"count": 11941
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 9186
+		"count": 9190
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -922,7 +922,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 15086
+		"count": 15106
 	},
 	{
 		"name": "LyricBar",
@@ -937,7 +937,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 61836
+		"count": 61861
 	},
 	{
 		"name": "light-dark-theme-switcher",
@@ -947,7 +947,7 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0",
-		"count": 4852
+		"count": 4854
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -982,7 +982,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 2780
+		"count": 2790
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -1022,7 +1022,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 3599
+		"count": 3600
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -1032,7 +1032,7 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 4707
+		"count": 4709
 	},
 	{
 		"name": "crossfade-lfp",
@@ -1107,7 +1107,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 65033
+		"count": 65052
 	},
 	{
 		"name": "PlaybackRate",
@@ -1122,12 +1122,12 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.2.12",
-		"count": 24493
+		"count": 24526
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 63447
+		"count": 63463
 	},
 	{
 		"name": "ActionEnhancement",
@@ -1147,6 +1147,6 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.0",
-		"count": 7850
+		"count": 7859
 	}
 ]
