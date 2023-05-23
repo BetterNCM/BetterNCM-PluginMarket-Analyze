@@ -92,7 +92,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 93999
+		"count": 94000
 	},
 	{
 		"name": "RuLyrics",
@@ -297,7 +297,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 19875
+		"count": 19876
 	},
 	{
 		"name": "ark-theme",
@@ -402,7 +402,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 9176
+		"count": 9177
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -467,7 +467,7 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 1765
+		"count": 1766
 	},
 	{
 		"name": "BGEnhanced",
@@ -502,7 +502,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 18281
+		"count": 18282
 	},
 	{
 		"name": "RuLyrics",
@@ -767,7 +767,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 1878
+		"count": 1879
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -777,7 +777,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 8261
+		"count": 8262
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -922,7 +922,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 16401
+		"count": 16403
 	},
 	{
 		"name": "LyricBar",
@@ -937,7 +937,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 63591
+		"count": 63592
 	},
 	{
 		"name": "light-dark-theme-switcher",
@@ -1032,7 +1032,7 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 4865
+		"count": 4866
 	},
 	{
 		"name": "crossfade-lfp",
@@ -1107,7 +1107,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 66788
+		"count": 66789
 	},
 	{
 		"name": "PlaybackRate",
@@ -1122,7 +1122,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.2.12",
-		"count": 27471
+		"count": 27473
 	},
 	{
 		"name": "liblyric",
@@ -1147,6 +1147,6 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.0",
-		"count": 8242
+		"count": 8243
 	}
 ]
