@@ -57,7 +57,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 55282
+		"count": 55318
 	},
 	{
 		"name": "ark-theme",
@@ -67,7 +67,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 5109
+		"count": 5155
 	},
 	{
 		"name": "MoTheme",
@@ -102,7 +102,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 101353
+		"count": 101399
 	},
 	{
 		"name": "RuLyrics",
@@ -117,12 +117,12 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.0",
-		"count": 11367
+		"count": 11382
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 15582
+		"count": 15586
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -227,7 +227,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 1794
+		"count": 1795
 	},
 	{
 		"name": "keyboard-seek",
@@ -282,7 +282,7 @@
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 4273
+		"count": 4274
 	},
 	{
 		"name": "InfLink",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 20910
+		"count": 20919
 	},
 	{
 		"name": "ark-theme",
@@ -347,7 +347,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 61072
+		"count": 61106
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -377,7 +377,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 47563
+		"count": 47593
 	},
 	{
 		"name": "MoTheme",
@@ -417,12 +417,12 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 10859
+		"count": 10876
 	},
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 2513
+		"count": 2535
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -447,7 +447,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 8537
+		"count": 8549
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -462,17 +462,17 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.1",
-		"count": 16384
+		"count": 16409
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 10485
+		"count": 10495
 	},
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 4194
+		"count": 4195
 	},
 	{
 		"name": "BGEnhanced",
@@ -482,12 +482,12 @@
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 5188
+		"count": 5190
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 2428
+		"count": 2436
 	},
 	{
 		"name": "BGEnhanced",
@@ -522,12 +522,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 20077
+		"count": 20090
 	},
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.7",
-		"count": 619
+		"count": 625
 	},
 	{
 		"name": "RuLyrics",
@@ -602,7 +602,7 @@
 	{
 		"name": "vocaloid-info",
 		"version": "1.1.7",
-		"count": 261
+		"count": 262
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -677,7 +677,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 7712
+		"count": 7721
 	},
 	{
 		"name": "BGEnhanced",
@@ -712,7 +712,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.2",
-		"count": 7234
+		"count": 7296
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -747,7 +747,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 19936
+		"count": 19945
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -767,7 +767,7 @@
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 361
+		"count": 367
 	},
 	{
 		"name": "play-with-bilibili",
@@ -782,7 +782,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 4092
+		"count": 4117
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -817,17 +817,17 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 2616
+		"count": 2622
 	},
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 3314
+		"count": 3315
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 11015
+		"count": 11039
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -857,12 +857,12 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 12861
+		"count": 12865
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 9905
+		"count": 9909
 	},
 	{
 		"name": "RefinedNowPlaying",
@@ -897,7 +897,7 @@
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 324
+		"count": 326
 	},
 	{
 		"name": "BGEnhanced",
@@ -977,7 +977,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 18974
+		"count": 18993
 	},
 	{
 		"name": "LyricBar",
@@ -992,7 +992,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 67116
+		"count": 67141
 	},
 	{
 		"name": "light-dark-theme-switcher",
@@ -1002,7 +1002,7 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0",
-		"count": 5362
+		"count": 5366
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -1037,7 +1037,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 4525
+		"count": 4533
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -1077,7 +1077,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 3902
+		"count": 3904
 	},
 	{
 		"name": "Taskbar-Lyrics",
@@ -1087,7 +1087,7 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 5173
+		"count": 5176
 	},
 	{
 		"name": "crossfade-lfp",
@@ -1162,7 +1162,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 70213
+		"count": 70244
 	},
 	{
 		"name": "PlaybackRate",
@@ -1177,12 +1177,12 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.2.12",
-		"count": 32385
+		"count": 32414
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 68393
+		"count": 68426
 	},
 	{
 		"name": "ActionEnhancement",
@@ -1202,6 +1202,6 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.0",
-		"count": 9058
+		"count": 9068
 	}
 ]
