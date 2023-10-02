@@ -1,11 +1,11 @@
 [
 	{
-		"count": 99780,
+		"count": 99785,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 35325,
+		"count": 35326,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,42 +15,42 @@
 		"version": "all"
 	},
 	{
-		"count": 28643,
+		"count": 28644,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 10513,
+		"count": 10515,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 82758,
+		"count": 82766,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 27026,
+		"count": 27029,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 10663,
+		"count": 10665,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 18346,
+		"count": 18348,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 83037,
+		"count": 83047,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 52565,
+		"count": 52574,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,27 +60,27 @@
 		"version": "all"
 	},
 	{
-		"count": 32710,
+		"count": 32717,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 111765,
+		"count": 111776,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 2939,
+		"count": 2943,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 52314,
+		"count": 52316,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 31118,
+		"count": 31124,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,62 +90,62 @@
 		"version": "all"
 	},
 	{
-		"count": 85074,
+		"count": 85079,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 5316,
+		"count": 5317,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 61568,
+		"count": 61572,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 125334,
+		"count": 125344,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 9183,
+		"count": 9185,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 85930,
+		"count": 85937,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 4983,
+		"count": 4984,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 80507,
+		"count": 80517,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 10200,
+		"count": 10202,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 10487,
+		"count": 10488,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 114,
+		"count": 115,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 29906,
+		"count": 29909,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,12 +160,12 @@
 		"version": "all"
 	},
 	{
-		"count": 80596,
+		"count": 80601,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 899,
+		"count": 901,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 29467,
+		"count": 29468,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 14978,
+		"count": 14979,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,32 +195,32 @@
 		"version": "all"
 	},
 	{
-		"count": 61001,
+		"count": 61008,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 4945,
+		"count": 4947,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
 	{
-		"count": 5936,
+		"count": 5937,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 20457,
+		"count": 20459,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 31476,
+		"count": 31482,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 6818,
+		"count": 6819,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 83236,
+		"count": 83246,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 25766,
+		"count": 25767,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
