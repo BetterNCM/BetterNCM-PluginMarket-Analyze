@@ -1,11 +1,11 @@
 [
 	{
-		"count": 100088,
+		"count": 100094,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 35446,
+		"count": 35447,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 83113,
+		"count": 83120,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 27096,
+		"count": 27097,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,12 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 83283,
+		"count": 83286,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 52750,
+		"count": 52755,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,12 +60,12 @@
 		"version": "all"
 	},
 	{
-		"count": 32844,
+		"count": 32846,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 112292,
+		"count": 112305,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -75,7 +75,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52473,
+		"count": 52479,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 85354,
+		"count": 85360,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 61781,
+		"count": 61784,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 125804,
+		"count": 125813,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 80725,
+		"count": 80727,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10528,
+		"count": 10529,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 29976,
+		"count": 29978,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 80912,
+		"count": 80918,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -180,12 +180,12 @@
 		"version": "all"
 	},
 	{
-		"count": 18059,
+		"count": 18060,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 15053,
+		"count": 15055,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 61171,
+		"count": 61173,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -215,7 +215,7 @@
 		"version": "all"
 	},
 	{
-		"count": 31597,
+		"count": 31601,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 83474,
+		"count": 83479,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -245,7 +245,7 @@
 		"version": "all"
 	},
 	{
-		"count": 5612,
+		"count": 5614,
 		"name": "relive-theme",
 		"version": "all"
 	},
