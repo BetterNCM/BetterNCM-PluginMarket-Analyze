@@ -1,11 +1,11 @@
 [
 	{
-		"count": 101280,
+		"count": 101282,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 35928,
+		"count": 35929,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 28995,
+		"count": 28996,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 84493,
+		"count": 84495,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 27350,
+		"count": 27352,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -40,17 +40,17 @@
 		"version": "all"
 	},
 	{
-		"count": 18718,
+		"count": 18719,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 84178,
+		"count": 84179,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 53469,
+		"count": 53471,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -65,17 +65,17 @@
 		"version": "all"
 	},
 	{
-		"count": 114247,
+		"count": 114252,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 3336,
+		"count": 3337,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 53072,
+		"count": 53073,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 86419,
+		"count": 86421,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 62633,
+		"count": 62636,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 127556,
+		"count": 127559,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 87265,
+		"count": 87268,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10731,
+		"count": 10732,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 82120,
+		"count": 82122,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 15380,
+		"count": 15381,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 61835,
+		"count": 61837,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -215,12 +215,12 @@
 		"version": "all"
 	},
 	{
-		"count": 32090,
+		"count": 32091,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 6937,
+		"count": 6938,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,12 +235,12 @@
 		"version": "all"
 	},
 	{
-		"count": 84355,
+		"count": 84356,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 6284,
+		"count": 6285,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
