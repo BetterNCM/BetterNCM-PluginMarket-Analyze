@@ -22,7 +22,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 180
+		"count": 182
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 2774
+		"count": 2779
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 1688
+		"count": 1693
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 498
+		"count": 499
 	},
 	{
 		"name": "VisualRecord",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 1889
+		"count": 1894
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 1387
+		"count": 1391
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 1666
+		"count": 1669
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 1902
+		"count": 1907
 	},
 	{
 		"name": "search-on-osu",
@@ -137,12 +137,12 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 3094
+		"count": 3100
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 450
+		"count": 451
 	},
 	{
 		"name": "beat-saver",
@@ -152,12 +152,12 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 1130
+		"count": 1131
 	},
 	{
 		"name": "elaina-theme",
 		"version": "1.0.5",
-		"count": 488
+		"count": 490
 	},
 	{
 		"name": "play-with-bilibili",
@@ -177,12 +177,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 1355
+		"count": 1356
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 216
+		"count": 218
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -197,12 +197,12 @@
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 241
+		"count": 242
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 2219
+		"count": 2223
 	},
 	{
 		"name": "MoreHooks",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 151
+		"count": 152
 	}
 ]
