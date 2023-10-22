@@ -1,11 +1,11 @@
 [
 	{
-		"count": 104479,
+		"count": 104492,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 37311,
+		"count": 37317,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -20,67 +20,67 @@
 		"version": "all"
 	},
 	{
-		"count": 10984,
+		"count": 10985,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 88302,
+		"count": 88325,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 28021,
+		"count": 28025,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 11124,
+		"count": 11126,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 19588,
+		"count": 19593,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 86474,
+		"count": 86482,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 55453,
+		"count": 55461,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 1530,
+		"count": 1531,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 34726,
+		"count": 34730,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 118972,
+		"count": 118989,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 4141,
+		"count": 4142,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 54648,
+		"count": 54652,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 32963,
+		"count": 32969,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 89283,
+		"count": 89295,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,32 +100,32 @@
 		"version": "all"
 	},
 	{
-		"count": 64931,
+		"count": 64939,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 132014,
+		"count": 132030,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 10328,
+		"count": 10331,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 90043,
+		"count": 90055,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 5083,
+		"count": 5085,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 83666,
+		"count": 83672,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -135,17 +135,17 @@
 		"version": "all"
 	},
 	{
-		"count": 11259,
+		"count": 11260,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 369,
+		"count": 370,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 31011,
+		"count": 31014,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -155,17 +155,17 @@
 		"version": "all"
 	},
 	{
-		"count": 5027,
+		"count": 5029,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 85229,
+		"count": 85242,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1425,
+		"count": 1427,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -175,32 +175,32 @@
 		"version": "all"
 	},
 	{
-		"count": 30451,
+		"count": 30452,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 18735,
+		"count": 18737,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 16194,
+		"count": 16196,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 15549,
+		"count": 15550,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 63601,
+		"count": 63614,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 5170,
+		"count": 5171,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -215,7 +215,7 @@
 		"version": "all"
 	},
 	{
-		"count": 33448,
+		"count": 33452,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -225,7 +225,7 @@
 		"version": "all"
 	},
 	{
-		"count": 12076,
+		"count": 12078,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,17 +235,17 @@
 		"version": "all"
 	},
 	{
-		"count": 86630,
+		"count": 86642,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 6563,
+		"count": 6564,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
 	{
-		"count": 6001,
+		"count": 6002,
 		"name": "relive-theme",
 		"version": "all"
 	},
