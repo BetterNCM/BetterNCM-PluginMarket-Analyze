@@ -22,7 +22,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 669
+		"count": 671
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 8326
+		"count": 8329
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 5306
+		"count": 5309
 	},
 	{
 		"name": "ActionEnhancement",
@@ -92,7 +92,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 1265
+		"count": 1266
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 5915
+		"count": 5919
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 4271
+		"count": 4275
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 5173
+		"count": 5175
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 5839
+		"count": 5842
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 8892
+		"count": 8897
 	},
 	{
 		"name": "TinyNCM",
@@ -152,12 +152,12 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 3615
+		"count": 3616
 	},
 	{
 		"name": "elaina-theme",
 		"version": "1.0.5",
-		"count": 1411
+		"count": 1412
 	},
 	{
 		"name": "play-with-bilibili",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 4243
+		"count": 4245
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,17 +192,17 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 3252
+		"count": 3253
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 914
+		"count": 916
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 6990
+		"count": 6991
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 1227
+		"count": 1228
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 498
+		"count": 499
 	}
 ]
