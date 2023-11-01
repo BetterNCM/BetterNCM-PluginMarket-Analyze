@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 4133
+		"count": 4134
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 11467
+		"count": 11469
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 7439
+		"count": 7440
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,12 +82,12 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 2159
+		"count": 2160
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 1909
+		"count": 1910
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -97,12 +97,12 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 759
+		"count": 761
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 8255
+		"count": 8257
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 5863
+		"count": 5864
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 7179
+		"count": 7180
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 8149
+		"count": 8150
 	},
 	{
 		"name": "search-on-osu",
@@ -137,12 +137,12 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 11913
+		"count": 11914
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 1851
+		"count": 1853
 	},
 	{
 		"name": "beat-saver",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 5025
+		"count": 5026
 	},
 	{
 		"name": "elaina-theme",
@@ -167,7 +167,7 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.1",
-		"count": 666
+		"count": 667
 	},
 	{
 		"name": "liblyric",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 5882
+		"count": 5883
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,7 +192,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 4569
+		"count": 4570
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 10052
+		"count": 10055
 	},
 	{
 		"name": "MoreHooks",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 1351
+		"count": 1352
 	},
 	{
 		"name": "libsonginfo",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 689
+		"count": 690
 	}
 ]
