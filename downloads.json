@@ -1,6 +1,6 @@
 [
 	{
-		"count": 111617,
+		"count": 111618,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 31406,
+		"count": 31407,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,7 +25,7 @@
 		"version": "all"
 	},
 	{
-		"count": 97884,
+		"count": 97887,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,12 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 91322,
+		"count": 91325,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 59962,
+		"count": 59964,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,12 +60,12 @@
 		"version": "all"
 	},
 	{
-		"count": 37654,
+		"count": 37655,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 128847,
+		"count": 128852,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -75,12 +75,12 @@
 		"version": "all"
 	},
 	{
-		"count": 58277,
+		"count": 58278,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 35760,
+		"count": 35763,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,22 +90,22 @@
 		"version": "all"
 	},
 	{
-		"count": 95730,
+		"count": 95731,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 5935,
+		"count": 5936,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 70063,
+		"count": 70065,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 141642,
+		"count": 141644,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 96270,
+		"count": 96271,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 88097,
+		"count": 88100,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 92234,
+		"count": 92235,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18205,
+		"count": 18206,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 67734,
+		"count": 67735,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -215,17 +215,17 @@
 		"version": "all"
 	},
 	{
-		"count": 36478,
+		"count": 36480,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 7795,
+		"count": 7796,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 12718,
+		"count": 12719,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,12 +235,12 @@
 		"version": "all"
 	},
 	{
-		"count": 91685,
+		"count": 91686,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 7139,
+		"count": 7140,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
