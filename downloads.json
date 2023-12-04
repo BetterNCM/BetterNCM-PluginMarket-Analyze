@@ -1,11 +1,11 @@
 [
 	{
-		"count": 117007,
+		"count": 117025,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 43115,
+		"count": 43119,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 32677,
+		"count": 32680,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 108324,
+		"count": 108367,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 30891,
+		"count": 30895,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -40,17 +40,17 @@
 		"version": "all"
 	},
 	{
-		"count": 22919,
+		"count": 22921,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 95281,
+		"count": 95296,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 63399,
+		"count": 63414,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,27 +60,27 @@
 		"version": "all"
 	},
 	{
-		"count": 40033,
+		"count": 40046,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 135957,
+		"count": 135979,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 7273,
+		"count": 7276,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 61164,
+		"count": 61171,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 38036,
+		"count": 38041,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,32 +90,32 @@
 		"version": "all"
 	},
 	{
-		"count": 100585,
+		"count": 100604,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 6242,
+		"count": 6243,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 74179,
+		"count": 74193,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 149004,
+		"count": 149029,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 13126,
+		"count": 13129,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 101538,
+		"count": 101559,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,27 +125,27 @@
 		"version": "all"
 	},
 	{
-		"count": 91698,
+		"count": 91712,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 12360,
+		"count": 12361,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 13287,
+		"count": 13291,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 1023,
+		"count": 1024,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 34050,
+		"count": 34054,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,47 +160,47 @@
 		"version": "all"
 	},
 	{
-		"count": 97590,
+		"count": 97612,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 2615,
+		"count": 2616,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
 	{
-		"count": 5368,
+		"count": 5369,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 33037,
+		"count": 33039,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 20940,
+		"count": 20942,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 19835,
+		"count": 19841,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 17262,
+		"count": 17264,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 71054,
+		"count": 71061,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 5818,
+		"count": 5819,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -210,17 +210,17 @@
 		"version": "all"
 	},
 	{
-		"count": 23721,
+		"count": 23722,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 38810,
+		"count": 38822,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 8277,
+		"count": 8279,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,22 +235,22 @@
 		"version": "all"
 	},
 	{
-		"count": 95453,
+		"count": 95464,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 7585,
+		"count": 7586,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
 	{
-		"count": 7160,
+		"count": 7161,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 28923,
+		"count": 28926,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
