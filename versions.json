@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 9945
+		"count": 9949
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,22 +32,22 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 26569
+		"count": 26570
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 1016
+		"count": 1017
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 17469
+		"count": 17471
 	},
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.7",
-		"count": 1935
+		"count": 1937
 	},
 	{
 		"name": "ark-theme",
@@ -67,7 +67,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 3453
+		"count": 3454
 	},
 	{
 		"name": "vocaloid-info",
@@ -87,7 +87,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 4694
+		"count": 4696
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 19457
+		"count": 19460
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 13480
+		"count": 13483
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 17946
+		"count": 17948
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 19146
+		"count": 19148
 	},
 	{
 		"name": "search-on-osu",
@@ -137,12 +137,12 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 26429
+		"count": 26433
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 4373
+		"count": 4374
 	},
 	{
 		"name": "beat-saver",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 12052
+		"count": 12053
 	},
 	{
 		"name": "elaina-theme",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 14099
+		"count": 14101
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,17 +192,17 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 11287
+		"count": 11288
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 3341
+		"count": 3342
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 32008
+		"count": 32014
 	},
 	{
 		"name": "MoreHooks",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 8073
+		"count": 8074
 	},
 	{
 		"name": "LogCleaner",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 1776
+		"count": 1777
 	}
 ]
