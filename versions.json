@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 27146
+		"count": 27151
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,12 +42,12 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 17866
+		"count": 17869
 	},
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.7",
-		"count": 1971
+		"count": 1972
 	},
 	{
 		"name": "ark-theme",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 19904
+		"count": 19906
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 13718
+		"count": 13721
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 18412
+		"count": 18415
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 19584
+		"count": 19586
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 26908
+		"count": 26914
 	},
 	{
 		"name": "TinyNCM",
@@ -162,7 +162,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 1884
+		"count": 1885
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -172,12 +172,12 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 12730
+		"count": 12731
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 14402
+		"count": 14404
 	},
 	{
 		"name": "FluentMusicCover",
@@ -187,7 +187,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 13913
+		"count": 13914
 	},
 	{
 		"name": "FluentProgressBar",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 33040
+		"count": 33046
 	},
 	{
 		"name": "MoreHooks",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 8229
+		"count": 8230
 	},
 	{
 		"name": "LogCleaner",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 1817
+		"count": 1818
 	}
 ]
