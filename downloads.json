@@ -1,6 +1,6 @@
 [
 	{
-		"count": 121742,
+		"count": 121745,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,7 +25,7 @@
 		"version": "all"
 	},
 	{
-		"count": 120210,
+		"count": 120211,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,17 +40,17 @@
 		"version": "all"
 	},
 	{
-		"count": 23974,
+		"count": 23975,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 98319,
+		"count": 98321,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 66068,
+		"count": 66070,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,17 +60,17 @@
 		"version": "all"
 	},
 	{
-		"count": 41746,
+		"count": 41747,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 140808,
+		"count": 140811,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 8187,
+		"count": 8188,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -90,22 +90,22 @@
 		"version": "all"
 	},
 	{
-		"count": 104784,
+		"count": 104787,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 6465,
+		"count": 6466,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 77369,
+		"count": 77371,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 155112,
+		"count": 155115,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,17 +115,17 @@
 		"version": "all"
 	},
 	{
-		"count": 106768,
+		"count": 106770,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 5493,
+		"count": 5494,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 94487,
+		"count": 94488,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 35276,
+		"count": 35277,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 102157,
+		"count": 102160,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -215,12 +215,12 @@
 		"version": "all"
 	},
 	{
-		"count": 40647,
+		"count": 40648,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 8574,
+		"count": 8575,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -230,12 +230,12 @@
 		"version": "all"
 	},
 	{
-		"count": 6701,
+		"count": 6702,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 98180,
+		"count": 98182,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 29688,
+		"count": 29689,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
