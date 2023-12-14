@@ -7,22 +7,22 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 11140
+		"count": 11142
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 2061
+		"count": 2062
 	},
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 806
+		"count": 807
 	},
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 2940
+		"count": 2941
 	},
 	{
 		"name": "PluginMarket",
@@ -32,47 +32,47 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 29644
+		"count": 29659
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 1137
+		"count": 1140
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 19597
+		"count": 19608
 	},
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.7",
-		"count": 2159
+		"count": 2160
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 4175
+		"count": 4176
 	},
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 791
+		"count": 792
 	},
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 9109
+		"count": 9116
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 3889
+		"count": 3891
 	},
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 1141
+		"count": 1142
 	},
 	{
 		"name": "relive-theme",
@@ -82,17 +82,17 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 5601
+		"count": 5604
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 5331
+		"count": 5334
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 4864
+		"count": 4867
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 21838
+		"count": 21850
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 14882
+		"count": 14894
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 20211
+		"count": 20222
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 21442
+		"count": 21453
 	},
 	{
 		"name": "search-on-osu",
@@ -137,27 +137,27 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 28998
+		"count": 29008
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 4873
+		"count": 4876
 	},
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 1087
+		"count": 1089
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 13427
+		"count": 13437
 	},
 	{
 		"name": "elaina-theme",
 		"version": "1.0.5",
-		"count": 4742
+		"count": 4743
 	},
 	{
 		"name": "play-with-bilibili",
@@ -172,37 +172,37 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 13914
+		"count": 13922
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 15725
+		"count": 15733
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 2668
+		"count": 2670
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 15207
+		"count": 15215
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 12674
+		"count": 12685
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 3811
+		"count": 3813
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 37133
+		"count": 37163
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 4342
+		"count": 4344
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 8999
+		"count": 9006
 	},
 	{
 		"name": "LogCleaner",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 3312
+		"count": 3313
 	},
 	{
 		"name": "libsonginfo",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 8689
+		"count": 8693
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 2009
+		"count": 2010
 	}
 ]
