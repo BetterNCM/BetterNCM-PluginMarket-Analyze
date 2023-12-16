@@ -1,6 +1,6 @@
 [
 	{
-		"count": 122399,
+		"count": 122400,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 121468,
+		"count": 121470,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 32081,
+		"count": 32082,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,17 +45,17 @@
 		"version": "all"
 	},
 	{
-		"count": 98806,
+		"count": 98807,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 66493,
+		"count": 66496,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 2499,
+		"count": 2500,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
@@ -65,12 +65,12 @@
 		"version": "all"
 	},
 	{
-		"count": 141524,
+		"count": 141527,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 8350,
+		"count": 8351,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 105358,
+		"count": 105359,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 77871,
+		"count": 77872,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 156010,
+		"count": 156011,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 107627,
+		"count": 107628,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 102779,
+		"count": 102780,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 33972,
+		"count": 33973,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 74129,
+		"count": 74130,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -215,12 +215,12 @@
 		"version": "all"
 	},
 	{
-		"count": 40925,
+		"count": 40927,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 8617,
+		"count": 8618,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 29819,
+		"count": 29820,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
