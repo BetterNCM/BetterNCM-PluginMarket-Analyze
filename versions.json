@@ -2,12 +2,12 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 615
+		"count": 616
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 11737
+		"count": 11738
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 31240
+		"count": 31242
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 20663
+		"count": 20665
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 5925
+		"count": 5926
 	},
 	{
 		"name": "VisualRecord",
@@ -92,7 +92,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 5141
+		"count": 5142
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 23041
+		"count": 23045
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 15621
+		"count": 15623
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 21197
+		"count": 21198
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 22602
+		"count": 22604
 	},
 	{
 		"name": "search-on-osu",
@@ -137,12 +137,12 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 30339
+		"count": 30341
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 5143
+		"count": 5145
 	},
 	{
 		"name": "beat-saver",
@@ -157,7 +157,7 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.5",
-		"count": 5003
+		"count": 5005
 	},
 	{
 		"name": "play-with-bilibili",
@@ -167,7 +167,7 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.1",
-		"count": 1808
+		"count": 1810
 	},
 	{
 		"name": "liblyric",
@@ -182,12 +182,12 @@
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 2815
+		"count": 2817
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 16040
+		"count": 16041
 	},
 	{
 		"name": "FluentProgressBar",
@@ -197,12 +197,12 @@
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 4030
+		"count": 4031
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 39418
+		"count": 39421
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 4606
+		"count": 4607
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -227,7 +227,7 @@
 	{
 		"name": "LogCleaner",
 		"version": "0.0.6",
-		"count": 1035
+		"count": 1036
 	},
 	{
 		"name": "RevivedSource",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 2137
+		"count": 2138
 	}
 ]
