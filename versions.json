@@ -2,17 +2,17 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 637
+		"count": 638
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 12206
+		"count": 12212
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 2256
+		"count": 2257
 	},
 	{
 		"name": "HideScrollbar",
@@ -22,7 +22,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 3283
+		"count": 3284
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 32352
+		"count": 32369
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,17 +42,17 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 21454
+		"count": 21466
 	},
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.7",
-		"count": 2361
+		"count": 2363
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 4604
+		"count": 4608
 	},
 	{
 		"name": "search-this-singer",
@@ -62,47 +62,47 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 9973
+		"count": 9978
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 4267
+		"count": 4270
 	},
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 1260
+		"count": 1262
 	},
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 2146
+		"count": 2147
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 6144
+		"count": 6151
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 5871
+		"count": 5875
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 5326
+		"count": 5329
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 2281
+		"count": 2282
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 23910
+		"count": 23922
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,17 +117,17 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 16183
+		"count": 16190
 	},
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.2",
-		"count": 21901
+		"count": 21916
 	},
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 23451
+		"count": 23463
 	},
 	{
 		"name": "search-on-osu",
@@ -137,12 +137,12 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 31422
+		"count": 31445
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 5325
+		"count": 5327
 	},
 	{
 		"name": "beat-saver",
@@ -152,12 +152,12 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 14666
+		"count": 14674
 	},
 	{
 		"name": "elaina-theme",
 		"version": "1.0.5",
-		"count": 5193
+		"count": 5194
 	},
 	{
 		"name": "play-with-bilibili",
@@ -167,17 +167,17 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.1",
-		"count": 1900
+		"count": 1901
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 15178
+		"count": 15187
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 17255
+		"count": 17265
 	},
 	{
 		"name": "FluentMusicCover",
@@ -187,22 +187,22 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 16618
+		"count": 16629
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 13867
+		"count": 13871
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 4216
+		"count": 4221
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 40903
+		"count": 40934
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 4766
+		"count": 4770
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 9829
+		"count": 9837
 	},
 	{
 		"name": "LogCleaner",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 3611
+		"count": 3613
 	},
 	{
 		"name": "libsonginfo",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 9520
+		"count": 9524
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 2230
+		"count": 2231
 	}
 ]
