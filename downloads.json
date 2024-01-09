@@ -1,11 +1,11 @@
 [
 	{
-		"count": 129009,
+		"count": 129032,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 48612,
+		"count": 48619,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,42 +15,42 @@
 		"version": "all"
 	},
 	{
-		"count": 35203,
+		"count": 35206,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 13307,
+		"count": 13308,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 132090,
+		"count": 132116,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 33584,
+		"count": 33589,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 13398,
+		"count": 13401,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 25827,
+		"count": 25832,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 103264,
+		"count": 103276,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 70423,
+		"count": 70431,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,27 +60,27 @@
 		"version": "all"
 	},
 	{
-		"count": 44684,
+		"count": 44693,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 148847,
+		"count": 148866,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 10933,
+		"count": 10937,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 67206,
+		"count": 67218,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 42751,
+		"count": 42759,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 111376,
+		"count": 111398,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,32 +100,32 @@
 		"version": "all"
 	},
 	{
-		"count": 82750,
+		"count": 82762,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 164616,
+		"count": 164642,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 16128,
+		"count": 16135,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 116722,
+		"count": 116739,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 5704,
+		"count": 5705,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 98951,
+		"count": 98964,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -135,17 +135,17 @@
 		"version": "all"
 	},
 	{
-		"count": 14958,
+		"count": 14959,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 1523,
+		"count": 1524,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 37122,
+		"count": 37129,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 109280,
+		"count": 109305,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,32 +175,32 @@
 		"version": "all"
 	},
 	{
-		"count": 35341,
+		"count": 35346,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 23283,
+		"count": 23286,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 23249,
+		"count": 23257,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 19075,
+		"count": 19079,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 77982,
+		"count": 77991,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 6382,
+		"count": 6383,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -210,22 +210,22 @@
 		"version": "all"
 	},
 	{
-		"count": 25938,
+		"count": 25939,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 43732,
+		"count": 43738,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 9203,
+		"count": 9204,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 14476,
+		"count": 14481,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 103323,
+		"count": 103341,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -245,12 +245,12 @@
 		"version": "all"
 	},
 	{
-		"count": 8224,
+		"count": 8226,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 31102,
+		"count": 31107,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
