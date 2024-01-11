@@ -1,11 +1,11 @@
 [
 	{
-		"count": 129765,
+		"count": 129775,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 48924,
+		"count": 48937,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,42 +15,42 @@
 		"version": "all"
 	},
 	{
-		"count": 35355,
+		"count": 35359,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 13358,
+		"count": 13359,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 133069,
+		"count": 133086,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 33755,
+		"count": 33761,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 13469,
+		"count": 13470,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 25999,
+		"count": 26006,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 103715,
+		"count": 103724,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 70845,
+		"count": 70853,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,27 +60,27 @@
 		"version": "all"
 	},
 	{
-		"count": 44972,
+		"count": 44978,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 149637,
+		"count": 149650,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 11175,
+		"count": 11181,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 67597,
+		"count": 67600,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 43004,
+		"count": 43011,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112073,
+		"count": 112081,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,22 +100,22 @@
 		"version": "all"
 	},
 	{
-		"count": 83249,
+		"count": 83260,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 165571,
+		"count": 165587,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 16342,
+		"count": 16346,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 117502,
+		"count": 117521,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,27 +125,27 @@
 		"version": "all"
 	},
 	{
-		"count": 99365,
+		"count": 99374,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 13920,
+		"count": 13921,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 15080,
+		"count": 15083,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 1548,
+		"count": 1550,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 37318,
+		"count": 37322,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 110046,
+		"count": 110055,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,32 +175,32 @@
 		"version": "all"
 	},
 	{
-		"count": 35535,
+		"count": 35538,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 23428,
+		"count": 23430,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 23483,
+		"count": 23484,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 19180,
+		"count": 19183,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 78378,
+		"count": 78384,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 6428,
+		"count": 6429,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -210,17 +210,17 @@
 		"version": "all"
 	},
 	{
-		"count": 26069,
+		"count": 26071,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 44016,
+		"count": 44020,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 9263,
+		"count": 9264,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -230,12 +230,12 @@
 		"version": "all"
 	},
 	{
-		"count": 6879,
+		"count": 6880,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 103962,
+		"count": 103974,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 31242,
+		"count": 31244,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
