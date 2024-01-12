@@ -1,11 +1,11 @@
 [
 	{
-		"count": 129850,
+		"count": 129862,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 48977,
+		"count": 48985,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 35371,
+		"count": 35375,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,62 +25,62 @@
 		"version": "all"
 	},
 	{
-		"count": 133191,
+		"count": 133207,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 33778,
+		"count": 33780,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 13477,
+		"count": 13478,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 26020,
+		"count": 26023,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 103766,
+		"count": 103779,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 70902,
+		"count": 70911,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 2836,
+		"count": 2838,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 45008,
+		"count": 45013,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 149738,
+		"count": 149748,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 11207,
+		"count": 11211,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 67628,
+		"count": 67633,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 43035,
+		"count": 43045,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112151,
+		"count": 112159,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,22 +100,22 @@
 		"version": "all"
 	},
 	{
-		"count": 83307,
+		"count": 83316,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 165680,
+		"count": 165691,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 16374,
+		"count": 16375,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 117595,
+		"count": 117612,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 99414,
+		"count": 99426,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 13925,
+		"count": 13926,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 15095,
+		"count": 15097,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 37345,
+		"count": 37347,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 110127,
+		"count": 110136,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,27 +175,27 @@
 		"version": "all"
 	},
 	{
-		"count": 35556,
+		"count": 35559,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 23442,
+		"count": 23445,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 23502,
+		"count": 23504,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 19191,
+		"count": 19194,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 78414,
+		"count": 78420,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -205,37 +205,37 @@
 		"version": "all"
 	},
 	{
-		"count": 7071,
+		"count": 7072,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 26082,
+		"count": 26086,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 44062,
+		"count": 44068,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 9265,
+		"count": 9267,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 14561,
+		"count": 14562,
 		"name": "Microrange",
 		"version": "all"
 	},
 	{
-		"count": 6881,
+		"count": 6882,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 104031,
+		"count": 104038,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 31255,
+		"count": 31258,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
