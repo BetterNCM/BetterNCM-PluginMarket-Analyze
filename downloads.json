@@ -1,6 +1,6 @@
 [
 	{
-		"count": 132560,
+		"count": 132561,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,17 +20,17 @@
 		"version": "all"
 	},
 	{
-		"count": 13588,
+		"count": 13589,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 136990,
+		"count": 136991,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 34343,
+		"count": 34344,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,12 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 105543,
+		"count": 105545,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 72542,
+		"count": 72544,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -65,7 +65,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152690,
+		"count": 152693,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -75,7 +75,7 @@
 		"version": "all"
 	},
 	{
-		"count": 68969,
+		"count": 68970,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 114661,
+		"count": 114662,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 85286,
+		"count": 85288,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 169243,
+		"count": 169245,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 38033,
+		"count": 38035,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112865,
+		"count": 112866,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 36213,
+		"count": 36214,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 24259,
+		"count": 24260,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 6560,
+		"count": 6561,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -215,7 +215,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45211,
+		"count": 45212,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -230,12 +230,12 @@
 		"version": "all"
 	},
 	{
-		"count": 6936,
+		"count": 6937,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 106080,
+		"count": 106082,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -245,7 +245,7 @@
 		"version": "all"
 	},
 	{
-		"count": 8522,
+		"count": 8523,
 		"name": "relive-theme",
 		"version": "all"
 	},
