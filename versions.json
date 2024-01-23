@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 16832
+		"count": 16838
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -17,12 +17,12 @@
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 1249
+		"count": 1250
 	},
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 4521
+		"count": 4522
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 44381
+		"count": 44395
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 29903
+		"count": 29915
 	},
 	{
 		"name": "ActionEnhancement",
@@ -52,7 +52,7 @@
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 6411
+		"count": 6416
 	},
 	{
 		"name": "search-this-singer",
@@ -62,47 +62,47 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 13886
+		"count": 13891
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 6081
+		"count": 6082
 	},
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 1677
+		"count": 1678
 	},
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 2972
+		"count": 2973
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 8477
+		"count": 8480
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 8209
+		"count": 8212
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 7408
+		"count": 7409
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 3110
+		"count": 3111
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 33129
+		"count": 33142
 	},
 	{
 		"name": "PlaybackRate",
@@ -117,7 +117,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 23071
+		"count": 23074
 	},
 	{
 		"name": "RoundCornerNCM",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 32621
+		"count": 32633
 	},
 	{
 		"name": "search-on-osu",
@@ -137,22 +137,22 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 41417
+		"count": 41427
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 7451
+		"count": 7453
 	},
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 1543
+		"count": 1544
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 20204
+		"count": 20207
 	},
 	{
 		"name": "elaina-theme",
@@ -162,47 +162,47 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 3138
+		"count": 3140
 	},
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.1",
-		"count": 2636
+		"count": 2639
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 20730
+		"count": 20736
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 23981
+		"count": 23991
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 4111
+		"count": 4113
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 22742
+		"count": 22748
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 19203
+		"count": 19212
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 5832
+		"count": 5836
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 54682
+		"count": 54696
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 6837
+		"count": 6839
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 13500
+		"count": 13505
 	},
 	{
 		"name": "LogCleaner",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 5057
+		"count": 5059
 	},
 	{
 		"name": "libsonginfo",
@@ -242,16 +242,16 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 13099
+		"count": 13104
 	},
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 2720
+		"count": 2722
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 3135
+		"count": 3137
 	}
 ]
