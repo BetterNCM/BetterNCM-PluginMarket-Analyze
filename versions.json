@@ -7,12 +7,12 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 17608
+		"count": 17610
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 3352
+		"count": 3353
 	},
 	{
 		"name": "HideScrollbar",
@@ -22,7 +22,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 4681
+		"count": 4683
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 46230
+		"count": 46251
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 31174
+		"count": 31184
 	},
 	{
 		"name": "ActionEnhancement",
@@ -52,7 +52,7 @@
 	{
 		"name": "ark-theme",
 		"version": "0.2.10",
-		"count": 6727
+		"count": 6728
 	},
 	{
 		"name": "search-this-singer",
@@ -62,52 +62,52 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 14544
+		"count": 14549
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 6401
+		"count": 6405
 	},
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 1762
+		"count": 1763
 	},
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 3123
+		"count": 3124
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 8881
+		"count": 8885
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 8621
+		"count": 8626
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 7755
+		"count": 7757
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 3255
+		"count": 3258
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 34506
+		"count": 34517
 	},
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 1731
+		"count": 1734
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -117,7 +117,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.6",
-		"count": 24126
+		"count": 24134
 	},
 	{
 		"name": "RoundCornerNCM",
@@ -127,22 +127,22 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 34006
+		"count": 34017
 	},
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 848
+		"count": 849
 	},
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 42919
+		"count": 42929
 	},
 	{
 		"name": "TinyNCM",
 		"version": "1.0.2",
-		"count": 7807
+		"count": 7810
 	},
 	{
 		"name": "beat-saver",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 21110
+		"count": 21119
 	},
 	{
 		"name": "elaina-theme",
@@ -167,42 +167,42 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.1",
-		"count": 2794
+		"count": 2795
 	},
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 21614
+		"count": 21624
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 25023
+		"count": 25036
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 4338
+		"count": 4341
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 23717
+		"count": 23727
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 20097
+		"count": 20107
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 6029
+		"count": 6030
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 56554
+		"count": 56567
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 7209
+		"count": 7212
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 14079
+		"count": 14088
 	},
 	{
 		"name": "LogCleaner",
@@ -232,26 +232,26 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 5323
+		"count": 5327
 	},
 	{
 		"name": "libsonginfo",
 		"version": "1.0.0",
-		"count": 65
+		"count": 66
 	},
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 13686
+		"count": 13690
 	},
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 2870
+		"count": 2872
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 3282
+		"count": 3283
 	}
 ]
