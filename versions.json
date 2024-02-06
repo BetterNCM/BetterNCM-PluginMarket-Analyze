@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 18480
+		"count": 18481
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -22,7 +22,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 4881
+		"count": 4882
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 48370
+		"count": 48376
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 32609
+		"count": 32612
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,17 +82,17 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 9357
+		"count": 9358
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 9097
+		"count": 9098
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 8215
+		"count": 8216
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 36063
+		"count": 36067
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,17 +127,17 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 35569
+		"count": 35572
 	},
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 906
+		"count": 907
 	},
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 44713
+		"count": 44719
 	},
 	{
 		"name": "TinyNCM",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 26269
+		"count": 26274
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,7 +192,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 21144
+		"count": 21145
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 58810
+		"count": 58816
 	},
 	{
 		"name": "MoreHooks",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 5683
+		"count": 5684
 	},
 	{
 		"name": "libsonginfo",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 3465
+		"count": 3466
 	}
 ]
