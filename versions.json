@@ -87,7 +87,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 9216
+		"count": 9217
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 45176
+		"count": 45178
 	},
 	{
 		"name": "TinyNCM",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 59408
+		"count": 59409
 	},
 	{
 		"name": "MoreHooks",
