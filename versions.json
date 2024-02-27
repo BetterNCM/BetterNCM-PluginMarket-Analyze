@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 20012
+		"count": 20013
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 52092
+		"count": 52094
 	},
 	{
 		"name": "keyboard-seek",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 38719
+		"count": 38720
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 38240
+		"count": 38241
 	},
 	{
 		"name": "search-on-osu",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 28461
+		"count": 28463
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,17 +192,17 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 23001
+		"count": 23002
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 6658
+		"count": 6659
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 63122
+		"count": 63124
 	},
 	{
 		"name": "MoreHooks",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 16174
+		"count": 16175
 	},
 	{
 		"name": "LogCleaner",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 3735
+		"count": 3736
 	}
 ]
