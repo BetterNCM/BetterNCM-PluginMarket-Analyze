@@ -1,11 +1,11 @@
 [
 	{
-		"count": 138830,
+		"count": 138839,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 53748,
+		"count": 53752,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 39306,
+		"count": 39313,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 146473,
+		"count": 146492,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 36098,
+		"count": 36099,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -40,47 +40,47 @@
 		"version": "all"
 	},
 	{
-		"count": 28728,
+		"count": 28729,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 110385,
+		"count": 110390,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 77035,
+		"count": 77041,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 3352,
+		"count": 3353,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 49060,
+		"count": 49064,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 159830,
+		"count": 159839,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 14497,
+		"count": 14503,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 72538,
+		"count": 72547,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 46979,
+		"count": 46983,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,32 +90,32 @@
 		"version": "all"
 	},
 	{
-		"count": 120409,
+		"count": 120418,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 7572,
+		"count": 7573,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 90290,
+		"count": 90299,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 177864,
+		"count": 177875,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 19078,
+		"count": 19080,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 127416,
+		"count": 127425,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 105429,
+		"count": 105433,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 15368,
+		"count": 15370,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 16951,
+		"count": 16953,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 39978,
+		"count": 39979,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 119178,
+		"count": 119187,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,27 +175,27 @@
 		"version": "all"
 	},
 	{
-		"count": 37966,
+		"count": 37970,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 24754,
+		"count": 24756,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 26387,
+		"count": 26390,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 20281,
+		"count": 20282,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 84230,
+		"count": 84233,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -210,22 +210,22 @@
 		"version": "all"
 	},
 	{
-		"count": 27661,
+		"count": 27662,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 48400,
+		"count": 48405,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 10298,
+		"count": 10299,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 15466,
+		"count": 15469,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,22 +235,22 @@
 		"version": "all"
 	},
 	{
-		"count": 111977,
+		"count": 111989,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 9928,
+		"count": 9932,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
 	{
-		"count": 9191,
+		"count": 9193,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 33352,
+		"count": 33353,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
