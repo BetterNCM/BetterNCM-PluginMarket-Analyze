@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 11118
+		"count": 11119
 	},
 	{
 		"name": "VisualRecord",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 41468
+		"count": 41469
 	},
 	{
 		"name": "PlaybackRate",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 50681
+		"count": 50683
 	},
 	{
 		"name": "TinyNCM",
@@ -147,7 +147,7 @@
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 1912
+		"count": 1913
 	},
 	{
 		"name": "LibFrontendPlay",
@@ -167,7 +167,7 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.1",
-		"count": 3251
+		"count": 3252
 	},
 	{
 		"name": "liblyric",
@@ -197,12 +197,12 @@
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 7083
+		"count": 7084
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 67590
+		"count": 67592
 	},
 	{
 		"name": "MoreHooks",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 16880
+		"count": 16881
 	},
 	{
 		"name": "CrashFix",
