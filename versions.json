@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 21899
+		"count": 21900
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 56932
+		"count": 56934
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 38281
+		"count": 38283
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,12 +82,12 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 11359
+		"count": 11360
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 10970
+		"count": 10971
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 42264
+		"count": 42266
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 41849
+		"count": 41851
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 51517
+		"count": 51518
 	},
 	{
 		"name": "TinyNCM",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 68806
+		"count": 68809
 	},
 	{
 		"name": "MoreHooks",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 4085
+		"count": 4086
 	}
 ]
