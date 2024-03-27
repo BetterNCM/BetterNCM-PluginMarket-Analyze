@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 22446
+		"count": 22448
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -17,7 +17,7 @@
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 1757
+		"count": 1758
 	},
 	{
 		"name": "Unbounded",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 58218
+		"count": 58229
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 39146
+		"count": 39154
 	},
 	{
 		"name": "ActionEnhancement",
@@ -62,17 +62,17 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 18886
+		"count": 18888
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 8527
+		"count": 8529
 	},
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 2257
+		"count": 2258
 	},
 	{
 		"name": "relive-theme",
@@ -82,17 +82,17 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 11643
+		"count": 11645
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 11247
+		"count": 11248
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 10162
+		"count": 10163
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 43203
+		"count": 43211
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,17 +127,17 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 42795
+		"count": 42804
 	},
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 1155
+		"count": 1156
 	},
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 52449
+		"count": 52458
 	},
 	{
 		"name": "TinyNCM",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 27318
+		"count": 27320
 	},
 	{
 		"name": "elaina-theme",
@@ -177,12 +177,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 31900
+		"count": 31906
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 5908
+		"count": 5909
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -197,12 +197,12 @@
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 7361
+		"count": 7362
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 70340
+		"count": 70350
 	},
 	{
 		"name": "MoreHooks",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 4175
+		"count": 4178
 	}
 ]
