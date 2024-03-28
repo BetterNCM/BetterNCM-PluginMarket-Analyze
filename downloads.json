@@ -1,6 +1,6 @@
 [
 	{
-		"count": 143001,
+		"count": 143004,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,72 +15,72 @@
 		"version": "all"
 	},
 	{
-		"count": 40839,
+		"count": 40841,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 14698,
+		"count": 14699,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 153172,
+		"count": 153177,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 37193,
+		"count": 37195,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 15000,
+		"count": 15001,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 29993,
+		"count": 29995,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 113491,
+		"count": 113492,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 79889,
+		"count": 79892,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 3565,
+		"count": 3566,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 51077,
+		"count": 51078,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 164155,
+		"count": 164156,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 16195,
+		"count": 16197,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 74787,
+		"count": 74791,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 48833,
+		"count": 48834,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 124246,
+		"count": 124249,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,42 +100,42 @@
 		"version": "all"
 	},
 	{
-		"count": 93487,
+		"count": 93490,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 183575,
+		"count": 183578,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 20238,
+		"count": 20240,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 131710,
+		"count": 131712,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 6142,
+		"count": 6143,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 108277,
+		"count": 108278,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 16122,
+		"count": 16123,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 17916,
+		"count": 17917,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -160,12 +160,12 @@
 		"version": "all"
 	},
 	{
-		"count": 123414,
+		"count": 123417,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 5187,
+		"count": 5188,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -175,27 +175,27 @@
 		"version": "all"
 	},
 	{
-		"count": 38994,
+		"count": 38996,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 25409,
+		"count": 25410,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 27750,
+		"count": 27753,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 20816,
+		"count": 20817,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 86909,
+		"count": 86910,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -205,27 +205,27 @@
 		"version": "all"
 	},
 	{
-		"count": 7699,
+		"count": 7700,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 28243,
+		"count": 28245,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 50369,
+		"count": 50371,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 10769,
+		"count": 10770,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 15875,
+		"count": 15877,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 115296,
+		"count": 115298,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -245,12 +245,12 @@
 		"version": "all"
 	},
 	{
-		"count": 9584,
+		"count": 9585,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 34308,
+		"count": 34309,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
