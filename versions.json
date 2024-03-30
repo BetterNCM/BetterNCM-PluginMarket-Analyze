@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 22678
+		"count": 22680
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -17,12 +17,12 @@
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 1782
+		"count": 1783
 	},
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 5820
+		"count": 5823
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 58857
+		"count": 58866
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 39596
+		"count": 39604
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 11771
+		"count": 11772
 	},
 	{
 		"name": "VisualRecord",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 43677
+		"count": 43688
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 43279
+		"count": 43288
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 52810
+		"count": 52816
 	},
 	{
 		"name": "TinyNCM",
@@ -177,12 +177,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 32235
+		"count": 32238
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 5993
+		"count": 5994
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -192,17 +192,17 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 26158
+		"count": 26161
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 7435
+		"count": 7437
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 71172
+		"count": 71184
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 9635
+		"count": 9636
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 7523
+		"count": 7525
 	},
 	{
 		"name": "libsonginfo",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 4217
+		"count": 4218
 	}
 ]
