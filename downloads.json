@@ -1,6 +1,6 @@
 [
 	{
-		"count": 144349,
+		"count": 144356,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41136,
+		"count": 41139,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,7 +25,7 @@
 		"version": "all"
 	},
 	{
-		"count": 155778,
+		"count": 155788,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,7 +40,7 @@
 		"version": "all"
 	},
 	{
-		"count": 30233,
+		"count": 30234,
 		"name": "LyricBar",
 		"version": "all"
 	},
@@ -55,7 +55,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3599,
+		"count": 3600,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
@@ -65,12 +65,12 @@
 		"version": "all"
 	},
 	{
-		"count": 164777,
+		"count": 164778,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 16458,
+		"count": 16461,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 125540,
+		"count": 125546,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,22 +100,22 @@
 		"version": "all"
 	},
 	{
-		"count": 94128,
+		"count": 94132,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 185186,
+		"count": 185193,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 20477,
+		"count": 20478,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 132711,
+		"count": 132713,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -135,12 +135,12 @@
 		"version": "all"
 	},
 	{
-		"count": 18073,
+		"count": 18074,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 2118,
+		"count": 2119,
 		"name": "beat-saver",
 		"version": "all"
 	},
@@ -155,17 +155,17 @@
 		"version": "all"
 	},
 	{
-		"count": 6613,
+		"count": 6614,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 124754,
+		"count": 124760,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 5290,
+		"count": 5291,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 39195,
+		"count": 39196,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -190,12 +190,12 @@
 		"version": "all"
 	},
 	{
-		"count": 20925,
+		"count": 20926,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 87506,
+		"count": 87509,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -210,12 +210,12 @@
 		"version": "all"
 	},
 	{
-		"count": 28339,
+		"count": 28340,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 50775,
+		"count": 50776,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -235,12 +235,12 @@
 		"version": "all"
 	},
 	{
-		"count": 116257,
+		"count": 116264,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 10938,
+		"count": 10939,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 34486,
+		"count": 34487,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
