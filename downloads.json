@@ -1,11 +1,11 @@
 [
 	{
-		"count": 146529,
+		"count": 146539,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 56310,
+		"count": 56314,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41619,
+		"count": 41624,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,32 +25,32 @@
 		"version": "all"
 	},
 	{
-		"count": 159684,
+		"count": 159704,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 37790,
+		"count": 37791,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 15238,
+		"count": 15239,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 30637,
+		"count": 30641,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 115257,
+		"count": 115262,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 81474,
+		"count": 81479,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,27 +60,27 @@
 		"version": "all"
 	},
 	{
-		"count": 52164,
+		"count": 52167,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 165755,
+		"count": 165763,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 16922,
+		"count": 16925,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 75923,
+		"count": 75929,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 49866,
+		"count": 49869,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,32 +90,32 @@
 		"version": "all"
 	},
 	{
-		"count": 127628,
+		"count": 127639,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 8116,
+		"count": 8117,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 95105,
+		"count": 95113,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 187774,
+		"count": 187786,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 20884,
+		"count": 20889,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 134410,
+		"count": 134418,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 109920,
+		"count": 109925,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 16467,
+		"count": 16468,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 18340,
+		"count": 18341,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41885,
+		"count": 41887,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,42 +160,42 @@
 		"version": "all"
 	},
 	{
-		"count": 126968,
+		"count": 126979,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 5490,
+		"count": 5491,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
 	{
-		"count": 6078,
+		"count": 6079,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 39501,
+		"count": 39505,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 25759,
+		"count": 25761,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 28400,
+		"count": 28404,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 21111,
+		"count": 21113,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 88561,
+		"count": 88565,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -205,7 +205,7 @@
 		"version": "all"
 	},
 	{
-		"count": 7812,
+		"count": 7814,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
@@ -215,17 +215,17 @@
 		"version": "all"
 	},
 	{
-		"count": 51499,
+		"count": 51501,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 10979,
+		"count": 10980,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 16104,
+		"count": 16106,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 117753,
+		"count": 117758,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -245,7 +245,7 @@
 		"version": "all"
 	},
 	{
-		"count": 9765,
+		"count": 9766,
 		"name": "relive-theme",
 		"version": "all"
 	},
