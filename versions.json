@@ -7,12 +7,12 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 23896
+		"count": 23897
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 4670
+		"count": 4671
 	},
 	{
 		"name": "HideScrollbar",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 63430
+		"count": 63439
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 43288
+		"count": 43298
 	},
 	{
 		"name": "ActionEnhancement",
@@ -57,12 +57,12 @@
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 1839
+		"count": 1840
 	},
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 20313
+		"count": 20315
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -87,7 +87,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 12145
+		"count": 12149
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 47538
+		"count": 47549
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 47156
+		"count": 47166
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 54505
+		"count": 54509
 	},
 	{
 		"name": "TinyNCM",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 29307
+		"count": 29309
 	},
 	{
 		"name": "elaina-theme",
@@ -177,12 +177,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 33959
+		"count": 33962
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 6363
+		"count": 6364
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -192,7 +192,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 27949
+		"count": 27951
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 78302
+		"count": 78315
 	},
 	{
 		"name": "MoreHooks",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 4471
+		"count": 4472
 	}
 ]
