@@ -1,6 +1,6 @@
 [
 	{
-		"count": 148417,
+		"count": 148418,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,32 +25,32 @@
 		"version": "all"
 	},
 	{
-		"count": 163152,
+		"count": 163154,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 38150,
+		"count": 38152,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 15391,
+		"count": 15392,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 31075,
+		"count": 31076,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 116302,
+		"count": 116305,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 82393,
+		"count": 82395,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52793,
+		"count": 52796,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 17391,
+		"count": 17392,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 129405,
+		"count": 129406,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 96058,
+		"count": 96059,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 190064,
+		"count": 190066,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 136012,
+		"count": 136014,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 110878,
+		"count": 110881,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 42315,
+		"count": 42316,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 128850,
+		"count": 128851,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 89464,
+		"count": 89466,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -210,12 +210,12 @@
 		"version": "all"
 	},
 	{
-		"count": 28683,
+		"count": 28684,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 52171,
+		"count": 52173,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
