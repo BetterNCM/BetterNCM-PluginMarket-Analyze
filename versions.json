@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 65106
+		"count": 65108
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 44591
+		"count": 44592
 	},
 	{
 		"name": "ActionEnhancement",
@@ -57,7 +57,7 @@
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 1888
+		"count": 1889
 	},
 	{
 		"name": "crossfade-lfp",
@@ -67,7 +67,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 9421
+		"count": 9423
 	},
 	{
 		"name": "vocaloid-info",
@@ -92,17 +92,17 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 11175
+		"count": 11176
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 4626
+		"count": 4627
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 48925
+		"count": 48926
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 48543
+		"count": 48544
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 55256
+		"count": 55258
 	},
 	{
 		"name": "TinyNCM",
@@ -162,7 +162,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 4761
+		"count": 4762
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -192,7 +192,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 28607
+		"count": 28608
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 80844
+		"count": 80847
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 10436
+		"count": 10437
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 20191
+		"count": 20192
 	},
 	{
 		"name": "LogCleaner",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 8192
+		"count": 8193
 	},
 	{
 		"name": "libsonginfo",
@@ -247,7 +247,7 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 4329
+		"count": 4330
 	},
 	{
 		"name": "Microrange",
