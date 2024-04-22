@@ -1,11 +1,11 @@
 [
 	{
-		"count": 149168,
+		"count": 149178,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 57004,
+		"count": 57006,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,72 +15,72 @@
 		"version": "all"
 	},
 	{
-		"count": 42231,
+		"count": 42234,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 15183,
+		"count": 15187,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 164395,
+		"count": 164408,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 38317,
+		"count": 38321,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 15480,
+		"count": 15482,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 31259,
+		"count": 31262,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 116796,
+		"count": 116800,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 82827,
+		"count": 82833,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 3787,
+		"count": 3789,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 53106,
+		"count": 53108,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 167288,
+		"count": 167293,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 17598,
+		"count": 17601,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 76907,
+		"count": 76911,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 50811,
+		"count": 50814,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,32 +90,32 @@
 		"version": "all"
 	},
 	{
-		"count": 130094,
+		"count": 130104,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 8258,
+		"count": 8260,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 96493,
+		"count": 96498,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 190986,
+		"count": 190999,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 21490,
+		"count": 21491,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 136640,
+		"count": 136648,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 111344,
+		"count": 111348,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18756,
+		"count": 18758,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 42524,
+		"count": 42529,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,12 +160,12 @@
 		"version": "all"
 	},
 	{
-		"count": 129600,
+		"count": 129611,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 5740,
+		"count": 5742,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -180,12 +180,12 @@
 		"version": "all"
 	},
 	{
-		"count": 26078,
+		"count": 26079,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 29008,
+		"count": 29010,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 89896,
+		"count": 89903,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 7629,
+		"count": 7630,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -210,17 +210,17 @@
 		"version": "all"
 	},
 	{
-		"count": 28778,
+		"count": 28781,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 52443,
+		"count": 52450,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 11186,
+		"count": 11187,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,22 +235,22 @@
 		"version": "all"
 	},
 	{
-		"count": 119514,
+		"count": 119519,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 11313,
+		"count": 11314,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
 	{
-		"count": 9947,
+		"count": 9948,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 35301,
+		"count": 35303,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
