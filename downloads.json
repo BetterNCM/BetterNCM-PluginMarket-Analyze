@@ -1,6 +1,6 @@
 [
 	{
-		"count": 149386,
+		"count": 149387,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 42283,
+		"count": 42284,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 164767,
+		"count": 164770,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 38374,
+		"count": 38375,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,12 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 116952,
+		"count": 116954,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 82957,
+		"count": 82958,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,12 +70,12 @@
 		"version": "all"
 	},
 	{
-		"count": 17669,
+		"count": 17670,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 77005,
+		"count": 77006,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 96646,
+		"count": 96647,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 191275,
+		"count": 191276,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -175,12 +175,12 @@
 		"version": "all"
 	},
 	{
-		"count": 40045,
+		"count": 40046,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 26104,
+		"count": 26105,
 		"name": "Transmission",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11210,
+		"count": 11211,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 119677,
+		"count": 119678,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 35352,
+		"count": 35353,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
