@@ -2,17 +2,17 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1259
+		"count": 1260
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 24824
+		"count": 24825
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 4902
+		"count": 4903
 	},
 	{
 		"name": "HideScrollbar",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 66429
+		"count": 66435
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 45558
+		"count": 45562
 	},
 	{
 		"name": "ActionEnhancement",
@@ -57,12 +57,12 @@
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 1939
+		"count": 1940
 	},
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 21197
+		"count": 21199
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -77,12 +77,12 @@
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 4403
+		"count": 4404
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 13074
+		"count": 13075
 	},
 	{
 		"name": "VisualRecord",
@@ -92,7 +92,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 11423
+		"count": 11425
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 49974
+		"count": 49979
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,17 +127,17 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 49592
+		"count": 49597
 	},
 	{
 		"name": "search-on-osu",
 		"version": "0.7.2.7",
-		"count": 1306
+		"count": 1307
 	},
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 56041
+		"count": 56045
 	},
 	{
 		"name": "TinyNCM",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 30602
+		"count": 30605
 	},
 	{
 		"name": "elaina-theme",
@@ -162,7 +162,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 4886
+		"count": 4888
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -172,12 +172,12 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 31182
+		"count": 31184
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 35306
+		"count": 35307
 	},
 	{
 		"name": "FluentMusicCover",
@@ -187,22 +187,22 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 34144
+		"count": 34146
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 29226
+		"count": 29229
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 8104
+		"count": 8105
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 82544
+		"count": 82550
 	},
 	{
 		"name": "MoreHooks",
@@ -217,12 +217,12 @@
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 1301
+		"count": 1302
 	},
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 20640
+		"count": 20641
 	},
 	{
 		"name": "LogCleaner",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 8362
+		"count": 8364
 	},
 	{
 		"name": "libsonginfo",
@@ -242,16 +242,16 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 19906
+		"count": 19908
 	},
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 4431
+		"count": 4433
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 4697
+		"count": 4698
 	}
 ]
