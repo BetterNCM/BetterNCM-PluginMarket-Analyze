@@ -12,7 +12,7 @@
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 5223
+		"count": 5225
 	},
 	{
 		"name": "HideScrollbar",
@@ -32,17 +32,17 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 70093
+		"count": 70094
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 3210
+		"count": 3211
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 48152
+		"count": 48153
 	},
 	{
 		"name": "ActionEnhancement",
@@ -62,12 +62,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 22389
+		"count": 22390
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 10230
+		"count": 10231
 	},
 	{
 		"name": "vocaloid-info",
@@ -82,12 +82,12 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 13840
+		"count": 13841
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 13531
+		"count": 13532
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -97,12 +97,12 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 4990
+		"count": 4991
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 52750
+		"count": 52751
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 52395
+		"count": 52396
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 58062
+		"count": 58065
 	},
 	{
 		"name": "TinyNCM",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 32337
+		"count": 32338
 	},
 	{
 		"name": "elaina-theme",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 87322
+		"count": 87328
 	},
 	{
 		"name": "MoreHooks",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 8968
+		"count": 8969
 	},
 	{
 		"name": "libsonginfo",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 4958
+		"count": 4959
 	}
 ]
