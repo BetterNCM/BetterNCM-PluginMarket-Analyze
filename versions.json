@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 70440
+		"count": 70445
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 48418
+		"count": 48422
 	},
 	{
 		"name": "ActionEnhancement",
@@ -62,12 +62,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 22521
+		"count": 22522
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 10283
+		"count": 10284
 	},
 	{
 		"name": "vocaloid-info",
@@ -87,7 +87,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 13608
+		"count": 13610
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 53029
+		"count": 53033
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 52676
+		"count": 52680
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 58286
+		"count": 58289
 	},
 	{
 		"name": "TinyNCM",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 32508
+		"count": 32509
 	},
 	{
 		"name": "elaina-theme",
@@ -162,7 +162,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 5248
+		"count": 5249
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 37287
+		"count": 37289
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,17 +192,17 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 31111
+		"count": 31112
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 8531
+		"count": 8532
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 87773
+		"count": 87777
 	},
 	{
 		"name": "MoreHooks",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 4982
+		"count": 4983
 	}
 ]
