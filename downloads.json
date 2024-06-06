@@ -1,6 +1,6 @@
 [
 	{
-		"count": 153998,
+		"count": 153999,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 172557,
+		"count": 172558,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 39482,
+		"count": 39483,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,12 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 120033,
+		"count": 120035,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 85808,
+		"count": 85810,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -65,7 +65,7 @@
 		"version": "all"
 	},
 	{
-		"count": 170891,
+		"count": 170892,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -75,12 +75,12 @@
 		"version": "all"
 	},
 	{
-		"count": 79076,
+		"count": 79077,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 52741,
+		"count": 52744,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 134627,
+		"count": 134628,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 99650,
+		"count": 99651,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 197318,
+		"count": 197320,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 141016,
+		"count": 141018,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 114277,
+		"count": 114280,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 134486,
+		"count": 134487,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -180,7 +180,7 @@
 		"version": "all"
 	},
 	{
-		"count": 26740,
+		"count": 26741,
 		"name": "Transmission",
 		"version": "all"
 	},
@@ -210,17 +210,17 @@
 		"version": "all"
 	},
 	{
-		"count": 29362,
+		"count": 29363,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 54528,
+		"count": 54530,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 11742,
+		"count": 11743,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11864,
+		"count": 11865,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 36328,
+		"count": 36329,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
