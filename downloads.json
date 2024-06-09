@@ -1,11 +1,11 @@
 [
 	{
-		"count": 154386,
+		"count": 154395,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 58728,
+		"count": 58731,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,72 +15,72 @@
 		"version": "all"
 	},
 	{
-		"count": 43653,
+		"count": 43655,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 15689,
+		"count": 15690,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 173217,
+		"count": 173238,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 39577,
+		"count": 39579,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 16108,
+		"count": 16112,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 32762,
+		"count": 32767,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 120299,
+		"count": 120307,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 86045,
+		"count": 86055,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 4131,
+		"count": 4133,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 55336,
+		"count": 55339,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 171179,
+		"count": 171183,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 19308,
+		"count": 19313,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 79240,
+		"count": 79246,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 52895,
+		"count": 52899,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 134989,
+		"count": 134996,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,52 +100,52 @@
 		"version": "all"
 	},
 	{
-		"count": 99888,
+		"count": 99896,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 197822,
+		"count": 197837,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 22733,
+		"count": 22734,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 141362,
+		"count": 141371,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 6466,
+		"count": 6467,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 114523,
+		"count": 114530,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 17658,
+		"count": 17661,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 19893,
+		"count": 19896,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 2500,
+		"count": 2501,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 43989,
+		"count": 43992,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 134876,
+		"count": 134884,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,17 +175,17 @@
 		"version": "all"
 	},
 	{
-		"count": 41153,
+		"count": 41155,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 26784,
+		"count": 26787,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 30455,
+		"count": 30460,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 93055,
+		"count": 93062,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 8006,
+		"count": 8007,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -210,22 +210,22 @@
 		"version": "all"
 	},
 	{
-		"count": 29404,
+		"count": 29405,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 54705,
+		"count": 54710,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 11786,
+		"count": 11788,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 16828,
+		"count": 16829,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 123363,
+		"count": 123369,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -245,7 +245,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10377,
+		"count": 10380,
 		"name": "relive-theme",
 		"version": "all"
 	},
