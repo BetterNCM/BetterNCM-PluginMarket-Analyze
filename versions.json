@@ -7,12 +7,12 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 26975
+		"count": 26980
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 5442
+		"count": 5443
 	},
 	{
 		"name": "HideScrollbar",
@@ -22,7 +22,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 6896
+		"count": 6898
 	},
 	{
 		"name": "PluginMarket",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 72678
+		"count": 72686
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 50034
+		"count": 50038
 	},
 	{
 		"name": "ActionEnhancement",
@@ -62,7 +62,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 23283
+		"count": 23286
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -92,7 +92,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 12577
+		"count": 12578
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 54742
+		"count": 54747
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 54415
+		"count": 54423
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 59601
+		"count": 59604
 	},
 	{
 		"name": "TinyNCM",
@@ -147,12 +147,12 @@
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 2392
+		"count": 2393
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 33564
+		"count": 33570
 	},
 	{
 		"name": "elaina-theme",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 38408
+		"count": 38414
 	},
 	{
 		"name": "FluentMusicCover",
@@ -187,12 +187,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 37353
+		"count": 37354
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 32128
+		"count": 32129
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 90629
+		"count": 90647
 	},
 	{
 		"name": "MoreHooks",
@@ -217,7 +217,7 @@
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 1463
+		"count": 1464
 	},
 	{
 		"name": "RuLyrics",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 9424
+		"count": 9428
 	},
 	{
 		"name": "libsonginfo",
@@ -247,11 +247,11 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 4981
+		"count": 4982
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5146
+		"count": 5148
 	}
 ]
