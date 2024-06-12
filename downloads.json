@@ -1,6 +1,6 @@
 [
 	{
-		"count": 154730,
+		"count": 154732,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 43745,
+		"count": 43746,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,7 +25,7 @@
 		"version": "all"
 	},
 	{
-		"count": 173839,
+		"count": 173844,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,12 +40,12 @@
 		"version": "all"
 	},
 	{
-		"count": 32871,
+		"count": 32872,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 120527,
+		"count": 120529,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
@@ -60,17 +60,17 @@
 		"version": "all"
 	},
 	{
-		"count": 55474,
+		"count": 55475,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 171412,
+		"count": 171414,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 19424,
+		"count": 19425,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 53038,
+		"count": 53039,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 135302,
+		"count": 135304,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -105,7 +105,7 @@
 		"version": "all"
 	},
 	{
-		"count": 198273,
+		"count": 198275,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 141673,
+		"count": 141677,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 114735,
+		"count": 114736,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 135214,
+		"count": 135216,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 93259,
+		"count": 93262,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11840,
+		"count": 11841,
 		"name": "CrashFix",
 		"version": "all"
 	},
