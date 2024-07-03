@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 28124
+		"count": 28125
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 75855
+		"count": 75860
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 52304
+		"count": 52306
 	},
 	{
 		"name": "ActionEnhancement",
@@ -62,7 +62,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 24408
+		"count": 24409
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 15518
+		"count": 15519
 	},
 	{
 		"name": "VisualRecord",
@@ -92,7 +92,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 13173
+		"count": 13176
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 57159
+		"count": 57160
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 56861
+		"count": 56864
 	},
 	{
 		"name": "search-on-osu",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 35132
+		"count": 35134
 	},
 	{
 		"name": "elaina-theme",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 40036
+		"count": 40040
 	},
 	{
 		"name": "FluentMusicCover",
@@ -187,12 +187,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 39005
+		"count": 39006
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 33660
+		"count": 33663
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 94982
+		"count": 94985
 	},
 	{
 		"name": "MoreHooks",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5382
+		"count": 5383
 	}
 ]
