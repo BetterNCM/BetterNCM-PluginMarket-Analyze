@@ -62,7 +62,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 24448
+		"count": 24449
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 15549
+		"count": 15550
 	},
 	{
 		"name": "VisualRecord",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 35191
+		"count": 35192
 	},
 	{
 		"name": "elaina-theme",
@@ -172,7 +172,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 35694
+		"count": 35696
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -187,12 +187,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 39082
+		"count": 39085
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 33720
+		"count": 33721
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 95154
+		"count": 95156
 	},
 	{
 		"name": "MoreHooks",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 10001
+		"count": 10002
 	},
 	{
 		"name": "libsonginfo",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 22898
+		"count": 22900
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5393
+		"count": 5394
 	}
 ]
