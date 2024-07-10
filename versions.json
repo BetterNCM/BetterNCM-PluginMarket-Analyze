@@ -12,7 +12,7 @@
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 5832
+		"count": 5834
 	},
 	{
 		"name": "HideScrollbar",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 76626
+		"count": 76631
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 52811
+		"count": 52816
 	},
 	{
 		"name": "ActionEnhancement",
@@ -67,7 +67,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 11365
+		"count": 11366
 	},
 	{
 		"name": "vocaloid-info",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 57710
+		"count": 57715
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 57427
+		"count": 57432
 	},
 	{
 		"name": "search-on-osu",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 61741
+		"count": 61744
 	},
 	{
 		"name": "TinyNCM",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 40455
+		"count": 40456
 	},
 	{
 		"name": "FluentMusicCover",
@@ -197,12 +197,12 @@
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 9149
+		"count": 9150
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 96091
+		"count": 96098
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 12414
+		"count": 12415
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 23103
+		"count": 23104
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5437
+		"count": 5439
 	}
 ]
