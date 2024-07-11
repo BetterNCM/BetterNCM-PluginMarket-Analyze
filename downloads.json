@@ -1,6 +1,6 @@
 [
 	{
-		"count": 157499,
+		"count": 157501,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,17 +20,17 @@
 		"version": "all"
 	},
 	{
-		"count": 16020,
+		"count": 16021,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 178931,
+		"count": 178935,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 40321,
+		"count": 40322,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -40,17 +40,17 @@
 		"version": "all"
 	},
 	{
-		"count": 34082,
+		"count": 34083,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 122483,
+		"count": 122484,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 88040,
+		"count": 88042,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,17 +60,17 @@
 		"version": "all"
 	},
 	{
-		"count": 56746,
+		"count": 56747,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 173421,
+		"count": 173423,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 20441,
+		"count": 20444,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 137897,
+		"count": 137899,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 102038,
+		"count": 102040,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 201966,
+		"count": 201969,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 144315,
+		"count": 144317,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 116542,
+		"count": 116543,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 138028,
+		"count": 138030,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 95057,
+		"count": 95059,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 8204,
+		"count": 8205,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 37152,
+		"count": 37153,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
