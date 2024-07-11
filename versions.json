@@ -62,12 +62,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 24696
+		"count": 24698
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 11386
+		"count": 11388
 	},
 	{
 		"name": "vocaloid-info",
@@ -77,12 +77,12 @@
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 5079
+		"count": 5080
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 15743
+		"count": 15744
 	},
 	{
 		"name": "VisualRecord",
@@ -107,7 +107,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 3265
+		"count": 3266
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 61792
+		"count": 61793
 	},
 	{
 		"name": "TinyNCM",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 35509
+		"count": 35511
 	},
 	{
 		"name": "elaina-theme",
@@ -172,27 +172,27 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 36071
+		"count": 36072
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 40509
+		"count": 40511
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 8028
+		"count": 8029
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 39486
+		"count": 39487
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 34078
+		"count": 34079
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 96199
+		"count": 96201
 	},
 	{
 		"name": "MoreHooks",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 24054
+		"count": 24056
 	},
 	{
 		"name": "LogCleaner",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 10148
+		"count": 10150
 	},
 	{
 		"name": "libsonginfo",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 23143
+		"count": 23144
 	},
 	{
 		"name": "CrashFix",
