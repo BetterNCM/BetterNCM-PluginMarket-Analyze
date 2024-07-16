@@ -2,7 +2,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1494
+		"count": 1495
 	},
 	{
 		"name": "StyleSnippet",
@@ -32,12 +32,12 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 77211
+		"count": 77212
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 3673
+		"count": 3674
 	},
 	{
 		"name": "MoTheme",
@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 15887
+		"count": 15888
 	},
 	{
 		"name": "VisualRecord",
@@ -97,7 +97,7 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 5554
+		"count": 5555
 	},
 	{
 		"name": "StylesheetLoader",
@@ -107,7 +107,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 3294
+		"count": 3296
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 62080
+		"count": 62081
 	},
 	{
 		"name": "TinyNCM",
@@ -172,27 +172,27 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 36297
+		"count": 36300
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 40763
+		"count": 40764
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 8100
+		"count": 8101
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 39732
+		"count": 39735
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 34286
+		"count": 34289
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 96906
+		"count": 96908
 	},
 	{
 		"name": "MoreHooks",
@@ -212,17 +212,17 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 12513
+		"count": 12514
 	},
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 1570
+		"count": 1571
 	},
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 24222
+		"count": 24225
 	},
 	{
 		"name": "LogCleaner",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 10235
+		"count": 10236
 	},
 	{
 		"name": "libsonginfo",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 23305
+		"count": 23307
 	},
 	{
 		"name": "CrashFix",
