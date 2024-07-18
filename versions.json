@@ -12,7 +12,7 @@
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 5907
+		"count": 5908
 	},
 	{
 		"name": "HideScrollbar",
@@ -87,7 +87,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 15161
+		"count": 15162
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -107,7 +107,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 3308
+		"count": 3309
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -137,7 +137,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.5",
-		"count": 62233
+		"count": 62235
 	},
 	{
 		"name": "TinyNCM",
@@ -172,7 +172,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 36442
+		"count": 36443
 	},
 	{
 		"name": "MaterialYouTheme",
@@ -187,12 +187,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 39890
+		"count": 39891
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 34434
+		"count": 34436
 	},
 	{
 		"name": "Transmission",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 12572
+		"count": 12573
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 23401
+		"count": 23402
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5494
+		"count": 5495
 	}
 ]
