@@ -1,6 +1,6 @@
 [
 	{
-		"count": 158399,
+		"count": 158400,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,17 +25,17 @@
 		"version": "all"
 	},
 	{
-		"count": 180626,
+		"count": 180629,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 40568,
+		"count": 40569,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 16566,
+		"count": 16568,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
@@ -45,12 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 123173,
+		"count": 123175,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 88662,
+		"count": 88664,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,17 +60,17 @@
 		"version": "all"
 	},
 	{
-		"count": 57181,
+		"count": 57182,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 174100,
+		"count": 174104,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 20851,
+		"count": 20853,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,17 +95,17 @@
 		"version": "all"
 	},
 	{
-		"count": 9043,
+		"count": 9044,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 102712,
+		"count": 102713,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 203204,
+		"count": 203205,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 145232,
+		"count": 145233,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 117174,
+		"count": 117175,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 20860,
+		"count": 20861,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45192,
+		"count": 45193,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 42120,
+		"count": 42121,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 95681,
+		"count": 95682,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -220,12 +220,12 @@
 		"version": "all"
 	},
 	{
-		"count": 12319,
+		"count": 12321,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 17228,
+		"count": 17229,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 37377,
+		"count": 37378,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
