@@ -1,6 +1,6 @@
 [
 	{
-		"count": 158486,
+		"count": 158490,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,17 +20,17 @@
 		"version": "all"
 	},
 	{
-		"count": 16140,
+		"count": 16141,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 180787,
+		"count": 180801,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 40591,
+		"count": 40593,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -40,47 +40,47 @@
 		"version": "all"
 	},
 	{
-		"count": 34467,
+		"count": 34469,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 123226,
+		"count": 123228,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 88708,
+		"count": 88712,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 4397,
+		"count": 4398,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 57214,
+		"count": 57218,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 174165,
+		"count": 174168,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 20879,
+		"count": 20882,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 81213,
+		"count": 81216,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 54711,
+		"count": 54712,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 138821,
+		"count": 138825,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,52 +100,52 @@
 		"version": "all"
 	},
 	{
-		"count": 102765,
+		"count": 102770,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 203307,
+		"count": 203318,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 23680,
+		"count": 23681,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 145309,
+		"count": 145311,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 6618,
+		"count": 6619,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 117222,
+		"count": 117224,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 18422,
+		"count": 18424,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 20882,
+		"count": 20885,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 2722,
+		"count": 2723,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 45212,
+		"count": 45214,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -155,12 +155,12 @@
 		"version": "all"
 	},
 	{
-		"count": 7207,
+		"count": 7208,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 139040,
+		"count": 139044,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,17 +175,17 @@
 		"version": "all"
 	},
 	{
-		"count": 42136,
+		"count": 42137,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 27325,
+		"count": 27326,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 31721,
+		"count": 31724,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 95730,
+		"count": 95735,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -205,22 +205,22 @@
 		"version": "all"
 	},
 	{
-		"count": 8372,
+		"count": 8373,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 29925,
+		"count": 29926,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 56647,
+		"count": 56649,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 12333,
+		"count": 12336,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -230,12 +230,12 @@
 		"version": "all"
 	},
 	{
-		"count": 7690,
+		"count": 7691,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 126500,
+		"count": 126508,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -245,12 +245,12 @@
 		"version": "all"
 	},
 	{
-		"count": 10751,
+		"count": 10753,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 37387,
+		"count": 37388,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
