@@ -1,11 +1,11 @@
 [
 	{
-		"count": 159138,
+		"count": 159140,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 60384,
+		"count": 60386,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45054,
+		"count": 45057,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,7 +25,7 @@
 		"version": "all"
 	},
 	{
-		"count": 181970,
+		"count": 181977,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,47 +40,47 @@
 		"version": "all"
 	},
 	{
-		"count": 34741,
+		"count": 34744,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 123711,
+		"count": 123714,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 89174,
+		"count": 89177,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 4452,
+		"count": 4453,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 57542,
+		"count": 57545,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 175147,
+		"count": 175176,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 21137,
+		"count": 21141,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 81542,
+		"count": 81546,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 55007,
+		"count": 55009,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 139436,
+		"count": 139439,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 103236,
+		"count": 103239,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 204174,
+		"count": 204180,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 145972,
+		"count": 145974,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 117680,
+		"count": 117683,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -135,17 +135,17 @@
 		"version": "all"
 	},
 	{
-		"count": 21063,
+		"count": 21064,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 2754,
+		"count": 2755,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 45411,
+		"count": 45413,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -155,12 +155,12 @@
 		"version": "all"
 	},
 	{
-		"count": 7250,
+		"count": 7251,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 139724,
+		"count": 139728,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 42288,
+		"count": 42289,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 31930,
+		"count": 31932,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 96162,
+		"count": 96166,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -210,17 +210,17 @@
 		"version": "all"
 	},
 	{
-		"count": 30027,
+		"count": 30029,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 56980,
+		"count": 56983,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 12426,
+		"count": 12427,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,12 +235,12 @@
 		"version": "all"
 	},
 	{
-		"count": 127101,
+		"count": 127107,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 12505,
+		"count": 12506,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 37553,
+		"count": 37554,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
