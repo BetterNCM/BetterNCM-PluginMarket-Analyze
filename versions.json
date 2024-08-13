@@ -32,17 +32,17 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 80031
+		"count": 80034
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 3880
+		"count": 3881
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 55174
+		"count": 55176
 	},
 	{
 		"name": "ActionEnhancement",
@@ -62,7 +62,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 25931
+		"count": 25932
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -82,27 +82,27 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 16769
+		"count": 16770
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 15765
+		"count": 15766
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 13981
+		"count": 13982
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 5813
+		"count": 5814
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 60229
+		"count": 60232
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 60008
+		"count": 60010
 	},
 	{
 		"name": "search-on-osu",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 37201
+		"count": 37202
 	},
 	{
 		"name": "elaina-theme",
@@ -172,27 +172,27 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 37760
+		"count": 37762
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 42275
+		"count": 42277
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 8538
+		"count": 8539
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 41306
+		"count": 41309
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 35736
+		"count": 35738
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 100720
+		"count": 100726
 	},
 	{
 		"name": "MoreHooks",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 25268
+		"count": 25269
 	},
 	{
 		"name": "LogCleaner",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 24255
+		"count": 24256
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5670
+		"count": 5671
 	}
 ]
