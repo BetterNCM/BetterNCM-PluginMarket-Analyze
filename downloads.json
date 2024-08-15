@@ -1,6 +1,6 @@
 [
 	{
-		"count": 160120,
+		"count": 160122,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,7 +25,7 @@
 		"version": "all"
 	},
 	{
-		"count": 183735,
+		"count": 183741,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,17 +40,17 @@
 		"version": "all"
 	},
 	{
-		"count": 35178,
+		"count": 35180,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 124440,
+		"count": 124441,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 89855,
+		"count": 89857,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -65,12 +65,12 @@
 		"version": "all"
 	},
 	{
-		"count": 177167,
+		"count": 177168,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 21593,
+		"count": 21594,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 55442,
+		"count": 55443,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140365,
+		"count": 140367,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 103931,
+		"count": 103933,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 205508,
+		"count": 205512,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 146935,
+		"count": 146938,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 118350,
+		"count": 118351,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 18775,
+		"count": 18776,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 21335,
+		"count": 21337,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140728,
+		"count": 140730,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 96813,
+		"count": 96815,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 8426,
+		"count": 8427,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -215,12 +215,12 @@
 		"version": "all"
 	},
 	{
-		"count": 57481,
+		"count": 57482,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 12574,
+		"count": 12575,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 128002,
+		"count": 128004,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
