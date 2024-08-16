@@ -2,7 +2,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1575
+		"count": 1576
 	},
 	{
 		"name": "StyleSnippet",
@@ -12,7 +12,7 @@
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 6163
+		"count": 6164
 	},
 	{
 		"name": "HideScrollbar",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 80402
+		"count": 80405
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 26071
+		"count": 26073
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -82,12 +82,12 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 16882
+		"count": 16885
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 15853
+		"count": 15855
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -97,7 +97,7 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 5838
+		"count": 5840
 	},
 	{
 		"name": "StylesheetLoader",
@@ -147,12 +147,12 @@
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 2708
+		"count": 2709
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 37385
+		"count": 37386
 	},
 	{
 		"name": "elaina-theme",
@@ -162,7 +162,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 6170
+		"count": 6173
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -172,27 +172,27 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 37934
+		"count": 37937
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 42472
+		"count": 42475
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 8596
+		"count": 8597
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 41503
+		"count": 41506
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 35902
+		"count": 35904
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 101181
+		"count": 101187
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 13097
+		"count": 13099
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 25388
+		"count": 25390
 	},
 	{
 		"name": "LogCleaner",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 24378
+		"count": 24381
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5688
+		"count": 5690
 	}
 ]
