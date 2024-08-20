@@ -7,12 +7,12 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 29949
+		"count": 29951
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 6195
+		"count": 6196
 	},
 	{
 		"name": "HideScrollbar",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 80876
+		"count": 80880
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 55769
+		"count": 55773
 	},
 	{
 		"name": "ActionEnhancement",
@@ -67,7 +67,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 12130
+		"count": 12131
 	},
 	{
 		"name": "vocaloid-info",
@@ -92,7 +92,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 14130
+		"count": 14131
 	},
 	{
 		"name": "GPTTrans",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 60855
+		"count": 60859
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 60658
+		"count": 60665
 	},
 	{
 		"name": "search-on-osu",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 37586
+		"count": 37587
 	},
 	{
 		"name": "elaina-theme",
@@ -172,12 +172,12 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 38156
+		"count": 38158
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 42714
+		"count": 42716
 	},
 	{
 		"name": "FluentMusicCover",
@@ -187,22 +187,22 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 41752
+		"count": 41754
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 36120
+		"count": 36122
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 9539
+		"count": 9540
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 101856
+		"count": 101868
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 13187
+		"count": 13188
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 25539
+		"count": 25541
 	},
 	{
 		"name": "LogCleaner",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5722
+		"count": 5724
 	}
 ]
