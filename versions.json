@@ -22,7 +22,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 7510
+		"count": 7511
 	},
 	{
 		"name": "PluginMarket",
@@ -32,17 +32,17 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 81149
+		"count": 81153
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 3959
+		"count": 3960
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 55959
+		"count": 55962
 	},
 	{
 		"name": "ActionEnhancement",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 61063
+		"count": 61066
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 60867
+		"count": 60870
 	},
 	{
 		"name": "search-on-osu",
@@ -172,12 +172,12 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 38272
+		"count": 38273
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 42841
+		"count": 42842
 	},
 	{
 		"name": "FluentMusicCover",
@@ -187,7 +187,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 41876
+		"count": 41877
 	},
 	{
 		"name": "FluentProgressBar",
@@ -197,12 +197,12 @@
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 9562
+		"count": 9563
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 102316
+		"count": 102319
 	},
 	{
 		"name": "MoreHooks",
@@ -222,7 +222,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 25613
+		"count": 25614
 	},
 	{
 		"name": "LogCleaner",
@@ -242,7 +242,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 24607
+		"count": 24608
 	},
 	{
 		"name": "CrashFix",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5743
+		"count": 5744
 	}
 ]
