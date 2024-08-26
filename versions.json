@@ -2,12 +2,12 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1589
+		"count": 1590
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 30193
+		"count": 30194
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 81630
+		"count": 81633
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 56279
+		"count": 56282
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 3275
+		"count": 3276
 	},
 	{
 		"name": "relive-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 17245
+		"count": 17247
 	},
 	{
 		"name": "VisualRecord",
@@ -102,12 +102,12 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 61403
+		"count": 61406
 	},
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 3545
+		"count": 3546
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 61220
+		"count": 61223
 	},
 	{
 		"name": "search-on-osu",
@@ -147,7 +147,7 @@
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 2751
+		"count": 2752
 	},
 	{
 		"name": "LibFrontendPlay",
@@ -162,7 +162,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 6239
+		"count": 6240
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 43093
+		"count": 43095
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,7 +192,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 36469
+		"count": 36471
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 103042
+		"count": 103044
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 13304
+		"count": 13305
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5766
+		"count": 5767
 	}
 ]
