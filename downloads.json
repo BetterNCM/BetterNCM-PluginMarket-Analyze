@@ -1,6 +1,6 @@
 [
 	{
-		"count": 161214,
+		"count": 161220,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45627,
+		"count": 45628,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,7 +25,7 @@
 		"version": "all"
 	},
 	{
-		"count": 185960,
+		"count": 185974,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,17 +40,17 @@
 		"version": "all"
 	},
 	{
-		"count": 35620,
+		"count": 35622,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 125162,
+		"count": 125165,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 90540,
+		"count": 90542,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,12 +60,12 @@
 		"version": "all"
 	},
 	{
-		"count": 58492,
+		"count": 58495,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 178554,
+		"count": 178567,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -75,7 +75,7 @@
 		"version": "all"
 	},
 	{
-		"count": 82542,
+		"count": 82544,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -90,12 +90,12 @@
 		"version": "all"
 	},
 	{
-		"count": 141390,
+		"count": 141397,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 9293,
+		"count": 9294,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
@@ -105,17 +105,17 @@
 		"version": "all"
 	},
 	{
-		"count": 206989,
+		"count": 206995,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 24299,
+		"count": 24300,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 147994,
+		"count": 148001,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 119003,
+		"count": 119006,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 21579,
+		"count": 21580,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46008,
+		"count": 46009,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 141851,
+		"count": 141858,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 32571,
+		"count": 32572,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -195,7 +195,7 @@
 		"version": "all"
 	},
 	{
-		"count": 97502,
+		"count": 97505,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -215,7 +215,7 @@
 		"version": "all"
 	},
 	{
-		"count": 57998,
+		"count": 57999,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -225,7 +225,7 @@
 		"version": "all"
 	},
 	{
-		"count": 17464,
+		"count": 17465,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -235,12 +235,12 @@
 		"version": "all"
 	},
 	{
-		"count": 128880,
+		"count": 128883,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 12752,
+		"count": 12753,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
