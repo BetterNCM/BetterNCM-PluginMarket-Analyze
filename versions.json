@@ -7,7 +7,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 30363
+		"count": 30365
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 82088
+		"count": 82093
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 56623
+		"count": 56627
 	},
 	{
 		"name": "ActionEnhancement",
@@ -67,7 +67,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 12356
+		"count": 12358
 	},
 	{
 		"name": "vocaloid-info",
@@ -82,32 +82,32 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 17387
+		"count": 17388
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 16183
+		"count": 16184
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 14336
+		"count": 14337
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 5969
+		"count": 5970
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 61759
+		"count": 61763
 	},
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 3570
+		"count": 3571
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 61595
+		"count": 61600
 	},
 	{
 		"name": "search-on-osu",
@@ -152,7 +152,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 38164
+		"count": 38165
 	},
 	{
 		"name": "elaina-theme",
@@ -177,7 +177,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 43315
+		"count": 43317
 	},
 	{
 		"name": "FluentMusicCover",
@@ -192,17 +192,17 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 36692
+		"count": 36694
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 9641
+		"count": 9642
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 103767
+		"count": 103775
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 13370
+		"count": 13371
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 5798
+		"count": 5799
 	}
 ]
