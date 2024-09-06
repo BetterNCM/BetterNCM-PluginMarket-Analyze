@@ -1,11 +1,11 @@
 [
 	{
-		"count": 162166,
+		"count": 162171,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 61377,
+		"count": 61380,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 187883,
+		"count": 187890,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 41471,
+		"count": 41472,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,42 +45,42 @@
 		"version": "all"
 	},
 	{
-		"count": 125702,
+		"count": 125705,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 91038,
+		"count": 91041,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 4633,
+		"count": 4634,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 58829,
+		"count": 58832,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 179501,
+		"count": 179505,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 22303,
+		"count": 22304,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 82940,
+		"count": 82941,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 56228,
+		"count": 56229,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 142296,
+		"count": 142300,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 105306,
+		"count": 105308,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 208219,
+		"count": 208221,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 119502,
+		"count": 119505,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 142828,
+		"count": 142833,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,27 +175,27 @@
 		"version": "all"
 	},
 	{
-		"count": 42945,
+		"count": 42946,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 27741,
+		"count": 27742,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 32805,
+		"count": 32806,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 22669,
+		"count": 22670,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 98021,
+		"count": 98023,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -205,22 +205,22 @@
 		"version": "all"
 	},
 	{
-		"count": 8542,
+		"count": 8543,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 30420,
+		"count": 30421,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 58371,
+		"count": 58373,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 12790,
+		"count": 12791,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,12 +235,12 @@
 		"version": "all"
 	},
 	{
-		"count": 129649,
+		"count": 129650,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 12834,
+		"count": 12835,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
