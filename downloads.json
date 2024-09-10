@@ -1,6 +1,6 @@
 [
 	{
-		"count": 162556,
+		"count": 162560,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45931,
+		"count": 45932,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 188618,
+		"count": 188621,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 41547,
+		"count": 41548,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -40,17 +40,17 @@
 		"version": "all"
 	},
 	{
-		"count": 36087,
+		"count": 36088,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 125952,
+		"count": 125953,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 91261,
+		"count": 91262,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -60,12 +60,12 @@
 		"version": "all"
 	},
 	{
-		"count": 58989,
+		"count": 58991,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 179861,
+		"count": 179863,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -75,7 +75,7 @@
 		"version": "all"
 	},
 	{
-		"count": 83108,
+		"count": 83110,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 142674,
+		"count": 142678,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -100,12 +100,12 @@
 		"version": "all"
 	},
 	{
-		"count": 105559,
+		"count": 105560,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 208735,
+		"count": 208739,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 149209,
+		"count": 149210,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -125,12 +125,12 @@
 		"version": "all"
 	},
 	{
-		"count": 119743,
+		"count": 119744,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 19139,
+		"count": 19140,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
@@ -160,7 +160,7 @@
 		"version": "all"
 	},
 	{
-		"count": 143238,
+		"count": 143242,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -175,12 +175,12 @@
 		"version": "all"
 	},
 	{
-		"count": 43025,
+		"count": 43026,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 27774,
+		"count": 27775,
 		"name": "Transmission",
 		"version": "all"
 	},
@@ -210,17 +210,17 @@
 		"version": "all"
 	},
 	{
-		"count": 30474,
+		"count": 30475,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 58541,
+		"count": 58542,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 12832,
+		"count": 12833,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 129958,
+		"count": 129960,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
