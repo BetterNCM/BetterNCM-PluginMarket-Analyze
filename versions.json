@@ -2,7 +2,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1621
+		"count": 1622
 	},
 	{
 		"name": "StyleSnippet",
@@ -12,12 +12,12 @@
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 6390
+		"count": 6391
 	},
 	{
 		"name": "HideScrollbar",
 		"version": "2.0.2",
-		"count": 2633
+		"count": 2634
 	},
 	{
 		"name": "Unbounded",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 83813
+		"count": 83815
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 57887
+		"count": 57889
 	},
 	{
 		"name": "ActionEnhancement",
@@ -87,7 +87,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 16482
+		"count": 16483
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 63087
+		"count": 63089
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 62950
+		"count": 62952
 	},
 	{
 		"name": "search-on-osu",
@@ -162,7 +162,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 6403
+		"count": 6404
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -177,12 +177,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 44193
+		"count": 44195
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 8980
+		"count": 8981
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -192,7 +192,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 37409
+		"count": 37410
 	},
 	{
 		"name": "Transmission",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 106304
+		"count": 106311
 	},
 	{
 		"name": "MoreHooks",
@@ -212,7 +212,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 13626
+		"count": 13628
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -232,7 +232,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 11422
+		"count": 11424
 	},
 	{
 		"name": "libsonginfo",
@@ -247,7 +247,7 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 6047
+		"count": 6049
 	},
 	{
 		"name": "Microrange",
