@@ -2,12 +2,12 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1646
+		"count": 1647
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 31473
+		"count": 31474
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -32,7 +32,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 85446
+		"count": 85448
 	},
 	{
 		"name": "keyboard-seek",
@@ -42,7 +42,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 59030
+		"count": 59032
 	},
 	{
 		"name": "ActionEnhancement",
@@ -67,7 +67,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 12877
+		"count": 12879
 	},
 	{
 		"name": "vocaloid-info",
@@ -77,12 +77,12 @@
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 5650
+		"count": 5651
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 18370
+		"count": 18371
 	},
 	{
 		"name": "VisualRecord",
@@ -102,7 +102,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 64325
+		"count": 64327
 	},
 	{
 		"name": "PlaybackRate",
@@ -127,7 +127,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 64217
+		"count": 64219
 	},
 	{
 		"name": "search-on-osu",
@@ -182,7 +182,7 @@
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 9169
+		"count": 9170
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -202,7 +202,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 108743
+		"count": 108745
 	},
 	{
 		"name": "MoreHooks",
@@ -252,6 +252,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 6000
+		"count": 6002
 	}
 ]
