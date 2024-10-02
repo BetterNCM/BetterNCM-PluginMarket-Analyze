@@ -5,13 +5,18 @@
 		"version": "all"
 	},
 	{
-		"count": 61939,
+		"count": 61940,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
 	{
 		"count": 27380,
 		"name": "libsonginfo",
+		"version": "all"
+	},
+	{
+		"count": 0,
+		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
@@ -25,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 191460,
+		"count": 191461,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,7 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 36711,
+		"count": 1,
+		"name": "PiPWindow",
+		"version": "all"
+	},
+	{
+		"count": 36712,
 		"name": "LyricBar",
 		"version": "all"
 	},
@@ -50,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 92178,
+		"count": 92180,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -65,13 +75,23 @@
 		"version": "all"
 	},
 	{
-		"count": 181196,
+		"count": 0,
+		"name": "LyricBarBlur",
+		"version": "all"
+	},
+	{
+		"count": 181197,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
 		"count": 22970,
 		"name": "LogCleaner",
+		"version": "all"
+	},
+	{
+		"count": 0,
+		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
@@ -90,8 +110,18 @@
 		"version": "all"
 	},
 	{
+		"count": 0,
+		"name": "artist-all-songs",
+		"version": "all"
+	},
+	{
 		"count": 144049,
 		"name": "MoTheme",
+		"version": "all"
+	},
+	{
+		"count": 4379,
+		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
 	{
@@ -100,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 106608,
+		"count": 106609,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 210704,
+		"count": 210705,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -132,6 +162,16 @@
 	{
 		"count": 19379,
 		"name": "FluentMusicCover",
+		"version": "all"
+	},
+	{
+		"count": 0,
+		"name": "RevisedSecondaryWindows",
+		"version": "all"
+	},
+	{
+		"count": 0,
+		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
@@ -165,6 +205,11 @@
 		"version": "all"
 	},
 	{
+		"count": 0,
+		"name": "ZoomNCM",
+		"version": "all"
+	},
+	{
 		"count": 7415,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
@@ -195,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 99182,
+		"count": 99183,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -215,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 59183,
+		"count": 59185,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 13007,
+		"count": 13008,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -230,7 +275,7 @@
 		"version": "all"
 	},
 	{
-		"count": 7815,
+		"count": 7816,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
