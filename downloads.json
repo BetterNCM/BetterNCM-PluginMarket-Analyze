@@ -1,6 +1,6 @@
 [
 	{
-		"count": 164052,
+		"count": 164055,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -10,17 +10,17 @@
 		"version": "all"
 	},
 	{
-		"count": 27380,
+		"count": 27381,
 		"name": "libsonginfo",
 		"version": "all"
 	},
 	{
-		"count": 7,
+		"count": 10,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 46328,
+		"count": 46330,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 191475,
+		"count": 191478,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,12 +45,12 @@
 		"version": "all"
 	},
 	{
-		"count": 22,
+		"count": 28,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 36715,
+		"count": 36718,
 		"name": "LyricBar",
 		"version": "all"
 	},
@@ -75,7 +75,7 @@
 		"version": "all"
 	},
 	{
-		"count": 2,
+		"count": 4,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 22976,
+		"count": 22977,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 83797,
+		"count": 83799,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 57043,
+		"count": 57044,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 4,
+		"count": 8,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 144062,
+		"count": 144065,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 106619,
+		"count": 106620,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 210719,
+		"count": 210720,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 24877,
+		"count": 24878,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 150609,
+		"count": 150613,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -160,12 +160,12 @@
 		"version": "all"
 	},
 	{
-		"count": 19382,
+		"count": 19383,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 10,
+		"count": 15,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 22223,
+		"count": 22228,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 144764,
+		"count": 144767,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 8,
+		"count": 9,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -215,22 +215,22 @@
 		"version": "all"
 	},
 	{
-		"count": 6548,
+		"count": 6549,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 43387,
+		"count": 43389,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 27949,
+		"count": 27951,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 33327,
+		"count": 33328,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 99191,
+		"count": 99193,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 30640,
+		"count": 30641,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 59191,
+		"count": 59192,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 17695,
+		"count": 17696,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 131132,
+		"count": 131135,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
