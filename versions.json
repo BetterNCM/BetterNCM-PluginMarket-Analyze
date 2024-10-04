@@ -12,7 +12,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 31552
+		"count": 31553
 	},
 	{
 		"name": "ZoomNCM",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 85628
+		"count": 85630
 	},
 	{
 		"name": "keyboard-seek",
@@ -57,12 +57,12 @@
 	{
 		"name": "RevisedSecondaryWindows",
 		"version": "0.4.2",
-		"count": 63
+		"count": 64
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 59148
+		"count": 59149
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 19
+		"count": 20
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 68
+		"count": 70
 	},
 	{
 		"name": "search-this-singer",
@@ -137,7 +137,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 16860
+		"count": 16861
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -152,12 +152,12 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 64455
+		"count": 64456
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 18
+		"count": 19
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 64348
+		"count": 64349
 	},
 	{
 		"name": "search-on-osu",
@@ -207,12 +207,12 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.2",
-		"count": 6
+		"count": 8
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 39728
+		"count": 39729
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 48
+		"count": 49
 	},
 	{
 		"name": "play-with-bilibili",
@@ -247,17 +247,17 @@
 	{
 		"name": "PiPWindow",
 		"version": "0.1.0",
-		"count": 54
+		"count": 55
 	},
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 45173
+		"count": 45174
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 35
+		"count": 37
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -277,12 +277,12 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.6",
-		"count": 47
+		"count": 49
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 44039
+		"count": 44040
 	},
 	{
 		"name": "FluentProgressBar",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 108957
+		"count": 108961
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 30
+		"count": 32
 	},
 	{
 		"name": "MoreHooks",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 11769
+		"count": 11770
 	},
 	{
 		"name": "libsonginfo",
