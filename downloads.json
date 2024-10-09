@@ -1,11 +1,11 @@
 [
 	{
-		"count": 164471,
+		"count": 164472,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 62089,
+		"count": 62090,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 300,
+		"count": 302,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 16728,
+		"count": 16730,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 192331,
+		"count": 192334,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 446,
+		"count": 450,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 127258,
+		"count": 127260,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 92446,
+		"count": 92448,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 59809,
+		"count": 59810,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 181535,
+		"count": 181536,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 23144,
+		"count": 23145,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 57215,
+		"count": 57216,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,12 +115,12 @@
 		"version": "all"
 	},
 	{
-		"count": 144463,
+		"count": 144464,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 4500,
+		"count": 4502,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 106924,
+		"count": 106925,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 211297,
+		"count": 211299,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 150980,
+		"count": 150981,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 120945,
+		"count": 120947,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 477,
+		"count": 480,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 22340,
+		"count": 22341,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46842,
+		"count": 46843,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,17 +200,17 @@
 		"version": "all"
 	},
 	{
-		"count": 145200,
+		"count": 145201,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 246,
+		"count": 247,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
 	{
-		"count": 7454,
+		"count": 7455,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 43479,
+		"count": 43480,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 33469,
+		"count": 33470,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 99459,
+		"count": 99460,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,17 +260,17 @@
 		"version": "all"
 	},
 	{
-		"count": 59359,
+		"count": 59361,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 13055,
+		"count": 13056,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 17737,
+		"count": 17738,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 131433,
+		"count": 131436,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,12 +290,12 @@
 		"version": "all"
 	},
 	{
-		"count": 11283,
+		"count": 11284,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 38765,
+		"count": 38766,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
