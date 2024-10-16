@@ -1,6 +1,6 @@
 [
 	{
-		"count": 165000,
+		"count": 165001,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 193488,
+		"count": 193491,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 42159,
+		"count": 42161,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 896,
+		"count": 897,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -60,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 92778,
+		"count": 92781,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 144963,
+		"count": 144964,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 107329,
+		"count": 107330,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 212058,
+		"count": 212060,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151494,
+		"count": 151495,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1085,
+		"count": 1087,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 145766,
+		"count": 145767,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 534,
+		"count": 535,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 59603,
+		"count": 59605,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 131851,
+		"count": 131853,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
