@@ -1,6 +1,6 @@
 [
 	{
-		"count": 165185,
+		"count": 165191,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 808,
+		"count": 810,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 46628,
+		"count": 46629,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 193950,
+		"count": 193955,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 42203,
+		"count": 42204,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1048,
+		"count": 1049,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 127772,
+		"count": 127773,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 92890,
+		"count": 92891,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 182139,
+		"count": 182140,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 23450,
+		"count": 23452,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 84448,
+		"count": 84452,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 145133,
+		"count": 145139,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,17 +135,17 @@
 		"version": "all"
 	},
 	{
-		"count": 212309,
+		"count": 212315,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 25121,
+		"count": 25122,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 151663,
+		"count": 151664,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1299,
+		"count": 1301,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47061,
+		"count": 47062,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 145959,
+		"count": 145966,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 33758,
+		"count": 33761,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 99895,
+		"count": 99897,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 132002,
+		"count": 132005,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,7 +290,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11360,
+		"count": 11361,
 		"name": "relive-theme",
 		"version": "all"
 	},
