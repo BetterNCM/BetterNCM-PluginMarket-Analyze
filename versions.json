@@ -7,7 +7,7 @@
 	{
 		"name": "LyricBarBlur",
 		"version": "1.0.3",
-		"count": 236
+		"count": 237
 	},
 	{
 		"name": "StyleSnippet",
@@ -17,12 +17,12 @@
 	{
 		"name": "ZoomNCM",
 		"version": "0.2.0",
-		"count": 599
+		"count": 601
 	},
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 6634
+		"count": 6635
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 87061
+		"count": 87069
 	},
 	{
 		"name": "keyboard-seek",
@@ -57,12 +57,12 @@
 	{
 		"name": "RevisedSecondaryWindows",
 		"version": "0.4.2",
-		"count": 1236
+		"count": 1237
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 60120
+		"count": 60126
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 1020
+		"count": 1025
 	},
 	{
 		"name": "search-this-singer",
@@ -97,17 +97,17 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 28236
+		"count": 28240
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 13202
+		"count": 13205
 	},
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 3469
+		"count": 3470
 	},
 	{
 		"name": "PluginMarket",
@@ -117,7 +117,7 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 232
+		"count": 233
 	},
 	{
 		"name": "relive-theme",
@@ -132,12 +132,12 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 18832
+		"count": 18834
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 17159
+		"count": 17161
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 65477
+		"count": 65483
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 65434
+		"count": 65440
 	},
 	{
 		"name": "search-on-osu",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 40364
+		"count": 40367
 	},
 	{
 		"name": "elaina-theme",
@@ -222,12 +222,12 @@
 	{
 		"name": "artist-all-songs",
 		"version": "0.2.0",
-		"count": 317
+		"count": 318
 	},
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 836
+		"count": 840
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 40941
+		"count": 40946
 	},
 	{
 		"name": "PiPWindow",
@@ -252,17 +252,17 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 45917
+		"count": 45919
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 778
+		"count": 779
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 298
+		"count": 301
 	},
 	{
 		"name": "FluentMusicCover",
@@ -272,22 +272,22 @@
 	{
 		"name": "cpplyrics",
 		"version": "0.0.8",
-		"count": 106
+		"count": 107
 	},
 	{
 		"name": "InfLink",
 		"version": "1.0.6",
-		"count": 892
+		"count": 894
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 44769
+		"count": 44774
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 38919
+		"count": 38921
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 111184
+		"count": 111198
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 462
+		"count": 463
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 14219
+		"count": 14220
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 27427
+		"count": 27429
 	},
 	{
 		"name": "LogCleaner",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 12024
+		"count": 12025
 	},
 	{
 		"name": "libsonginfo",
@@ -342,12 +342,12 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 26445
+		"count": 26449
 	},
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 6330
+		"count": 6331
 	},
 	{
 		"name": "Microrange",
