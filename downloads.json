@@ -1,6 +1,6 @@
 [
 	{
-		"count": 165611,
+		"count": 165615,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,27 +15,27 @@
 		"version": "all"
 	},
 	{
-		"count": 1095,
+		"count": 1100,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 46755,
+		"count": 46759,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 16836,
+		"count": 16837,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 194856,
+		"count": 194868,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 42303,
+		"count": 42304,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 1412,
+		"count": 1413,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 37358,
+		"count": 37359,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 128063,
+		"count": 128067,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 93166,
+		"count": 93170,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,17 +70,17 @@
 		"version": "all"
 	},
 	{
-		"count": 60307,
+		"count": 60310,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 377,
+		"count": 378,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 182507,
+		"count": 182514,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 84679,
+		"count": 84683,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 57742,
+		"count": 57746,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,17 +110,17 @@
 		"version": "all"
 	},
 	{
-		"count": 464,
+		"count": 466,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 145530,
+		"count": 145533,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 4788,
+		"count": 4789,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
@@ -130,32 +130,32 @@
 		"version": "all"
 	},
 	{
-		"count": 107795,
+		"count": 107800,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 212906,
+		"count": 212914,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 25199,
+		"count": 25201,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 152070,
+		"count": 152078,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 6820,
+		"count": 6821,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 121692,
+		"count": 121696,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,12 +165,12 @@
 		"version": "all"
 	},
 	{
-		"count": 1916,
+		"count": 1929,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 222,
+		"count": 223,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47206,
+		"count": 47207,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 146387,
+		"count": 146391,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 834,
+		"count": 839,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 43784,
+		"count": 43786,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 33905,
+		"count": 33907,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 100162,
+		"count": 100167,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 59891,
+		"count": 59895,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 17861,
+		"count": 17862,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 132340,
+		"count": 132341,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13216,
+		"count": 13218,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
