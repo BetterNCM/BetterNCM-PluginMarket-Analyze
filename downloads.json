@@ -1,6 +1,6 @@
 [
 	{
-		"count": 166000,
+		"count": 166001,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 1353,
+		"count": 1354,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 46850,
+		"count": 46851,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 195702,
+		"count": 195705,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 42386,
+		"count": 42388,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 1706,
+		"count": 1708,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 37496,
+		"count": 37498,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 128321,
+		"count": 128322,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 93388,
+		"count": 93390,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,22 +70,22 @@
 		"version": "all"
 	},
 	{
-		"count": 60479,
+		"count": 60480,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 469,
+		"count": 470,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 182791,
+		"count": 182792,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 23796,
+		"count": 23797,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 84861,
+		"count": 84862,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 57919,
+		"count": 57920,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 565,
+		"count": 566,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 145888,
+		"count": 145889,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 9640,
+		"count": 9641,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 108066,
+		"count": 108069,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 213422,
+		"count": 213425,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152433,
+		"count": 152434,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,37 +155,37 @@
 		"version": "all"
 	},
 	{
-		"count": 121937,
+		"count": 121938,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 19767,
+		"count": 19768,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 2441,
+		"count": 2445,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 274,
+		"count": 275,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 22706,
+		"count": 22708,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 3051,
+		"count": 3052,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 47340,
+		"count": 47342,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 146782,
+		"count": 146783,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1012,
+		"count": 1013,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -215,22 +215,22 @@
 		"version": "all"
 	},
 	{
-		"count": 6602,
+		"count": 6603,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 43860,
+		"count": 43861,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 28219,
+		"count": 28221,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 34037,
+		"count": 34038,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 100403,
+		"count": 100404,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 60061,
+		"count": 60063,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 13249,
+		"count": 13250,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 39160,
+		"count": 39162,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
