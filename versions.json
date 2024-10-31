@@ -17,7 +17,7 @@
 	{
 		"name": "ZoomNCM",
 		"version": "0.2.0",
-		"count": 1061
+		"count": 1064
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 719
+		"count": 720
 	},
 	{
 		"name": "HideScrollbar",
@@ -47,22 +47,22 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 88387
+		"count": 88392
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 4344
+		"count": 4345
 	},
 	{
 		"name": "RevisedSecondaryWindows",
 		"version": "0.4.2",
-		"count": 2548
+		"count": 2552
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 61024
+		"count": 61028
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 561
+		"count": 563
 	},
 	{
 		"name": "ark-theme",
@@ -82,27 +82,27 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 1916
+		"count": 1918
 	},
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 2673
+		"count": 2675
 	},
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.9",
-		"count": 248
+		"count": 249
 	},
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 28681
+		"count": 28682
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 13431
+		"count": 13432
 	},
 	{
 		"name": "vocaloid-info",
@@ -117,7 +117,7 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 415
+		"count": 417
 	},
 	{
 		"name": "relive-theme",
@@ -137,7 +137,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 17486
+		"count": 17488
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 66446
+		"count": 66450
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 66415
+		"count": 66419
 	},
 	{
 		"name": "search-on-osu",
@@ -207,12 +207,12 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.2",
-		"count": 249
+		"count": 251
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 40955
+		"count": 40956
 	},
 	{
 		"name": "elaina-theme",
@@ -222,12 +222,12 @@
 	{
 		"name": "artist-all-songs",
 		"version": "0.2.0",
-		"count": 588
+		"count": 589
 	},
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 1598
+		"count": 1600
 	},
 	{
 		"name": "play-with-bilibili",
@@ -252,17 +252,17 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 46652
+		"count": 46654
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 1404
+		"count": 1406
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 490
+		"count": 492
 	},
 	{
 		"name": "FluentMusicCover",
@@ -277,7 +277,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.6",
-		"count": 1663
+		"count": 1666
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -297,7 +297,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 113285
+		"count": 113292
 	},
 	{
 		"name": "LogCleaner",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 27860
+		"count": 27863
 	},
 	{
 		"name": "LogCleaner",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 6225
+		"count": 6226
 	}
 ]
