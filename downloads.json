@@ -1,6 +1,6 @@
 [
 	{
-		"count": 166118,
+		"count": 166123,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 1408,
+		"count": 1410,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 46886,
+		"count": 46889,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 195933,
+		"count": 195941,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 42407,
+		"count": 42408,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 1791,
+		"count": 1795,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 37536,
+		"count": 37538,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 128395,
+		"count": 128396,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 93455,
+		"count": 93457,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 60536,
+		"count": 60537,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 182866,
+		"count": 182867,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 84920,
+		"count": 84922,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 57960,
+		"count": 57961,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 589,
+		"count": 592,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 146004,
+		"count": 146009,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 9653,
+		"count": 9655,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 108146,
+		"count": 108148,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 213566,
+		"count": 213570,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152524,
+		"count": 152531,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 122006,
+		"count": 122007,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,12 +165,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2560,
+		"count": 2562,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 287,
+		"count": 288,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47371,
+		"count": 47373,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,22 +200,22 @@
 		"version": "all"
 	},
 	{
-		"count": 146903,
+		"count": 146909,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1067,
+		"count": 1069,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
 	{
-		"count": 7627,
+		"count": 7628,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
 	{
-		"count": 6605,
+		"count": 6606,
 		"name": "Customize",
 		"version": "all"
 	},
@@ -225,12 +225,12 @@
 		"version": "all"
 	},
 	{
-		"count": 28231,
+		"count": 28233,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 34077,
+		"count": 34078,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 100481,
+		"count": 100483,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,17 +255,17 @@
 		"version": "all"
 	},
 	{
-		"count": 30888,
+		"count": 30889,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 60118,
+		"count": 60120,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 13266,
+		"count": 13267,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 132733,
+		"count": 132737,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13273,
+		"count": 13274,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
