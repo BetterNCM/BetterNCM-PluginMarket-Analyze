@@ -1,6 +1,6 @@
 [
 	{
-		"count": 166095,
+		"count": 166099,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 16874,
+		"count": 16875,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 195882,
+		"count": 195891,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,17 +45,17 @@
 		"version": "all"
 	},
 	{
-		"count": 1771,
+		"count": 1776,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 37529,
+		"count": 37530,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 128377,
+		"count": 128379,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 60521,
+		"count": 60523,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 145980,
+		"count": 145984,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 108132,
+		"count": 108134,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 213538,
+		"count": 213543,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152511,
+		"count": 152514,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 121988,
+		"count": 121990,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 2538,
+		"count": 2541,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 22730,
+		"count": 22732,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 146879,
+		"count": 146883,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1052,
+		"count": 1056,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 43877,
+		"count": 43878,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 100467,
+		"count": 100468,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 13263,
+		"count": 13264,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 132710,
+		"count": 132712,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
