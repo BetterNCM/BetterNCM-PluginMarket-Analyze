@@ -1,11 +1,11 @@
 [
 	{
-		"count": 166317,
+		"count": 166319,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 62720,
+		"count": 62721,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46934,
+		"count": 46936,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 196333,
+		"count": 196342,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 42452,
+		"count": 42453,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1968,
+		"count": 1969,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 128514,
+		"count": 128517,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 93565,
+		"count": 93569,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 60615,
+		"count": 60617,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,27 +80,27 @@
 		"version": "all"
 	},
 	{
-		"count": 182988,
+		"count": 182989,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 23914,
+		"count": 23917,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 211,
+		"count": 212,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 85015,
+		"count": 85018,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 58031,
+		"count": 58032,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -120,22 +120,22 @@
 		"version": "all"
 	},
 	{
-		"count": 4916,
+		"count": 4917,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
 	{
-		"count": 9666,
+		"count": 9667,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 108281,
+		"count": 108282,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 213826,
+		"count": 213829,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152721,
+		"count": 152725,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 122117,
+		"count": 122120,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 2717,
+		"count": 2719,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 22776,
+		"count": 22777,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47432,
+		"count": 47433,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 147111,
+		"count": 147112,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1152,
+		"count": 1154,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,17 +220,17 @@
 		"version": "all"
 	},
 	{
-		"count": 43925,
+		"count": 43926,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 28258,
+		"count": 28259,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 34144,
+		"count": 34146,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 100608,
+		"count": 100613,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 8813,
+		"count": 8814,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 30913,
+		"count": 30915,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 60204,
+		"count": 60207,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 17924,
+		"count": 17925,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 132902,
+		"count": 132904,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,7 +290,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11474,
+		"count": 11476,
 		"name": "relive-theme",
 		"version": "all"
 	},
