@@ -1,11 +1,11 @@
 [
 	{
-		"count": 166480,
+		"count": 166484,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 62758,
+		"count": 62759,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1579,
+		"count": 1583,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -25,17 +25,17 @@
 		"version": "all"
 	},
 	{
-		"count": 16911,
+		"count": 16912,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 196699,
+		"count": 196716,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 42485,
+		"count": 42486,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,57 +45,57 @@
 		"version": "all"
 	},
 	{
-		"count": 2095,
+		"count": 2101,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 37678,
+		"count": 37680,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 128617,
+		"count": 128618,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 93656,
+		"count": 93662,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 4833,
+		"count": 4834,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 60673,
+		"count": 60674,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 561,
+		"count": 562,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 183079,
+		"count": 183083,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 23964,
+		"count": 23967,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 221,
+		"count": 222,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 85083,
+		"count": 85087,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,27 +115,27 @@
 		"version": "all"
 	},
 	{
-		"count": 146351,
+		"count": 146354,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 4945,
+		"count": 4946,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
 	{
-		"count": 9680,
+		"count": 9682,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 108383,
+		"count": 108387,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 214048,
+		"count": 214053,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152882,
+		"count": 152887,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -160,22 +160,22 @@
 		"version": "all"
 	},
 	{
-		"count": 19839,
+		"count": 19840,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 2812,
+		"count": 2813,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 321,
+		"count": 323,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 22804,
+		"count": 22805,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47468,
+		"count": 47470,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 147273,
+		"count": 147277,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,27 +210,27 @@
 		"version": "all"
 	},
 	{
-		"count": 7655,
+		"count": 7656,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
 	{
-		"count": 6617,
+		"count": 6618,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 43953,
+		"count": 43956,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 28273,
+		"count": 28274,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 34189,
+		"count": 34192,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 100700,
+		"count": 100704,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -250,27 +250,27 @@
 		"version": "all"
 	},
 	{
-		"count": 8739,
+		"count": 8740,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 30932,
+		"count": 30934,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 60269,
+		"count": 60274,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 13318,
+		"count": 13320,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 17934,
+		"count": 17935,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 133033,
+		"count": 133035,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13313,
+		"count": 13314,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
