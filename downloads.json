@@ -1,6 +1,6 @@
 [
 	{
-		"count": 166760,
+		"count": 166762,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1734,
+		"count": 1735,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 197258,
+		"count": 197259,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 2282,
+		"count": 2286,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 37796,
+		"count": 37797,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 128790,
+		"count": 128791,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 93829,
+		"count": 93831,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 60780,
+		"count": 60781,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 183283,
+		"count": 183284,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 146619,
+		"count": 146621,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 214431,
+		"count": 214433,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 153146,
+		"count": 153147,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 122357,
+		"count": 122358,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 2940,
+		"count": 2941,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 147557,
+		"count": 147559,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,7 +210,7 @@
 		"version": "all"
 	},
 	{
-		"count": 7682,
+		"count": 7683,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 100875,
+		"count": 100877,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 60394,
+		"count": 60396,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 17957,
+		"count": 17958,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 133271,
+		"count": 133273,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13338,
+		"count": 13339,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
