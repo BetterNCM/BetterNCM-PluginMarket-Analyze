@@ -52,7 +52,7 @@
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 4399
+		"count": 4400
 	},
 	{
 		"name": "RevisedSecondaryWindows",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 2544
+		"count": 2545
 	},
 	{
 		"name": "search-this-singer",
@@ -132,7 +132,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 19483
+		"count": 19484
 	},
 	{
 		"name": "VisualRecord",
@@ -142,17 +142,17 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 15552
+		"count": 15553
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 6441
+		"count": 6442
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 67097
+		"count": 67098
 	},
 	{
 		"name": "ark-theme",
@@ -162,7 +162,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 3911
+		"count": 3912
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 41333
+		"count": 41334
 	},
 	{
 		"name": "elaina-theme",
@@ -222,7 +222,7 @@
 	{
 		"name": "artist-all-songs",
 		"version": "0.2.0",
-		"count": 669
+		"count": 670
 	},
 	{
 		"name": "BGEnhanced",
@@ -252,17 +252,17 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 47095
+		"count": 47096
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 1733
+		"count": 1734
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 609
+		"count": 610
 	},
 	{
 		"name": "FluentMusicCover",
@@ -287,22 +287,22 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 39932
+		"count": 39933
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 10274
+		"count": 10275
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 114629
+		"count": 114631
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 1112
+		"count": 1113
 	},
 	{
 		"name": "MoreHooks",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 6271
+		"count": 6273
 	}
 ]
