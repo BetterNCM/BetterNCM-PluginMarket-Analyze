@@ -1,6 +1,6 @@
 [
 	{
-		"count": 167100,
+		"count": 167102,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1914,
+		"count": 1917,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 197929,
+		"count": 197935,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 2527,
+		"count": 2528,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 37925,
+		"count": 37927,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 129020,
+		"count": 129023,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 94034,
+		"count": 94037,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,17 +70,17 @@
 		"version": "all"
 	},
 	{
-		"count": 60932,
+		"count": 60935,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 685,
+		"count": 686,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 183513,
+		"count": 183515,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 85385,
+		"count": 85386,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 58326,
+		"count": 58330,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 146946,
+		"count": 146948,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 108816,
+		"count": 108817,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 214870,
+		"count": 214873,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 25468,
+		"count": 25470,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 153450,
+		"count": 153452,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,27 +155,27 @@
 		"version": "all"
 	},
 	{
-		"count": 122572,
+		"count": 122575,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 19971,
+		"count": 19972,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 3079,
+		"count": 3081,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 392,
+		"count": 394,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 22956,
+		"count": 22957,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47669,
+		"count": 47670,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 147906,
+		"count": 147908,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1365,
+		"count": 1366,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 44102,
+		"count": 44103,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 34388,
+		"count": 34389,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 101098,
+		"count": 101099,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 60531,
+		"count": 60534,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 13409,
+		"count": 13410,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 133533,
+		"count": 133535,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13379,
+		"count": 13380,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
