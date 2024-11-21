@@ -37,7 +37,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 8167
+		"count": 8168
 	},
 	{
 		"name": "PluginMarket",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 90327
+		"count": 90328
 	},
 	{
 		"name": "keyboard-seek",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 944
+		"count": 946
 	},
 	{
 		"name": "ark-theme",
@@ -137,12 +137,12 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 17935
+		"count": 17936
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 15752
+		"count": 15753
 	},
 	{
 		"name": "GPTTrans",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 67884
+		"count": 67885
 	},
 	{
 		"name": "ark-theme",
@@ -202,7 +202,7 @@
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 3008
+		"count": 3009
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 41836
+		"count": 41837
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 2799
+		"count": 2802
 	},
 	{
 		"name": "play-with-bilibili",
@@ -252,12 +252,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 47680
+		"count": 47681
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 2168
+		"count": 2169
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -277,7 +277,7 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.6",
-		"count": 2624
+		"count": 2625
 	},
 	{
 		"name": "LibEAPIRequest",
@@ -297,7 +297,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 116246
+		"count": 116247
 	},
 	{
 		"name": "LogCleaner",
