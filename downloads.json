@@ -1,6 +1,6 @@
 [
 	{
-		"count": 167852,
+		"count": 167857,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2342,
+		"count": 2343,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 47348,
+		"count": 47350,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 199537,
+		"count": 199542,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 3015,
+		"count": 3016,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 38248,
+		"count": 38249,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 129556,
+		"count": 129557,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 94526,
+		"count": 94527,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,17 +70,17 @@
 		"version": "all"
 	},
 	{
-		"count": 61266,
+		"count": 61267,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 879,
+		"count": 880,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 184054,
+		"count": 184056,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -90,17 +90,17 @@
 		"version": "all"
 	},
 	{
-		"count": 333,
+		"count": 334,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 85772,
+		"count": 85773,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 58647,
+		"count": 58648,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,12 +115,12 @@
 		"version": "all"
 	},
 	{
-		"count": 147660,
+		"count": 147664,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 5204,
+		"count": 5205,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 109409,
+		"count": 109413,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 215920,
+		"count": 215927,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 154141,
+		"count": 154142,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 123066,
+		"count": 123067,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,17 +165,17 @@
 		"version": "all"
 	},
 	{
-		"count": 3353,
+		"count": 3354,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 508,
+		"count": 510,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 23162,
+		"count": 23164,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47917,
+		"count": 47919,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 7608,
+		"count": 7609,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 148700,
+		"count": 148704,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -230,17 +230,17 @@
 		"version": "all"
 	},
 	{
-		"count": 34655,
+		"count": 34656,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 23235,
+		"count": 23236,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 101600,
+		"count": 101603,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 39589,
+		"count": 39590,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
