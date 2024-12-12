@@ -7,12 +7,12 @@
 	{
 		"name": "LyricBarBlur",
 		"version": "1.0.3",
-		"count": 1105
+		"count": 1106
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 33992
+		"count": 33995
 	},
 	{
 		"name": "ZoomNCM",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 92049
+		"count": 92056
 	},
 	{
 		"name": "keyboard-seek",
@@ -57,12 +57,12 @@
 	{
 		"name": "RevisedSecondaryWindows",
 		"version": "0.4.2",
-		"count": 3710
+		"count": 3711
 	},
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 63548
+		"count": 63551
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 1302
+		"count": 1303
 	},
 	{
 		"name": "ark-theme",
@@ -82,12 +82,12 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 4502
+		"count": 4503
 	},
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 2783
+		"count": 2784
 	},
 	{
 		"name": "ActionEnhancement",
@@ -97,7 +97,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 29957
+		"count": 29961
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -132,37 +132,37 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 20344
+		"count": 20345
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 18333
+		"count": 18335
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 16072
+		"count": 16074
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 6641
+		"count": 6642
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 69120
+		"count": 69123
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 1165
+		"count": 1166
 	},
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 4052
+		"count": 4053
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 69160
+		"count": 69164
 	},
 	{
 		"name": "search-on-osu",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 42680
+		"count": 42683
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 3840
+		"count": 3844
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 43294
+		"count": 43297
 	},
 	{
 		"name": "PiPWindow",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 48688
+		"count": 48694
 	},
 	{
 		"name": "DowngradeOK",
@@ -262,12 +262,12 @@
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 1014
+		"count": 1015
 	},
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 10103
+		"count": 10104
 	},
 	{
 		"name": "cpplyrics",
@@ -277,32 +277,32 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.6",
-		"count": 3486
+		"count": 3487
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 47314
+		"count": 47317
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 41315
+		"count": 41319
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 10519
+		"count": 10520
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 118842
+		"count": 118849
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 1941
+		"count": 1943
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 15020
+		"count": 15021
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 29054
+		"count": 29055
 	},
 	{
 		"name": "LogCleaner",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 12923
+		"count": 12924
 	},
 	{
 		"name": "libsonginfo",
@@ -342,7 +342,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 28021
+		"count": 28023
 	},
 	{
 		"name": "CrashFix",
