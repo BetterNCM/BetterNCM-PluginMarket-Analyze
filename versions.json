@@ -17,7 +17,7 @@
 	{
 		"name": "ZoomNCM",
 		"version": "0.2.0",
-		"count": 1727
+		"count": 1728
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 92287
+		"count": 92289
 	},
 	{
 		"name": "keyboard-seek",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 4689
+		"count": 4690
 	},
 	{
 		"name": "search-this-singer",
@@ -102,7 +102,7 @@
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 14122
+		"count": 14124
 	},
 	{
 		"name": "vocaloid-info",
@@ -142,7 +142,7 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 16119
+		"count": 16120
 	},
 	{
 		"name": "GPTTrans",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 69291
+		"count": 69292
 	},
 	{
 		"name": "ark-theme",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 42814
+		"count": 42815
 	},
 	{
 		"name": "elaina-theme",
@@ -222,7 +222,7 @@
 	{
 		"name": "artist-all-songs",
 		"version": "0.2.0",
-		"count": 890
+		"count": 891
 	},
 	{
 		"name": "BGEnhanced",
@@ -267,7 +267,7 @@
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 10137
+		"count": 10138
 	},
 	{
 		"name": "cpplyrics",
@@ -277,17 +277,17 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.6",
-		"count": 3612
+		"count": 3613
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 47432
+		"count": 47433
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 41448
+		"count": 41450
 	},
 	{
 		"name": "Transmission",
@@ -302,7 +302,7 @@
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 2022
+		"count": 2023
 	},
 	{
 		"name": "MoreHooks",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 6475
+		"count": 6476
 	}
 ]
