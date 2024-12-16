@@ -1,6 +1,6 @@
 [
 	{
-		"count": 168955,
+		"count": 168956,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47676,
+		"count": 47677,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 201867,
+		"count": 201868,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 43125,
+		"count": 43126,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3414,
+		"count": 3415,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 148686,
+		"count": 148687,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 9895,
+		"count": 9896,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 110327,
+		"count": 110328,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 217459,
+		"count": 217461,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 155292,
+		"count": 155293,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48273,
+		"count": 48275,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 149820,
+		"count": 149821,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1728,
+		"count": 1730,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 135118,
+		"count": 135119,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13616,
+		"count": 13617,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
