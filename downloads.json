@@ -1,11 +1,11 @@
 [
 	{
-		"count": 169002,
+		"count": 169006,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 63637,
+		"count": 63638,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2973,
+		"count": 2975,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 47689,
+		"count": 47690,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 201966,
+		"count": 201972,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3423,
+		"count": 3424,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -60,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 95344,
+		"count": 95345,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,17 +80,17 @@
 		"version": "all"
 	},
 	{
-		"count": 184843,
+		"count": 184844,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 25014,
+		"count": 25017,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 442,
+		"count": 443,
 		"name": "cpplyrics",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 59198,
+		"count": 59199,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 148731,
+		"count": 148735,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 110359,
+		"count": 110363,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 217528,
+		"count": 217533,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 25899,
+		"count": 25900,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 155335,
+		"count": 155339,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -160,12 +160,12 @@
 		"version": "all"
 	},
 	{
-		"count": 20332,
+		"count": 20333,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 3863,
+		"count": 3864,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 149870,
+		"count": 149873,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 44509,
+		"count": 44511,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 102426,
+		"count": 102428,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 31276,
+		"count": 31277,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 61526,
+		"count": 61528,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 135166,
+		"count": 135168,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13624,
+		"count": 13625,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
