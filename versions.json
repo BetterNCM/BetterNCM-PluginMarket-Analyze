@@ -12,7 +12,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 34162
+		"count": 34163
 	},
 	{
 		"name": "ZoomNCM",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 1409
+		"count": 1410
 	},
 	{
 		"name": "ark-theme",
@@ -97,12 +97,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 30174
+		"count": 30175
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 14174
+		"count": 14175
 	},
 	{
 		"name": "vocaloid-info",
@@ -137,7 +137,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 18440
+		"count": 18441
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -147,12 +147,12 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 6674
+		"count": 6676
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 69480
+		"count": 69481
 	},
 	{
 		"name": "ark-theme",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 42956
+		"count": 42958
 	},
 	{
 		"name": "elaina-theme",
@@ -232,7 +232,7 @@
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 7039
+		"count": 7041
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 48988
+		"count": 48989
 	},
 	{
 		"name": "DowngradeOK",
@@ -282,27 +282,27 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 47561
+		"count": 47562
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 41588
+		"count": 41589
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 10561
+		"count": 10562
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 119654
+		"count": 119655
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 2121
+		"count": 2122
 	},
 	{
 		"name": "MoreHooks",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 13017
+		"count": 13018
 	},
 	{
 		"name": "libsonginfo",
