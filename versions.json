@@ -7,12 +7,12 @@
 	{
 		"name": "LyricBarBlur",
 		"version": "1.0.3",
-		"count": 1248
+		"count": 1249
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 34343
+		"count": 34344
 	},
 	{
 		"name": "ZoomNCM",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 93050
+		"count": 93051
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 64225
+		"count": 64226
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 5219
+		"count": 5220
 	},
 	{
 		"name": "search-this-singer",
@@ -127,12 +127,12 @@
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 715
+		"count": 716
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 20644
+		"count": 20645
 	},
 	{
 		"name": "VisualRecord",
@@ -142,22 +142,22 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 16252
+		"count": 16253
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 6715
+		"count": 6716
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 69835
+		"count": 69836
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 1315
+		"count": 1316
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 69893
+		"count": 69896
 	},
 	{
 		"name": "search-on-osu",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 4422
+		"count": 4424
 	},
 	{
 		"name": "play-with-bilibili",
@@ -257,7 +257,7 @@
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 3210
+		"count": 3212
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -277,17 +277,17 @@
 	{
 		"name": "InfLink",
 		"version": "1.0.6",
-		"count": 3942
+		"count": 3943
 	},
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 47779
+		"count": 47780
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 41844
+		"count": 41845
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 120375
+		"count": 120378
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 2252
+		"count": 2253
 	},
 	{
 		"name": "MoreHooks",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 13098
+		"count": 13099
 	},
 	{
 		"name": "libsonginfo",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 6523
+		"count": 6524
 	}
 ]
