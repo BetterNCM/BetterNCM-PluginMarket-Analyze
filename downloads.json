@@ -1,11 +1,11 @@
 [
 	{
-		"count": 169630,
+		"count": 169632,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 63898,
+		"count": 63899,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3265,
+		"count": 3267,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 203266,
+		"count": 203275,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 43283,
+		"count": 43284,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,42 +50,42 @@
 		"version": "all"
 	},
 	{
-		"count": 39007,
+		"count": 39009,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 130839,
+		"count": 130846,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 95764,
+		"count": 95766,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5025,
+		"count": 5026,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 62072,
+		"count": 62077,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 1277,
+		"count": 1278,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 185235,
+		"count": 185242,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 25282,
+		"count": 25283,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 86700,
+		"count": 86703,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 59435,
+		"count": 59437,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,12 +115,12 @@
 		"version": "all"
 	},
 	{
-		"count": 149316,
+		"count": 149318,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 5551,
+		"count": 5552,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 110833,
+		"count": 110835,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 218396,
+		"count": 218400,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 155930,
+		"count": 155935,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,27 +155,27 @@
 		"version": "all"
 	},
 	{
-		"count": 124246,
+		"count": 124253,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 20465,
+		"count": 20466,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 4089,
+		"count": 4096,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 726,
+		"count": 727,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 23613,
+		"count": 23617,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48483,
+		"count": 48484,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 150505,
+		"count": 150509,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 1866,
+		"count": 1869,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 44669,
+		"count": 44670,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 35226,
+		"count": 35230,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 102888,
+		"count": 102892,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 61845,
+		"count": 61848,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 135654,
+		"count": 135656,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,12 +290,12 @@
 		"version": "all"
 	},
 	{
-		"count": 11790,
+		"count": 11791,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 40044,
+		"count": 40045,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
