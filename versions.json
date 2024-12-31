@@ -147,7 +147,7 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 6752
+		"count": 6753
 	},
 	{
 		"name": "StylesheetLoader",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 43967
+		"count": 43968
 	},
 	{
 		"name": "PiPWindow",
@@ -282,12 +282,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 48038
+		"count": 48039
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 42056
+		"count": 42057
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 120954
+		"count": 120955
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 2379
+		"count": 2380
 	},
 	{
 		"name": "MoreHooks",
