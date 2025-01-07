@@ -1,11 +1,11 @@
 [
 	{
-		"count": 170291,
+		"count": 170295,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 64204,
+		"count": 64207,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,22 +15,22 @@
 		"version": "all"
 	},
 	{
-		"count": 3594,
+		"count": 3599,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 48037,
+		"count": 48039,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 17310,
+		"count": 17311,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 204781,
+		"count": 204791,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 39300,
+		"count": 39301,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 131447,
+		"count": 131454,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 96268,
+		"count": 96269,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 62408,
+		"count": 62414,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,27 +80,27 @@
 		"version": "all"
 	},
 	{
-		"count": 186100,
+		"count": 186104,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 25576,
+		"count": 25581,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 542,
+		"count": 543,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 87116,
+		"count": 87118,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 59735,
+		"count": 59738,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 149946,
+		"count": 149950,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,57 +125,57 @@
 		"version": "all"
 	},
 	{
-		"count": 10033,
+		"count": 10034,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 111352,
+		"count": 111355,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 219309,
+		"count": 219313,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 26174,
+		"count": 26175,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 156631,
+		"count": 156634,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 6968,
+		"count": 6969,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 124831,
+		"count": 124837,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 20611,
+		"count": 20612,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 4617,
+		"count": 4619,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 812,
+		"count": 813,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 23801,
+		"count": 23802,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48716,
+		"count": 48717,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,17 +200,17 @@
 		"version": "all"
 	},
 	{
-		"count": 151207,
+		"count": 151210,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 2010,
+		"count": 2012,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
 	{
-		"count": 8059,
+		"count": 8060,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -235,17 +235,17 @@
 		"version": "all"
 	},
 	{
-		"count": 23462,
+		"count": 23463,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 103404,
+		"count": 103407,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9106,
+		"count": 9107,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 62221,
+		"count": 62222,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 136219,
+		"count": 136225,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 40236,
+		"count": 40239,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
