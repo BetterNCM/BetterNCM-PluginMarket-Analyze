@@ -1,6 +1,6 @@
 [
 	{
-		"count": 170721,
+		"count": 170726,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3819,
+		"count": 3820,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -25,17 +25,17 @@
 		"version": "all"
 	},
 	{
-		"count": 17353,
+		"count": 17354,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 205783,
+		"count": 205791,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 43568,
+		"count": 43570,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,57 +45,57 @@
 		"version": "all"
 	},
 	{
-		"count": 3738,
+		"count": 3739,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 39457,
+		"count": 39460,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 131780,
+		"count": 131782,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 96565,
+		"count": 96568,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5084,
+		"count": 5085,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 62601,
+		"count": 62603,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 1487,
+		"count": 1488,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 186503,
+		"count": 186505,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 25751,
+		"count": 25753,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 591,
+		"count": 592,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 87359,
+		"count": 87361,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 150341,
+		"count": 150346,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 10079,
+		"count": 10080,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 111686,
+		"count": 111691,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 219899,
+		"count": 219905,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 157061,
+		"count": 157066,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,37 +155,37 @@
 		"version": "all"
 	},
 	{
-		"count": 125141,
+		"count": 125143,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 20696,
+		"count": 20699,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 4833,
+		"count": 4839,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 869,
+		"count": 870,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 23912,
+		"count": 23915,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 3285,
+		"count": 3286,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 48863,
+		"count": 48865,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,17 +200,17 @@
 		"version": "all"
 	},
 	{
-		"count": 151645,
+		"count": 151651,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 2093,
+		"count": 2094,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
 	{
-		"count": 8102,
+		"count": 8103,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -220,32 +220,32 @@
 		"version": "all"
 	},
 	{
-		"count": 44951,
+		"count": 44954,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 28766,
+		"count": 28767,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 35661,
+		"count": 35665,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 23500,
+		"count": 23501,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 103708,
+		"count": 103712,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9140,
+		"count": 9141,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 62435,
+		"count": 62438,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18335,
+		"count": 18336,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,22 +280,22 @@
 		"version": "all"
 	},
 	{
-		"count": 136556,
+		"count": 136558,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 13845,
+		"count": 13846,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
 	{
-		"count": 11911,
+		"count": 11912,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 40361,
+		"count": 40365,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
