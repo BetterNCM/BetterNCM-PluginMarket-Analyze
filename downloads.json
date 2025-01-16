@@ -1,11 +1,11 @@
 [
 	{
-		"count": 170809,
+		"count": 170810,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 64424,
+		"count": 64425,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 3868,
+		"count": 3870,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 48189,
+		"count": 48190,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 205962,
+		"count": 205965,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 43593,
+		"count": 43594,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 3754,
+		"count": 3755,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 39496,
+		"count": 39497,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 131864,
+		"count": 131865,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 96626,
+		"count": 96628,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 186597,
+		"count": 186598,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 25800,
+		"count": 25802,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 150425,
+		"count": 150426,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 111764,
+		"count": 111766,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 220034,
+		"count": 220036,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 125214,
+		"count": 125215,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 4868,
+		"count": 4870,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 23947,
+		"count": 23948,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151730,
+		"count": 151731,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 103762,
+		"count": 103764,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 62473,
+		"count": 62475,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
