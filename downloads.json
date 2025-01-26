@@ -1,6 +1,6 @@
 [
 	{
-		"count": 171459,
+		"count": 171462,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48363,
+		"count": 48364,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 207357,
+		"count": 207359,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 43774,
+		"count": 43775,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -55,7 +55,7 @@
 		"version": "all"
 	},
 	{
-		"count": 132611,
+		"count": 132613,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 187145,
+		"count": 187149,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 87773,
+		"count": 87774,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151034,
+		"count": 151037,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,17 +130,17 @@
 		"version": "all"
 	},
 	{
-		"count": 112318,
+		"count": 112319,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 220978,
+		"count": 220981,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 26410,
+		"count": 26411,
 		"name": "elaina-theme",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 125978,
+		"count": 125980,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -170,7 +170,7 @@
 		"version": "all"
 	},
 	{
-		"count": 986,
+		"count": 988,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49091,
+		"count": 49092,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152395,
+		"count": 152399,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,12 +220,12 @@
 		"version": "all"
 	},
 	{
-		"count": 45143,
+		"count": 45144,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 28868,
+		"count": 28870,
 		"name": "Transmission",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 104245,
+		"count": 104246,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9197,
+		"count": 9199,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -275,12 +275,12 @@
 		"version": "all"
 	},
 	{
-		"count": 8043,
+		"count": 8044,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 137164,
+		"count": 137166,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 40588,
+		"count": 40589,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
