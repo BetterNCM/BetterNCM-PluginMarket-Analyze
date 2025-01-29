@@ -1,6 +1,6 @@
 [
 	{
-		"count": 171560,
+		"count": 171561,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 207597,
+		"count": 207598,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 132723,
+		"count": 132724,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 97138,
+		"count": 97139,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 62966,
+		"count": 62967,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 60267,
+		"count": 60268,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151126,
+		"count": 151127,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 221139,
+		"count": 221140,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 157911,
+		"count": 157912,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 126088,
+		"count": 126089,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49124,
+		"count": 49125,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152496,
+		"count": 152497,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -215,17 +215,17 @@
 		"version": "all"
 	},
 	{
-		"count": 6773,
+		"count": 6774,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 45177,
+		"count": 45178,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 28884,
+		"count": 28885,
 		"name": "Transmission",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 62887,
+		"count": 62888,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
