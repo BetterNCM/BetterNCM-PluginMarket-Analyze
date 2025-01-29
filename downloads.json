@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 4255,
+		"count": 4257,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 48396,
+		"count": 48397,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 207544,
+		"count": 207548,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 43799,
+		"count": 43800,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 3921,
+		"count": 3922,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 39812,
+		"count": 39813,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 132688,
+		"count": 132689,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 97108,
+		"count": 97110,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 187221,
+		"count": 187226,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 26138,
+		"count": 26139,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 112387,
+		"count": 112390,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 221105,
+		"count": 221107,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 157879,
+		"count": 157880,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,17 +155,17 @@
 		"version": "all"
 	},
 	{
-		"count": 126054,
+		"count": 126055,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 20881,
+		"count": 20882,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 5222,
+		"count": 5223,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 24149,
+		"count": 24150,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45171,
+		"count": 45173,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 104300,
+		"count": 104301,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 62863,
+		"count": 62865,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 40621,
+		"count": 40622,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
