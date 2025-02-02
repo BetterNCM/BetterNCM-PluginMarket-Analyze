@@ -1,6 +1,6 @@
 [
 	{
-		"count": 171671,
+		"count": 171672,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 4344,
+		"count": 4345,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 48435,
+		"count": 48436,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 207847,
+		"count": 207848,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3956,
+		"count": 3958,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,7 +55,7 @@
 		"version": "all"
 	},
 	{
-		"count": 132821,
+		"count": 132823,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
@@ -65,12 +65,12 @@
 		"version": "all"
 	},
 	{
-		"count": 5147,
+		"count": 5148,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 63011,
+		"count": 63012,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 187347,
+		"count": 187348,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 87903,
+		"count": 87904,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 60306,
+		"count": 60307,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151233,
+		"count": 151234,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 112502,
+		"count": 112503,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 221309,
+		"count": 221310,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 158025,
+		"count": 158027,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 126186,
+		"count": 126188,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 5308,
+		"count": 5311,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -180,7 +180,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3331,
+		"count": 3332,
 		"name": "beat-saver",
 		"version": "all"
 	},
@@ -195,17 +195,17 @@
 		"version": "all"
 	},
 	{
-		"count": 7797,
+		"count": 7798,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 152612,
+		"count": 152613,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 2301,
+		"count": 2302,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -245,12 +245,12 @@
 		"version": "all"
 	},
 	{
-		"count": 9214,
+		"count": 9215,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
 	{
-		"count": 9024,
+		"count": 9025,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
@@ -275,7 +275,7 @@
 		"version": "all"
 	},
 	{
-		"count": 8052,
+		"count": 8053,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
