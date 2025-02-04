@@ -2,7 +2,7 @@
 	{
 		"name": "Customize",
 		"version": "0.3.2",
-		"count": 1882
+		"count": 1883
 	},
 	{
 		"name": "LyricBarBlur",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 96260
+		"count": 96261
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 66330
+		"count": 66331
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 2133
+		"count": 2134
 	},
 	{
 		"name": "ark-theme",
@@ -92,7 +92,7 @@
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.9",
-		"count": 1039
+		"count": 1040
 	},
 	{
 		"name": "crossfade-lfp",
@@ -107,7 +107,7 @@
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 3854
+		"count": 3855
 	},
 	{
 		"name": "PluginMarket",
@@ -222,7 +222,7 @@
 	{
 		"name": "artist-all-songs",
 		"version": "0.2.0",
-		"count": 1164
+		"count": 1165
 	},
 	{
 		"name": "BGEnhanced",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 45836
+		"count": 45838
 	},
 	{
 		"name": "PiPWindow",
@@ -252,17 +252,17 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 51098
+		"count": 51100
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 4394
+		"count": 4396
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 1617
+		"count": 1618
 	},
 	{
 		"name": "FluentMusicCover",
@@ -282,7 +282,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 49950
+		"count": 49951
 	},
 	{
 		"name": "FluentProgressBar",
@@ -302,7 +302,7 @@
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 3265
+		"count": 3266
 	},
 	{
 		"name": "MoreHooks",
