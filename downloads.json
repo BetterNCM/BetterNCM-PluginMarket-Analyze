@@ -1,6 +1,6 @@
 [
 	{
-		"count": 172336,
+		"count": 172337,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48646,
+		"count": 48647,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 209291,
+		"count": 209296,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 44041,
+		"count": 44042,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 133472,
+		"count": 133477,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 97694,
+		"count": 97695,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 63344,
+		"count": 63346,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 187860,
+		"count": 187862,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 26501,
+		"count": 26502,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 60552,
+		"count": 60555,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151849,
+		"count": 151850,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 113072,
+		"count": 113075,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 222263,
+		"count": 222266,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 158710,
+		"count": 158712,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 126830,
+		"count": 126835,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49353,
+		"count": 49355,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,17 +200,17 @@
 		"version": "all"
 	},
 	{
-		"count": 153292,
+		"count": 153293,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 2424,
+		"count": 2425,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
 	{
-		"count": 8294,
+		"count": 8295,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45377,
+		"count": 45378,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 104894,
+		"count": 104896,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -265,12 +265,12 @@
 		"version": "all"
 	},
 	{
-		"count": 14218,
+		"count": 14219,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 18514,
+		"count": 18515,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 137923,
+		"count": 137925,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
