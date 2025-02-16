@@ -1,11 +1,11 @@
 [
 	{
-		"count": 172350,
+		"count": 172351,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 65012,
+		"count": 65015,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 4723,
+		"count": 4725,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 209316,
+		"count": 209325,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 44049,
+		"count": 44050,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 133487,
+		"count": 133488,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 97705,
+		"count": 97707,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 187870,
+		"count": 187872,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -90,12 +90,12 @@
 		"version": "all"
 	},
 	{
-		"count": 746,
+		"count": 747,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 88298,
+		"count": 88299,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151862,
+		"count": 151863,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 113086,
+		"count": 113088,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 222285,
+		"count": 222287,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -150,12 +150,12 @@
 		"version": "all"
 	},
 	{
-		"count": 7054,
+		"count": 7055,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 126846,
+		"count": 126847,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 5665,
+		"count": 5666,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 153306,
+		"count": 153307,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 104904,
+		"count": 104905,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,17 +255,17 @@
 		"version": "all"
 	},
 	{
-		"count": 31765,
+		"count": 31766,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 63309,
+		"count": 63310,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 14222,
+		"count": 14223,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 137933,
+		"count": 137935,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 14084,
+		"count": 14085,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
