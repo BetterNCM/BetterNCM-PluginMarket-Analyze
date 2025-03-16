@@ -1,6 +1,6 @@
 [
 	{
-		"count": 173897,
+		"count": 173898,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 5522,
+		"count": 5525,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 49105,
+		"count": 49106,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 212757,
+		"count": 212762,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 44444,
+		"count": 44445,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 135036,
+		"count": 135039,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 98790,
+		"count": 98793,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 189063,
+		"count": 189064,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 61273,
+		"count": 61275,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 1346,
+		"count": 1347,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 153322,
+		"count": 153323,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 114422,
+		"count": 114423,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 224498,
+		"count": 224500,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 160225,
+		"count": 160226,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,12 +155,12 @@
 		"version": "all"
 	},
 	{
-		"count": 128368,
+		"count": 128371,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 21370,
+		"count": 21371,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 154886,
+		"count": 154887,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 2721,
+		"count": 2722,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 105975,
+		"count": 105977,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 64132,
+		"count": 64134,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 14453,
+		"count": 14454,
 		"name": "CrashFix",
 		"version": "all"
 	},
