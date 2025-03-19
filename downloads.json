@@ -1,6 +1,6 @@
 [
 	{
-		"count": 174105,
+		"count": 174109,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 5621,
+		"count": 5623,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -25,42 +25,42 @@
 		"version": "all"
 	},
 	{
-		"count": 17734,
+		"count": 17735,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 213244,
+		"count": 213258,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 44506,
+		"count": 44508,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 18203,
+		"count": 18205,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 4490,
+		"count": 4492,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 40858,
+		"count": 40863,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 135218,
+		"count": 135221,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 98930,
+		"count": 98933,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,12 +70,12 @@
 		"version": "all"
 	},
 	{
-		"count": 64149,
+		"count": 64150,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 2158,
+		"count": 2160,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 89309,
+		"count": 89312,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 61360,
+		"count": 61361,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 1364,
+		"count": 1365,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 153514,
+		"count": 153518,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,47 +125,47 @@
 		"version": "all"
 	},
 	{
-		"count": 10361,
+		"count": 10362,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 114600,
+		"count": 114604,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 224790,
+		"count": 224798,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 26966,
+		"count": 26968,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 160436,
+		"count": 160440,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 7097,
+		"count": 7098,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 128543,
+		"count": 128547,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 21402,
+		"count": 21404,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 6367,
+		"count": 6371,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 24859,
+		"count": 24861,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49885,
+		"count": 49886,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 155091,
+		"count": 155097,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 2758,
+		"count": 2759,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 36860,
+		"count": 36863,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 106119,
+		"count": 106121,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9407,
+		"count": 9408,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 31986,
+		"count": 31987,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 64241,
+		"count": 64243,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18695,
+		"count": 18696,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 139359,
+		"count": 139361,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 14285,
+		"count": 14286,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
