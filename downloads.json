@@ -1,6 +1,6 @@
 [
 	{
-		"count": 176207,
+		"count": 176214,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 6053,
+		"count": 6054,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 215899,
+		"count": 215908,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 41082,
+		"count": 41084,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 135967,
+		"count": 135970,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 99740,
+		"count": 99743,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -75,17 +75,17 @@
 		"version": "all"
 	},
 	{
-		"count": 2256,
+		"count": 2257,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 189549,
+		"count": 189550,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 27643,
+		"count": 27644,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 89658,
+		"count": 89659,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 61590,
+		"count": 61591,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 155591,
+		"count": 155598,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 115018,
+		"count": 115022,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 226998,
+		"count": 227005,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 27243,
+		"count": 27244,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 161188,
+		"count": 161191,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 129177,
+		"count": 129180,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 6521,
+		"count": 6522,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 157165,
+		"count": 157172,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -225,22 +225,22 @@
 		"version": "all"
 	},
 	{
-		"count": 29260,
+		"count": 29261,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 37013,
+		"count": 37014,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 23891,
+		"count": 23892,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 106582,
+		"count": 106585,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 64948,
+		"count": 64951,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18739,
+		"count": 18740,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 141369,
+		"count": 141375,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41534,
+		"count": 41535,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
