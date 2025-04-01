@@ -1,6 +1,6 @@
 [
 	{
-		"count": 180773,
+		"count": 180795,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -10,17 +10,17 @@
 		"version": "all"
 	},
 	{
-		"count": 27420,
+		"count": 27421,
 		"name": "libsonginfo",
 		"version": "all"
 	},
 	{
-		"count": 7049,
+		"count": 7053,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 49974,
+		"count": 49977,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,37 +30,37 @@
 		"version": "all"
 	},
 	{
-		"count": 222086,
+		"count": 222110,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 44969,
+		"count": 44971,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 18359,
+		"count": 18360,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 4789,
+		"count": 4791,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 41604,
+		"count": 41605,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 137778,
+		"count": 137787,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 101504,
+		"count": 101508,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 64883,
+		"count": 64887,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,27 +80,27 @@
 		"version": "all"
 	},
 	{
-		"count": 190390,
+		"count": 190395,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 28673,
+		"count": 28676,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 1004,
+		"count": 1005,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 90496,
+		"count": 90500,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 62159,
+		"count": 62163,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,17 +110,17 @@
 		"version": "all"
 	},
 	{
-		"count": 1440,
+		"count": 1442,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 160104,
+		"count": 160125,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 6578,
+		"count": 6579,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 116053,
+		"count": 116056,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 231918,
+		"count": 231940,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 27828,
+		"count": 27829,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 162810,
+		"count": 162815,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,12 +155,12 @@
 		"version": "all"
 	},
 	{
-		"count": 130726,
+		"count": 130735,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 21706,
+		"count": 21708,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 25169,
+		"count": 25173,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 50632,
+		"count": 50634,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 161713,
+		"count": 161734,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46411,
+		"count": 46412,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 37407,
+		"count": 37409,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 107585,
+		"count": 107586,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9506,
+		"count": 9507,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 32175,
+		"count": 32176,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 66504,
+		"count": 66506,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 145719,
+		"count": 145731,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,7 +290,7 @@
 		"version": "all"
 	},
 	{
-		"count": 12432,
+		"count": 12433,
 		"name": "relive-theme",
 		"version": "all"
 	},
