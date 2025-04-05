@@ -12,12 +12,12 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 38430
+		"count": 38433
 	},
 	{
 		"name": "ZoomNCM",
 		"version": "0.2.0",
-		"count": 3041
+		"count": 3042
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 4292
+		"count": 4294
 	},
 	{
 		"name": "HideScrollbar",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 107828
+		"count": 107850
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 76087
+		"count": 76106
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 3808
+		"count": 3812
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 12662
+		"count": 12670
 	},
 	{
 		"name": "search-this-singer",
@@ -92,22 +92,22 @@
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.9",
-		"count": 1571
+		"count": 1572
 	},
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 35435
+		"count": 35441
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 16299
+		"count": 16300
 	},
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 4064
+		"count": 4065
 	},
 	{
 		"name": "PluginMarket",
@@ -117,47 +117,47 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 3085
+		"count": 3089
 	},
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 6887
+		"count": 6888
 	},
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 1587
+		"count": 1588
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 23438
+		"count": 23440
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 20885
+		"count": 20887
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 18054
+		"count": 18056
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 7438
+		"count": 7439
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 82080
+		"count": 82099
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 2957
+		"count": 2958
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 82202
+		"count": 82221
 	},
 	{
 		"name": "search-on-osu",
@@ -207,12 +207,12 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.2",
-		"count": 1436
+		"count": 1437
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 49424
+		"count": 49434
 	},
 	{
 		"name": "elaina-theme",
@@ -227,12 +227,12 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 15498
+		"count": 15515
 	},
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 7744
+		"count": 7745
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 50658
+		"count": 50666
 	},
 	{
 		"name": "PiPWindow",
@@ -252,17 +252,17 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 54868
+		"count": 54876
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 7287
+		"count": 7294
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 2260
+		"count": 2261
 	},
 	{
 		"name": "FluentMusicCover",
@@ -282,12 +282,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 55241
+		"count": 55249
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 46924
+		"count": 46931
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 140892
+		"count": 140919
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 5941
+		"count": 5944
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 17070
+		"count": 17071
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 32370
+		"count": 32375
 	},
 	{
 		"name": "LogCleaner",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 14772
+		"count": 14773
 	},
 	{
 		"name": "libsonginfo",
@@ -342,7 +342,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 31256
+		"count": 31261
 	},
 	{
 		"name": "CrashFix",
