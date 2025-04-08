@@ -1,6 +1,6 @@
 [
 	{
-		"count": 182371,
+		"count": 182381,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 7439,
+		"count": 7441,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 50230,
+		"count": 50234,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 224471,
+		"count": 224485,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 45133,
+		"count": 45134,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 4892,
+		"count": 4893,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 41856,
+		"count": 41859,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 138486,
+		"count": 138490,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 102209,
+		"count": 102212,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,22 +70,22 @@
 		"version": "all"
 	},
 	{
-		"count": 65132,
+		"count": 65136,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 2522,
+		"count": 2523,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 190797,
+		"count": 190798,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 29069,
+		"count": 29070,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 90872,
+		"count": 90874,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 62443,
+		"count": 62445,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 161672,
+		"count": 161682,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 116583,
+		"count": 116585,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 233698,
+		"count": 233708,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 28059,
+		"count": 28061,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 163584,
+		"count": 163587,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 131348,
+		"count": 131352,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 7077,
+		"count": 7078,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 25307,
+		"count": 25310,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 163302,
+		"count": 163312,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 3069,
+		"count": 3071,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -225,22 +225,22 @@
 		"version": "all"
 	},
 	{
-		"count": 29498,
+		"count": 29499,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 37595,
+		"count": 37597,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 24041,
+		"count": 24043,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 108084,
+		"count": 108087,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -250,7 +250,7 @@
 		"version": "all"
 	},
 	{
-		"count": 9269,
+		"count": 9270,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 67108,
+		"count": 67112,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18917,
+		"count": 18918,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 147216,
+		"count": 147224,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,12 +290,12 @@
 		"version": "all"
 	},
 	{
-		"count": 12482,
+		"count": 12483,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 42129,
+		"count": 42130,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
