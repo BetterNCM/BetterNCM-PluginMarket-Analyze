@@ -1,26 +1,26 @@
 [
 	{
-		"count": 185901,
+		"count": 185906,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 66760,
+		"count": 66762,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
 	{
-		"count": 27429,
+		"count": 27430,
 		"name": "libsonginfo",
 		"version": "all"
 	},
 	{
-		"count": 8381,
+		"count": 8383,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 50846,
+		"count": 50849,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,22 +30,22 @@
 		"version": "all"
 	},
 	{
-		"count": 229830,
+		"count": 229836,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 45522,
+		"count": 45524,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 18571,
+		"count": 18572,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 5187,
+		"count": 5188,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 140082,
+		"count": 140084,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 103857,
+		"count": 103861,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 65825,
+		"count": 65826,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 192061,
+		"count": 192065,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 29963,
+		"count": 29966,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 91820,
+		"count": 91822,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 165132,
+		"count": 165135,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 117869,
+		"count": 117871,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 237744,
+		"count": 237748,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 28543,
+		"count": 28544,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 165464,
+		"count": 165467,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 132757,
+		"count": 132759,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 7527,
+		"count": 7529,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 25622,
+		"count": 25623,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 51398,
+		"count": 51399,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -195,17 +195,17 @@
 		"version": "all"
 	},
 	{
-		"count": 8048,
+		"count": 8049,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 166846,
+		"count": 166849,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 3300,
+		"count": 3301,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 109272,
+		"count": 109275,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9622,
+		"count": 9623,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 32422,
+		"count": 32424,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 68509,
+		"count": 68513,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 19065,
+		"count": 19066,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 150435,
+		"count": 150438,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 14630,
+		"count": 14631,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 42615,
+		"count": 42617,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
