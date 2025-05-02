@@ -1,11 +1,11 @@
 [
 	{
-		"count": 186171,
+		"count": 186175,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 66817,
+		"count": 66818,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 50900,
+		"count": 50901,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 230301,
+		"count": 230316,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 45569,
+		"count": 45571,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,32 +45,32 @@
 		"version": "all"
 	},
 	{
-		"count": 5221,
+		"count": 5223,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 42550,
+		"count": 42551,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 140217,
+		"count": 140220,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 104008,
+		"count": 104010,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5452,
+		"count": 5453,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 65891,
+		"count": 65892,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 192196,
+		"count": 192197,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 30058,
+		"count": 30061,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 91946,
+		"count": 91948,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 63187,
+		"count": 63190,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 165383,
+		"count": 165387,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,27 +125,27 @@
 		"version": "all"
 	},
 	{
-		"count": 10665,
+		"count": 10666,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 118002,
+		"count": 118004,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 238073,
+		"count": 238081,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 28583,
+		"count": 28584,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 165675,
+		"count": 165682,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 132874,
+		"count": 132876,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -170,12 +170,12 @@
 		"version": "all"
 	},
 	{
-		"count": 1776,
+		"count": 1777,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 25668,
+		"count": 25669,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 51462,
+		"count": 51463,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 167123,
+		"count": 167127,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 3333,
+		"count": 3334,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,27 +220,27 @@
 		"version": "all"
 	},
 	{
-		"count": 47016,
+		"count": 47017,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 29713,
+		"count": 29714,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 38184,
+		"count": 38186,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 24176,
+		"count": 24177,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 109413,
+		"count": 109416,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 19090,
+		"count": 19091,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 150650,
+		"count": 150655,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,12 +290,12 @@
 		"version": "all"
 	},
 	{
-		"count": 12648,
+		"count": 12649,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 42680,
+		"count": 42681,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
