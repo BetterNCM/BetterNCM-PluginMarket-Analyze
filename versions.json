@@ -12,12 +12,12 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 39852
+		"count": 39854
 	},
 	{
 		"name": "ZoomNCM",
 		"version": "0.2.0",
-		"count": 3384
+		"count": 3385
 	},
 	{
 		"name": "BGEnhanced-Extra",
@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 4981
+		"count": 4982
 	},
 	{
 		"name": "HideScrollbar",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 113551
+		"count": 113555
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 80901
+		"count": 80902
 	},
 	{
 		"name": "ActionEnhancement",
@@ -82,12 +82,12 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 15482
+		"count": 15485
 	},
 	{
 		"name": "search-this-singer",
 		"version": "0.0.2",
-		"count": 3202
+		"count": 3203
 	},
 	{
 		"name": "ActionEnhancement",
@@ -97,12 +97,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 37426
+		"count": 37427
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 17055
+		"count": 17056
 	},
 	{
 		"name": "vocaloid-info",
@@ -117,12 +117,12 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 3782
+		"count": 3784
 	},
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 7099
+		"count": 7100
 	},
 	{
 		"name": "JapaneseFonts",
@@ -137,7 +137,7 @@
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 21710
+		"count": 21712
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -147,17 +147,17 @@
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 7663
+		"count": 7664
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 87015
+		"count": 87016
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 3523
+		"count": 3524
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 87156
+		"count": 87158
 	},
 	{
 		"name": "search-on-osu",
@@ -207,12 +207,12 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.2",
-		"count": 1645
+		"count": 1646
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 51788
+		"count": 51789
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 19979
+		"count": 19984
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 52695
+		"count": 52698
 	},
 	{
 		"name": "PiPWindow",
@@ -252,17 +252,17 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 56797
+		"count": 56802
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 8645
+		"count": 8648
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 2547
+		"count": 2548
 	},
 	{
 		"name": "FluentMusicCover",
@@ -272,7 +272,7 @@
 	{
 		"name": "cpplyrics",
 		"version": "0.0.8",
-		"count": 1198
+		"count": 1199
 	},
 	{
 		"name": "InfLink",
@@ -282,12 +282,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 57544
+		"count": 57546
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 48723
+		"count": 48724
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 148617
+		"count": 148626
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 7245
+		"count": 7246
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 17667
+		"count": 17670
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 33366
+		"count": 33367
 	},
 	{
 		"name": "LogCleaner",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 15276
+		"count": 15277
 	},
 	{
 		"name": "libsonginfo",
@@ -342,7 +342,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 32274
+		"count": 32275
 	},
 	{
 		"name": "CrashFix",
