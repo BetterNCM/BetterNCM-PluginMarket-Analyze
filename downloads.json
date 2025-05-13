@@ -1,6 +1,6 @@
 [
 	{
-		"count": 187013,
+		"count": 187015,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 231850,
+		"count": 231851,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 45718,
+		"count": 45719,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 5342,
+		"count": 5343,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 42792,
+		"count": 42793,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 140713,
+		"count": 140714,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 104486,
+		"count": 104488,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -75,17 +75,17 @@
 		"version": "all"
 	},
 	{
-		"count": 2894,
+		"count": 2896,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 192696,
+		"count": 192697,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 30328,
+		"count": 30329,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 166198,
+		"count": 166200,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 118483,
+		"count": 118485,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 239137,
+		"count": 239139,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -155,17 +155,17 @@
 		"version": "all"
 	},
 	{
-		"count": 133312,
+		"count": 133313,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 22190,
+		"count": 22192,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 7769,
+		"count": 7770,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 167971,
+		"count": 167973,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 151393,
+		"count": 151394,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
