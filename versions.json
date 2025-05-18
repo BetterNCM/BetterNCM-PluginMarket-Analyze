@@ -7,12 +7,12 @@
 	{
 		"name": "LyricBarBlur",
 		"version": "1.0.3",
-		"count": 2934
+		"count": 2935
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 40152
+		"count": 40154
 	},
 	{
 		"name": "ZoomNCM",
@@ -22,7 +22,7 @@
 	{
 		"name": "BGEnhanced-Extra",
 		"version": "0.4.0",
-		"count": 8290
+		"count": 8292
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 114397
+		"count": 114405
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 81567
+		"count": 81574
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 4847
+		"count": 4848
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 16036
+		"count": 16041
 	},
 	{
 		"name": "search-this-singer",
@@ -97,12 +97,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 37747
+		"count": 37750
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 17218
+		"count": 17221
 	},
 	{
 		"name": "vocaloid-info",
@@ -117,7 +117,7 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 3911
+		"count": 3912
 	},
 	{
 		"name": "relive-theme",
@@ -127,22 +127,22 @@
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 1874
+		"count": 1875
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 24580
+		"count": 24584
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 21887
+		"count": 21891
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 18791
+		"count": 18793
 	},
 	{
 		"name": "GPTTrans",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 87702
+		"count": 87709
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 87849
+		"count": 87856
 	},
 	{
 		"name": "search-on-osu",
@@ -207,12 +207,12 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.2",
-		"count": 1703
+		"count": 1704
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 52194
+		"count": 52198
 	},
 	{
 		"name": "elaina-theme",
@@ -227,12 +227,12 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 20569
+		"count": 20581
 	},
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 8024
+		"count": 8025
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 53049
+		"count": 53054
 	},
 	{
 		"name": "PiPWindow",
@@ -252,12 +252,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 57199
+		"count": 57202
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 8879
+		"count": 8883
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -282,12 +282,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 57955
+		"count": 57960
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 49082
+		"count": 49089
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 149881
+		"count": 149893
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 7476
+		"count": 7479
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 17799
+		"count": 17803
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 33580
+		"count": 33583
 	},
 	{
 		"name": "LogCleaner",
@@ -342,16 +342,16 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 32503
+		"count": 32505
 	},
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 8291
+		"count": 8292
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 7488
+		"count": 7490
 	}
 ]
