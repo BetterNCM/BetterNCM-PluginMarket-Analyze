@@ -1,6 +1,6 @@
 [
 	{
-		"count": 188232,
+		"count": 188236,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 51339,
+		"count": 51340,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 233984,
+		"count": 233989,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 45952,
+		"count": 45954,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 43106,
+		"count": 43108,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 141335,
+		"count": 141336,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 105112,
+		"count": 105116,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -90,7 +90,7 @@
 		"version": "all"
 	},
 	{
-		"count": 1272,
+		"count": 1273,
 		"name": "cpplyrics",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 63815,
+		"count": 63816,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 167371,
+		"count": 167375,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 240574,
+		"count": 240578,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 167251,
+		"count": 167253,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 133861,
+		"count": 133862,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 7994,
+		"count": 7995,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 169203,
+		"count": 169207,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 47379,
+		"count": 47380,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 69505,
+		"count": 69506,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 152479,
+		"count": 152481,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 43116,
+		"count": 43118,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
