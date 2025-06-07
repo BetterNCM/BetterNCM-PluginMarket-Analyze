@@ -1,6 +1,6 @@
 [
 	{
-		"count": 189254,
+		"count": 189256,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 235744,
+		"count": 235747,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 46142,
+		"count": 46145,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 43354,
+		"count": 43355,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 141859,
+		"count": 141860,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 105641,
+		"count": 105643,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -75,12 +75,12 @@
 		"version": "all"
 	},
 	{
-		"count": 3097,
+		"count": 3098,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 193818,
+		"count": 193819,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 93172,
+		"count": 93173,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 64099,
+		"count": 64100,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 168376,
+		"count": 168378,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 119657,
+		"count": 119658,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 241831,
+		"count": 241834,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 167988,
+		"count": 167991,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 134333,
+		"count": 134334,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -195,17 +195,17 @@
 		"version": "all"
 	},
 	{
-		"count": 8137,
+		"count": 8138,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 170239,
+		"count": 170241,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 3641,
+		"count": 3642,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 110875,
+		"count": 110876,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 69899,
+		"count": 69900,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 153388,
+		"count": 153392,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
