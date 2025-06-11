@@ -12,7 +12,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 41078
+		"count": 41079
 	},
 	{
 		"name": "ZoomNCM",
@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 5599
+		"count": 5600
 	},
 	{
 		"name": "HideScrollbar",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 117245
+		"count": 117249
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 83864
+		"count": 83867
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 5305
+		"count": 5306
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 17734
+		"count": 17736
 	},
 	{
 		"name": "search-this-singer",
@@ -92,12 +92,12 @@
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.9",
-		"count": 2093
+		"count": 2094
 	},
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 38663
+		"count": 38664
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -127,22 +127,22 @@
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 2038
+		"count": 2039
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 25175
+		"count": 25177
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 22388
+		"count": 22389
 	},
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 19221
+		"count": 19222
 	},
 	{
 		"name": "GPTTrans",
@@ -152,12 +152,12 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 90062
+		"count": 90065
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 3982
+		"count": 3983
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 90233
+		"count": 90236
 	},
 	{
 		"name": "search-on-osu",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 53394
+		"count": 53396
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 22729
+		"count": 22732
 	},
 	{
 		"name": "play-with-bilibili",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 58423
+		"count": 58426
 	},
 	{
 		"name": "DowngradeOK",
@@ -282,7 +282,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 59131
+		"count": 59132
 	},
 	{
 		"name": "FluentProgressBar",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 154032
+		"count": 154035
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 8199
+		"count": 8201
 	},
 	{
 		"name": "MoreHooks",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 7615
+		"count": 7616
 	}
 ]
