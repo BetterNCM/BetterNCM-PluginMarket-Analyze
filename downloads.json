@@ -1,6 +1,6 @@
 [
 	{
-		"count": 190124,
+		"count": 190128,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 9700,
+		"count": 9702,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 51725,
+		"count": 51727,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 237394,
+		"count": 237405,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 46297,
+		"count": 46299,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 43602,
+		"count": 43603,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 142281,
+		"count": 142285,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 106112,
+		"count": 106119,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 66963,
+		"count": 66966,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,22 +80,22 @@
 		"version": "all"
 	},
 	{
-		"count": 194284,
+		"count": 194290,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 31295,
+		"count": 31296,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 1356,
+		"count": 1357,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 93537,
+		"count": 93541,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 169220,
+		"count": 169222,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,22 +130,22 @@
 		"version": "all"
 	},
 	{
-		"count": 120137,
+		"count": 120141,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 242909,
+		"count": 242914,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 29199,
+		"count": 29200,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 168637,
+		"count": 168642,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,17 +155,17 @@
 		"version": "all"
 	},
 	{
-		"count": 134710,
+		"count": 134712,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 22591,
+		"count": 22592,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 8358,
+		"count": 8359,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 26290,
+		"count": 26293,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52356,
+		"count": 52358,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 171111,
+		"count": 171115,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,27 +210,27 @@
 		"version": "all"
 	},
 	{
-		"count": 9378,
+		"count": 9380,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
 	{
-		"count": 7035,
+		"count": 7036,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 47695,
+		"count": 47696,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 29987,
+		"count": 29988,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 39036,
+		"count": 39040,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 111306,
+		"count": 111310,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,22 +255,22 @@
 		"version": "all"
 	},
 	{
-		"count": 32760,
+		"count": 32761,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 70276,
+		"count": 70281,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 15350,
+		"count": 15351,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 19325,
+		"count": 19326,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,17 +280,17 @@
 		"version": "all"
 	},
 	{
-		"count": 154217,
+		"count": 154223,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 14914,
+		"count": 14915,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
 	{
-		"count": 12903,
+		"count": 12904,
 		"name": "relive-theme",
 		"version": "all"
 	},
