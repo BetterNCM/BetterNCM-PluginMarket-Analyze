@@ -1,6 +1,6 @@
 [
 	{
-		"count": 191523,
+		"count": 191527,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 10168,
+		"count": 10169,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 52053,
+		"count": 52054,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 239961,
+		"count": 239965,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 46583,
+		"count": 46584,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 5906,
+		"count": 5907,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,22 +55,22 @@
 		"version": "all"
 	},
 	{
-		"count": 143092,
+		"count": 143096,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 106968,
+		"count": 106971,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5628,
+		"count": 5629,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 67379,
+		"count": 67381,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 195054,
+		"count": 195055,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 94152,
+		"count": 94153,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 64784,
+		"count": 64785,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,52 +115,52 @@
 		"version": "all"
 	},
 	{
-		"count": 170554,
+		"count": 170558,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 7408,
+		"count": 7409,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
 	{
-		"count": 10981,
+		"count": 10982,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 120953,
+		"count": 120955,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 244656,
+		"count": 244661,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 29426,
+		"count": 29427,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 169720,
+		"count": 169722,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 7323,
+		"count": 7324,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 135433,
+		"count": 135436,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 22790,
+		"count": 22791,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
@@ -180,7 +180,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3689,
+		"count": 3690,
 		"name": "beat-saver",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 172528,
+		"count": 172532,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 3875,
+		"count": 3877,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,32 +220,32 @@
 		"version": "all"
 	},
 	{
-		"count": 47944,
+		"count": 47945,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 30112,
+		"count": 30113,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 39350,
+		"count": 39351,
 		"name": "ark-theme",
 		"version": "all"
 	},
 	{
-		"count": 24462,
+		"count": 24463,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 112087,
+		"count": 112088,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9894,
+		"count": 9895,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 70950,
+		"count": 70952,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 19415,
+		"count": 19416,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 155414,
+		"count": 155415,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 43789,
+		"count": 43790,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
