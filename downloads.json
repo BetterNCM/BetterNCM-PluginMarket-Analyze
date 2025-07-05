@@ -1,6 +1,6 @@
 [
 	{
-		"count": 191618,
+		"count": 191620,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -25,12 +25,12 @@
 		"version": "all"
 	},
 	{
-		"count": 18453,
+		"count": 18454,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 240120,
+		"count": 240123,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,7 +40,7 @@
 		"version": "all"
 	},
 	{
-		"count": 18923,
+		"count": 18924,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 44102,
+		"count": 44103,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 143152,
+		"count": 143153,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 107027,
+		"count": 107028,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 31801,
+		"count": 31802,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 94182,
+		"count": 94183,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 170647,
+		"count": 170649,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 244779,
+		"count": 244781,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 169795,
+		"count": 169797,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 135485,
+		"count": 135486,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 172620,
+		"count": 172622,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 39370,
+		"count": 39371,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112148,
+		"count": 112149,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 32902,
+		"count": 32903,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 70993,
+		"count": 70994,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
