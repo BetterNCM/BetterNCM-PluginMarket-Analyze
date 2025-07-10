@@ -1,6 +1,6 @@
 [
 	{
-		"count": 191841,
+		"count": 191843,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,27 +20,27 @@
 		"version": "all"
 	},
 	{
-		"count": 52132,
+		"count": 52133,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 18465,
+		"count": 18466,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 240541,
+		"count": 240544,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 46648,
+		"count": 46649,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 18945,
+		"count": 18946,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
@@ -60,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 107163,
+		"count": 107165,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 170863,
+		"count": 170865,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 245073,
+		"count": 245075,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52757,
+		"count": 52759,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 172852,
+		"count": 172854,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48014,
+		"count": 48015,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -260,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 71110,
+		"count": 71111,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 15536,
+		"count": 15537,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 155654,
+		"count": 155656,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
