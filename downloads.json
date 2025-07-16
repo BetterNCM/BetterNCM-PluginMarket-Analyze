@@ -1,11 +1,11 @@
 [
 	{
-		"count": 192182,
+		"count": 192184,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 68140,
+		"count": 68142,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 10367,
+		"count": 10368,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 52211,
+		"count": 52212,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 241158,
+		"count": 241165,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 46714,
+		"count": 46716,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 44295,
+		"count": 44296,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 143482,
+		"count": 143483,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 107357,
+		"count": 107360,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -75,17 +75,17 @@
 		"version": "all"
 	},
 	{
-		"count": 3445,
+		"count": 3446,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 195411,
+		"count": 195412,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 32034,
+		"count": 32037,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 94453,
+		"count": 94454,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 65002,
+		"count": 65003,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 171192,
+		"count": 171193,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 121343,
+		"count": 121346,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 245518,
+		"count": 245521,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 170284,
+		"count": 170287,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 135797,
+		"count": 135798,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,17 +165,17 @@
 		"version": "all"
 	},
 	{
-		"count": 8841,
+		"count": 8842,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 2224,
+		"count": 2225,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 26709,
+		"count": 26710,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52853,
+		"count": 52854,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112464,
+		"count": 112467,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,27 +260,27 @@
 		"version": "all"
 	},
 	{
-		"count": 71272,
+		"count": 71274,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 15582,
+		"count": 15583,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 19466,
+		"count": 19467,
 		"name": "Microrange",
 		"version": "all"
 	},
 	{
-		"count": 8393,
+		"count": 8394,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 155946,
+		"count": 155948,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 43957,
+		"count": 43958,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
