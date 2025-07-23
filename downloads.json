@@ -1,6 +1,6 @@
 [
 	{
-		"count": 192595,
+		"count": 192600,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52311,
+		"count": 52312,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 241905,
+		"count": 241909,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 6066,
+		"count": 6067,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 44431,
+		"count": 44433,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 143732,
+		"count": 143733,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 107627,
+		"count": 107628,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -75,7 +75,7 @@
 		"version": "all"
 	},
 	{
-		"count": 3505,
+		"count": 3506,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 32213,
+		"count": 32214,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 94630,
+		"count": 94631,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 171583,
+		"count": 171588,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 121640,
+		"count": 121642,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 246084,
+		"count": 246089,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 170650,
+		"count": 170652,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 136032,
+		"count": 136033,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 8936,
+		"count": 8937,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 26814,
+		"count": 26815,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52975,
+		"count": 52976,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 173603,
+		"count": 173608,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48170,
+		"count": 48171,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112712,
+		"count": 112715,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,17 +255,17 @@
 		"version": "all"
 	},
 	{
-		"count": 33013,
+		"count": 33014,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 71474,
+		"count": 71475,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 15633,
+		"count": 15634,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 156310,
+		"count": 156312,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
