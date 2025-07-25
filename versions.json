@@ -7,12 +7,12 @@
 	{
 		"name": "LyricBarBlur",
 		"version": "1.0.3",
-		"count": 3515
+		"count": 3516
 	},
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 42381
+		"count": 42382
 	},
 	{
 		"name": "ZoomNCM",
@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 6333
+		"count": 6334
 	},
 	{
 		"name": "HideScrollbar",
@@ -37,7 +37,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 9514
+		"count": 9515
 	},
 	{
 		"name": "PluginMarket",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 121014
+		"count": 121019
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 86685
+		"count": 86688
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 6009
+		"count": 6011
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 20116
+		"count": 20118
 	},
 	{
 		"name": "search-this-singer",
@@ -97,7 +97,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 40072
+		"count": 40074
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -127,17 +127,17 @@
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 2281
+		"count": 2282
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 26145
+		"count": 26146
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 23105
+		"count": 23106
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 93006
+		"count": 93010
 	},
 	{
 		"name": "ark-theme",
@@ -162,7 +162,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 5022
+		"count": 5023
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 93202
+		"count": 93205
 	},
 	{
 		"name": "search-on-osu",
@@ -202,7 +202,7 @@
 	{
 		"name": "beat-saver",
 		"version": "0.1.1",
-		"count": 3618
+		"count": 3619
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 55174
+		"count": 55176
 	},
 	{
 		"name": "elaina-theme",
@@ -222,12 +222,12 @@
 	{
 		"name": "artist-all-songs",
 		"version": "0.2.0",
-		"count": 1865
+		"count": 1866
 	},
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 25245
+		"count": 25250
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 55629
+		"count": 55631
 	},
 	{
 		"name": "PiPWindow",
@@ -252,12 +252,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 60197
+		"count": 60200
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 10497
+		"count": 10498
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -267,7 +267,7 @@
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 12803
+		"count": 12804
 	},
 	{
 		"name": "cpplyrics",
@@ -282,12 +282,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 60811
+		"count": 60814
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 51802
+		"count": 51803
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 159396
+		"count": 159404
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 9268
+		"count": 9269
 	},
 	{
 		"name": "MoreHooks",
@@ -317,7 +317,7 @@
 	{
 		"name": "LiveSongPlayer",
 		"version": "0.1.7",
-		"count": 2304
+		"count": 2305
 	},
 	{
 		"name": "RuLyrics",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 16353
+		"count": 16354
 	},
 	{
 		"name": "libsonginfo",
@@ -342,7 +342,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 34088
+		"count": 34089
 	},
 	{
 		"name": "CrashFix",
