@@ -1,6 +1,6 @@
 [
 	{
-		"count": 192975,
+		"count": 192979,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10577,
+		"count": 10580,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 242551,
+		"count": 242554,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 46888,
+		"count": 46889,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 44549,
+		"count": 44552,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 143973,
+		"count": 143974,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 107867,
+		"count": 107868,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,22 +70,22 @@
 		"version": "all"
 	},
 	{
-		"count": 67874,
+		"count": 67875,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 3568,
+		"count": 3569,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 195848,
+		"count": 195849,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 32351,
+		"count": 32353,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 94802,
+		"count": 94803,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 1883,
+		"count": 1884,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 171949,
+		"count": 171953,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11103,
+		"count": 11104,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 246576,
+		"count": 246579,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,27 +145,27 @@
 		"version": "all"
 	},
 	{
-		"count": 170993,
+		"count": 170995,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 7363,
+		"count": 7364,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 136245,
+		"count": 136247,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 23048,
+		"count": 23049,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 9026,
+		"count": 9027,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,17 +175,17 @@
 		"version": "all"
 	},
 	{
-		"count": 26896,
+		"count": 26897,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 3736,
+		"count": 3737,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 53073,
+		"count": 53075,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 173978,
+		"count": 173982,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,7 +210,7 @@
 		"version": "all"
 	},
 	{
-		"count": 9609,
+		"count": 9610,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 39728,
+		"count": 39729,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,22 +240,22 @@
 		"version": "all"
 	},
 	{
-		"count": 112929,
+		"count": 112930,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 9972,
+		"count": 9973,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
 	{
-		"count": 9582,
+		"count": 9583,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 33060,
+		"count": 33061,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 15679,
+		"count": 15681,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 156659,
+		"count": 156661,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 15176,
+		"count": 15178,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
