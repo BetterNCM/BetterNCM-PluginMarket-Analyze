@@ -37,7 +37,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 9528
+		"count": 9529
 	},
 	{
 		"name": "PluginMarket",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 121519
+		"count": 121521
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 87064
+		"count": 87066
 	},
 	{
 		"name": "ActionEnhancement",
@@ -117,7 +117,7 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 4831
+		"count": 4832
 	},
 	{
 		"name": "relive-theme",
@@ -127,7 +127,7 @@
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 2326
+		"count": 2327
 	},
 	{
 		"name": "LyricBar",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 93402
+		"count": 93405
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 93596
+		"count": 93597
 	},
 	{
 		"name": "search-on-osu",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 60437
+		"count": 60438
 	},
 	{
 		"name": "DowngradeOK",
@@ -287,7 +287,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 52037
+		"count": 52038
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 160075
+		"count": 160078
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 9422
+		"count": 9423
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 18824
+		"count": 18825
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 7843
+		"count": 7845
 	}
 ]
