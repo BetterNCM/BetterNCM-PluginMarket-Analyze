@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 6485
+		"count": 6486
 	},
 	{
 		"name": "HideScrollbar",
@@ -47,12 +47,12 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 121765
+		"count": 121769
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 5812
+		"count": 5814
 	},
 	{
 		"name": "RevisedSecondaryWindows",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 87250
+		"count": 87255
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 6159
+		"count": 6160
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 20640
+		"count": 20641
 	},
 	{
 		"name": "search-this-singer",
@@ -127,7 +127,7 @@
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 2349
+		"count": 2350
 	},
 	{
 		"name": "LyricBar",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 93592
+		"count": 93597
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 93786
+		"count": 93789
 	},
 	{
 		"name": "search-on-osu",
@@ -227,12 +227,12 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 25778
+		"count": 25782
 	},
 	{
 		"name": "play-with-bilibili",
 		"version": "1.1.0",
-		"count": 8425
+		"count": 8426
 	},
 	{
 		"name": "remove-tracking-attribute",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 60563
+		"count": 60564
 	},
 	{
 		"name": "DowngradeOK",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 160388
+		"count": 160391
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 9511
+		"count": 9512
 	},
 	{
 		"name": "MoreHooks",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 7853
+		"count": 7854
 	}
 ]
