@@ -1,6 +1,6 @@
 [
 	{
-		"count": 193377,
+		"count": 193383,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,22 +20,22 @@
 		"version": "all"
 	},
 	{
-		"count": 52509,
+		"count": 52510,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 18581,
+		"count": 18582,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 243251,
+		"count": 243259,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 46962,
+		"count": 46965,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 44693,
+		"count": 44697,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 144204,
+		"count": 144205,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 108104,
+		"count": 108108,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,22 +70,22 @@
 		"version": "all"
 	},
 	{
-		"count": 67996,
+		"count": 67998,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 3613,
+		"count": 3615,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 196057,
+		"count": 196058,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 32529,
+		"count": 32534,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 94984,
+		"count": 94987,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 65386,
+		"count": 65388,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 172342,
+		"count": 172348,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,37 +125,37 @@
 		"version": "all"
 	},
 	{
-		"count": 11130,
+		"count": 11131,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 122135,
+		"count": 122137,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 247102,
+		"count": 247108,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 29756,
+		"count": 29757,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 171335,
+		"count": 171339,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 7382,
+		"count": 7383,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 136447,
+		"count": 136448,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 9118,
+		"count": 9120,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 26989,
+		"count": 26991,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 53161,
+		"count": 53163,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 174385,
+		"count": 174389,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,7 +210,7 @@
 		"version": "all"
 	},
 	{
-		"count": 9641,
+		"count": 9642,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -220,17 +220,17 @@
 		"version": "all"
 	},
 	{
-		"count": 48325,
+		"count": 48326,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 30264,
+		"count": 30265,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 39830,
+		"count": 39833,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 113155,
+		"count": 113160,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 71843,
+		"count": 71846,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 157006,
+		"count": 157009,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,12 +290,12 @@
 		"version": "all"
 	},
 	{
-		"count": 13140,
+		"count": 13142,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 44255,
+		"count": 44257,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
