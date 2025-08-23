@@ -1,6 +1,6 @@
 [
 	{
-		"count": 194255,
+		"count": 194259,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 52742,
+		"count": 52743,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 244761,
+		"count": 244764,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -60,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 108670,
+		"count": 108674,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 32870,
+		"count": 32871,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 95383,
+		"count": 95385,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 173189,
+		"count": 173193,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 122686,
+		"count": 122687,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 248221,
+		"count": 248225,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 172073,
+		"count": 172075,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 9327,
+		"count": 9331,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 175266,
+		"count": 175271,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 40076,
+		"count": 40078,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 113668,
+		"count": 113671,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 72314,
+		"count": 72318,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 15819,
+		"count": 15820,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -285,7 +285,7 @@
 		"version": "all"
 	},
 	{
-		"count": 15295,
+		"count": 15296,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
