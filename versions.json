@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 6749
+		"count": 6750
 	},
 	{
 		"name": "HideScrollbar",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 123114
+		"count": 123115
 	},
 	{
 		"name": "keyboard-seek",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 21518
+		"count": 21519
 	},
 	{
 		"name": "search-this-singer",
@@ -92,7 +92,7 @@
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.9",
-		"count": 2585
+		"count": 2587
 	},
 	{
 		"name": "crossfade-lfp",
@@ -117,7 +117,7 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 5019
+		"count": 5020
 	},
 	{
 		"name": "relive-theme",
@@ -157,7 +157,7 @@
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 4784
+		"count": 4785
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 94845
+		"count": 94846
 	},
 	{
 		"name": "search-on-osu",
@@ -207,7 +207,7 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.2",
-		"count": 2280
+		"count": 2281
 	},
 	{
 		"name": "LibFrontendPlay",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 26696
+		"count": 26697
 	},
 	{
 		"name": "play-with-bilibili",
@@ -257,12 +257,12 @@
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 10964
+		"count": 10966
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "0.0.4",
-		"count": 3355
+		"count": 3356
 	},
 	{
 		"name": "FluentMusicCover",
@@ -287,7 +287,7 @@
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 52755
+		"count": 52756
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 162218
+		"count": 162219
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 9916
+		"count": 9917
 	},
 	{
 		"name": "MoreHooks",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 16729
+		"count": 16730
 	},
 	{
 		"name": "libsonginfo",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 7932
+		"count": 7933
 	}
 ]
