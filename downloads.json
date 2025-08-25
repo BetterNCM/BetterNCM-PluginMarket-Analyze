@@ -1,6 +1,6 @@
 [
 	{
-		"count": 194338,
+		"count": 194339,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10981,
+		"count": 10983,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 244899,
+		"count": 244900,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 47179,
+		"count": 47181,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 6328,
+		"count": 6329,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 144755,
+		"count": 144756,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 108708,
+		"count": 108710,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 196533,
+		"count": 196535,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 32900,
+		"count": 32901,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 173272,
+		"count": 173273,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 122727,
+		"count": 122728,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 248329,
+		"count": 248331,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 172150,
+		"count": 172151,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -160,22 +160,22 @@
 		"version": "all"
 	},
 	{
-		"count": 23299,
+		"count": 23302,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 9346,
+		"count": 9347,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 2464,
+		"count": 2466,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 27206,
+		"count": 27209,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 53421,
+		"count": 53422,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 175352,
+		"count": 175354,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 4222,
+		"count": 4226,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48556,
+		"count": 48557,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 113712,
+		"count": 113714,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 72348,
+		"count": 72349,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 15829,
+		"count": 15831,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -285,7 +285,7 @@
 		"version": "all"
 	},
 	{
-		"count": 15310,
+		"count": 15311,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 44539,
+		"count": 44541,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
