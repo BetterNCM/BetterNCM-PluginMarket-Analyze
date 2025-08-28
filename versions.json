@@ -12,7 +12,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 43195
+		"count": 43197
 	},
 	{
 		"name": "ZoomNCM",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 123306
+		"count": 123314
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 88413
+		"count": 88417
 	},
 	{
 		"name": "ActionEnhancement",
@@ -72,7 +72,7 @@
 	{
 		"name": "TinyNCM",
 		"version": "1.0.3",
-		"count": 6468
+		"count": 6469
 	},
 	{
 		"name": "ark-theme",
@@ -82,7 +82,7 @@
 	{
 		"name": "RoundCornerNCM",
 		"version": "0.1.3",
-		"count": 21646
+		"count": 21648
 	},
 	{
 		"name": "search-this-singer",
@@ -97,12 +97,12 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 40981
+		"count": 40983
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 18827
+		"count": 18829
 	},
 	{
 		"name": "vocaloid-info",
@@ -117,27 +117,27 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 5039
+		"count": 5040
 	},
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 7648
+		"count": 7649
 	},
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 2488
+		"count": 2489
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 26730
+		"count": 26731
 	},
 	{
 		"name": "VisualRecord",
 		"version": "1.0.2",
-		"count": 23564
+		"count": 23565
 	},
 	{
 		"name": "SimpleAudioVisualizer",
@@ -152,12 +152,12 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 94793
+		"count": 94797
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 4815
+		"count": 4816
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 94995
+		"count": 95000
 	},
 	{
 		"name": "search-on-osu",
@@ -207,12 +207,12 @@
 	{
 		"name": "remove-tracking-attribute",
 		"version": "1.0.2",
-		"count": 2303
+		"count": 2304
 	},
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 56286
+		"count": 56288
 	},
 	{
 		"name": "elaina-theme",
@@ -222,12 +222,12 @@
 	{
 		"name": "artist-all-songs",
 		"version": "0.2.0",
-		"count": 1961
+		"count": 1962
 	},
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 26840
+		"count": 26843
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 56566
+		"count": 56568
 	},
 	{
 		"name": "PiPWindow",
@@ -252,12 +252,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 61306
+		"count": 61308
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 11019
+		"count": 11020
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -267,12 +267,12 @@
 	{
 		"name": "FluentMusicCover",
 		"version": "1.1.4",
-		"count": 13138
+		"count": 13139
 	},
 	{
 		"name": "cpplyrics",
 		"version": "0.0.8",
-		"count": 1591
+		"count": 1592
 	},
 	{
 		"name": "InfLink",
@@ -282,12 +282,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 61858
+		"count": 61860
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 52838
+		"count": 52841
 	},
 	{
 		"name": "Transmission",
@@ -297,12 +297,12 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 162471
+		"count": 162477
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 9981
+		"count": 9982
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 19146
+		"count": 19147
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 35697
+		"count": 35698
 	},
 	{
 		"name": "LogCleaner",
@@ -332,7 +332,7 @@
 	{
 		"name": "RevivedSource",
 		"version": "0.1.1",
-		"count": 16769
+		"count": 16770
 	},
 	{
 		"name": "libsonginfo",
@@ -342,7 +342,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 34647
+		"count": 34648
 	},
 	{
 		"name": "CrashFix",
