@@ -1,6 +1,6 @@
 [
 	{
-		"count": 195230,
+		"count": 195235,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11285,
+		"count": 11287,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 246413,
+		"count": 246417,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 6429,
+		"count": 6430,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 45294,
+		"count": 45296,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 145277,
+		"count": 145278,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 109255,
+		"count": 109256,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 68648,
+		"count": 68649,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 197089,
+		"count": 197090,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 95823,
+		"count": 95825,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2014,
+		"count": 2015,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 174136,
+		"count": 174141,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 123294,
+		"count": 123295,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 249470,
+		"count": 249472,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 172932,
+		"count": 172935,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 137426,
+		"count": 137427,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 176250,
+		"count": 176255,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -245,7 +245,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10106,
+		"count": 10107,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 72773,
+		"count": 72774,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 158650,
+		"count": 158651,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
