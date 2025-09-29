@@ -1,6 +1,6 @@
 [
 	{
-		"count": 195912,
+		"count": 195915,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,22 +15,22 @@
 		"version": "all"
 	},
 	{
-		"count": 11576,
+		"count": 11578,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 53206,
+		"count": 53207,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 18743,
+		"count": 18744,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 247564,
+		"count": 247565,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -40,37 +40,37 @@
 		"version": "all"
 	},
 	{
-		"count": 19270,
+		"count": 19271,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
 	{
-		"count": 6516,
+		"count": 6517,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 45518,
+		"count": 45519,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 145741,
+		"count": 145744,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 109723,
+		"count": 109725,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5790,
+		"count": 5791,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 68935,
+		"count": 68937,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 33512,
+		"count": 33513,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 174802,
+		"count": 174805,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,17 +135,17 @@
 		"version": "all"
 	},
 	{
-		"count": 250337,
+		"count": 250339,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 30122,
+		"count": 30123,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 173573,
+		"count": 173576,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 137859,
+		"count": 137862,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,12 +165,12 @@
 		"version": "all"
 	},
 	{
-		"count": 9733,
+		"count": 9734,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 2626,
+		"count": 2627,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 53805,
+		"count": 53806,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 8366,
+		"count": 8367,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 176924,
+		"count": 176927,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 48894,
+		"count": 48895,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 114624,
+		"count": 114626,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 33409,
+		"count": 33410,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 73130,
+		"count": 73132,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 159239,
+		"count": 159240,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 15474,
+		"count": 15475,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 44901,
+		"count": 44902,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
