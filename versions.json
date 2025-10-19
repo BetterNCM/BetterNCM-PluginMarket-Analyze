@@ -47,12 +47,12 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 126522
+		"count": 126523
 	},
 	{
 		"name": "keyboard-seek",
 		"version": "0.2.0",
-		"count": 6099
+		"count": 6100
 	},
 	{
 		"name": "RevisedSecondaryWindows",
@@ -132,7 +132,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 27547
+		"count": 27548
 	},
 	{
 		"name": "VisualRecord",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 57946
+		"count": 57947
 	},
 	{
 		"name": "PiPWindow",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 62905
+		"count": 62906
 	},
 	{
 		"name": "DowngradeOK",
@@ -282,7 +282,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 63356
+		"count": 63357
 	},
 	{
 		"name": "FluentProgressBar",
@@ -297,7 +297,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 166796
+		"count": 166797
 	},
 	{
 		"name": "LogCleaner",
@@ -342,7 +342,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 35428
+		"count": 35429
 	},
 	{
 		"name": "CrashFix",
