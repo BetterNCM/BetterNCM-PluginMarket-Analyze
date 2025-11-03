@@ -1,6 +1,6 @@
 [
 	{
-		"count": 197710,
+		"count": 197711,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,22 +20,22 @@
 		"version": "all"
 	},
 	{
-		"count": 53751,
+		"count": 53752,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 18861,
+		"count": 18862,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 250667,
+		"count": 250669,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 47848,
+		"count": 47849,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,7 +45,7 @@
 		"version": "all"
 	},
 	{
-		"count": 6726,
+		"count": 6727,
 		"name": "PiPWindow",
 		"version": "all"
 	},
@@ -55,22 +55,22 @@
 		"version": "all"
 	},
 	{
-		"count": 146695,
+		"count": 146698,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 110826,
+		"count": 110828,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5849,
+		"count": 5850,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 69520,
+		"count": 69523,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,17 +80,17 @@
 		"version": "all"
 	},
 	{
-		"count": 198501,
+		"count": 198502,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 34155,
+		"count": 34157,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 1761,
+		"count": 1762,
 		"name": "cpplyrics",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 66715,
+		"count": 66716,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,27 +115,27 @@
 		"version": "all"
 	},
 	{
-		"count": 176565,
+		"count": 176566,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 8187,
+		"count": 8188,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
 	{
-		"count": 11448,
+		"count": 11449,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 124890,
+		"count": 124892,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 252676,
+		"count": 252678,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,37 +145,37 @@
 		"version": "all"
 	},
 	{
-		"count": 175125,
+		"count": 175127,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 7482,
+		"count": 7483,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 138741,
+		"count": 138744,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 23834,
+		"count": 23835,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 10141,
+		"count": 10144,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 2794,
+		"count": 2795,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 28026,
+		"count": 28027,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 54266,
+		"count": 54267,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 8413,
+		"count": 8415,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 178711,
+		"count": 178712,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49288,
+		"count": 49289,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 115612,
+		"count": 115613,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 10231,
+		"count": 10232,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,12 +260,12 @@
 		"version": "all"
 	},
 	{
-		"count": 74047,
+		"count": 74048,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 16230,
+		"count": 16232,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 45306,
+		"count": 45308,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
