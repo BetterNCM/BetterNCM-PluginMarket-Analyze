@@ -1,6 +1,6 @@
 [
 	{
-		"count": 197955,
+		"count": 197957,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,17 +30,17 @@
 		"version": "all"
 	},
 	{
-		"count": 251111,
+		"count": 251116,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 47912,
+		"count": 47914,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
 	{
-		"count": 19404,
+		"count": 19405,
 		"name": "play-with-bilibili",
 		"version": "all"
 	},
@@ -50,27 +50,27 @@
 		"version": "all"
 	},
 	{
-		"count": 46179,
+		"count": 46180,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 146846,
+		"count": 146848,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 110989,
+		"count": 110991,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5860,
+		"count": 5861,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
 	{
-		"count": 69620,
+		"count": 69622,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 34277,
+		"count": 34279,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -100,7 +100,7 @@
 		"version": "all"
 	},
 	{
-		"count": 66808,
+		"count": 66810,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,47 +115,47 @@
 		"version": "all"
 	},
 	{
-		"count": 176796,
+		"count": 176798,
 		"name": "MoTheme",
 		"version": "all"
 	},
 	{
-		"count": 8231,
+		"count": 8232,
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
 		"version": "all"
 	},
 	{
-		"count": 11467,
+		"count": 11468,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 125108,
+		"count": 125109,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 253031,
+		"count": 253034,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
 	{
-		"count": 30412,
+		"count": 30413,
 		"name": "elaina-theme",
 		"version": "all"
 	},
 	{
-		"count": 175350,
+		"count": 175353,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 7491,
+		"count": 7492,
 		"name": "search-on-osu",
 		"version": "all"
 	},
 	{
-		"count": 138880,
+		"count": 138883,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,27 +165,27 @@
 		"version": "all"
 	},
 	{
-		"count": 10222,
+		"count": 10223,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
 	{
-		"count": 2812,
+		"count": 2814,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 28086,
+		"count": 28087,
 		"name": "RevivedSource",
 		"version": "all"
 	},
 	{
-		"count": 3865,
+		"count": 3866,
 		"name": "beat-saver",
 		"version": "all"
 	},
 	{
-		"count": 54339,
+		"count": 54340,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 8421,
+		"count": 8422,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 178954,
+		"count": 178956,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,7 +210,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10073,
+		"count": 10074,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49348,
+		"count": 49349,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 115751,
+		"count": 115753,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 10241,
+		"count": 10242,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -255,17 +255,17 @@
 		"version": "all"
 	},
 	{
-		"count": 33617,
+		"count": 33618,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 74177,
+		"count": 74178,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 16266,
+		"count": 16267,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -275,17 +275,17 @@
 		"version": "all"
 	},
 	{
-		"count": 8540,
+		"count": 8541,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 160995,
+		"count": 161001,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 15679,
+		"count": 15681,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
