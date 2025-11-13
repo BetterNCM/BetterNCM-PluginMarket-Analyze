@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 7851
+		"count": 7852
 	},
 	{
 		"name": "HideScrollbar",
@@ -37,7 +37,7 @@
 	{
 		"name": "Unbounded",
 		"version": "0.1.0",
-		"count": 9759
+		"count": 9760
 	},
 	{
 		"name": "PluginMarket",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 128046
+		"count": 128050
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 91962
+		"count": 91965
 	},
 	{
 		"name": "ActionEnhancement",
@@ -152,12 +152,12 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 98431
+		"count": 98434
 	},
 	{
 		"name": "ark-theme",
 		"version": "0.2.11",
-		"count": 5384
+		"count": 5385
 	},
 	{
 		"name": "PlaybackRate",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 98609
+		"count": 98612
 	},
 	{
 		"name": "search-on-osu",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 58577
+		"count": 58578
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 29999
+		"count": 30001
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 58502
+		"count": 58503
 	},
 	{
 		"name": "PiPWindow",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 63721
+		"count": 63724
 	},
 	{
 		"name": "DowngradeOK",
@@ -282,12 +282,12 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 63949
+		"count": 63950
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 54885
+		"count": 54886
 	},
 	{
 		"name": "Transmission",
@@ -297,7 +297,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 168746
+		"count": 168751
 	},
 	{
 		"name": "LogCleaner",
@@ -342,7 +342,7 @@
 	{
 		"name": "Taskbar-Lyrics",
 		"version": "1.6.3",
-		"count": 35761
+		"count": 35762
 	},
 	{
 		"name": "CrashFix",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 8143
+		"count": 8144
 	}
 ]
