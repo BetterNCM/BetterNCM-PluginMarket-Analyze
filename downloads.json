@@ -1,6 +1,6 @@
 [
 	{
-		"count": 198119,
+		"count": 198123,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 53939,
+		"count": 53942,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 251429,
+		"count": 251436,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 47940,
+		"count": 47941,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 6776,
+		"count": 6778,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 46220,
+		"count": 46222,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 146927,
+		"count": 146929,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 111091,
+		"count": 111092,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,22 +70,22 @@
 		"version": "all"
 	},
 	{
-		"count": 69668,
+		"count": 69669,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 4161,
+		"count": 4162,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 198677,
+		"count": 198680,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 34341,
+		"count": 34342,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 97035,
+		"count": 97038,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 66856,
+		"count": 66857,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 176959,
+		"count": 176963,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 125237,
+		"count": 125239,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 253257,
+		"count": 253263,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 175508,
+		"count": 175511,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,17 +155,17 @@
 		"version": "all"
 	},
 	{
-		"count": 138956,
+		"count": 138957,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 23908,
+		"count": 23909,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 10267,
+		"count": 10268,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 28130,
+		"count": 28132,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 54378,
+		"count": 54379,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 179113,
+		"count": 179118,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,7 +210,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10087,
+		"count": 10088,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -220,17 +220,17 @@
 		"version": "all"
 	},
 	{
-		"count": 49387,
+		"count": 49389,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 30632,
+		"count": 30634,
 		"name": "Transmission",
 		"version": "all"
 	},
 	{
-		"count": 40979,
+		"count": 40982,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 115844,
+		"count": 115846,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,7 +255,7 @@
 		"version": "all"
 	},
 	{
-		"count": 33625,
+		"count": 33626,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 16288,
+		"count": 16289,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,17 +280,17 @@
 		"version": "all"
 	},
 	{
-		"count": 161146,
+		"count": 161151,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 15694,
+		"count": 15695,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
 	{
-		"count": 13495,
+		"count": 13496,
 		"name": "relive-theme",
 		"version": "all"
 	},
