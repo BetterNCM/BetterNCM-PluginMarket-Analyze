@@ -1,6 +1,6 @@
 [
 	{
-		"count": 198438,
+		"count": 198439,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 12391,
+		"count": 12392,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 54065,
+		"count": 54066,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 252013,
+		"count": 252016,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48010,
+		"count": 48012,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 147114,
+		"count": 147115,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 111331,
+		"count": 111332,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 69775,
+		"count": 69777,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -90,17 +90,17 @@
 		"version": "all"
 	},
 	{
-		"count": 1795,
+		"count": 1796,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 97175,
+		"count": 97176,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 66966,
+		"count": 66967,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2161,
+		"count": 2162,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 177256,
+		"count": 177257,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,7 +125,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11498,
+		"count": 11499,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 253717,
+		"count": 253718,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 139131,
+		"count": 139132,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 28202,
+		"count": 28203,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 54468,
+		"count": 54469,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 179418,
+		"count": 179419,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -235,7 +235,7 @@
 		"version": "all"
 	},
 	{
-		"count": 24810,
+		"count": 24811,
 		"name": "Unbounded",
 		"version": "all"
 	},
@@ -245,7 +245,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10272,
+		"count": 10273,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 74447,
+		"count": 74449,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
