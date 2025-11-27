@@ -27,7 +27,7 @@
 	{
 		"name": "Apple-Musiclike-lyrics",
 		"version": "3.1.0",
-		"count": 8012
+		"count": 8013
 	},
 	{
 		"name": "HideScrollbar",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 128718
+		"count": 128721
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 92418
+		"count": 92422
 	},
 	{
 		"name": "ActionEnhancement",
@@ -92,17 +92,17 @@
 	{
 		"name": "ActionEnhancement",
 		"version": "0.1.9",
-		"count": 3038
+		"count": 3039
 	},
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 43083
+		"count": 43085
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
 		"version": "2.0.8",
-		"count": 19761
+		"count": 19762
 	},
 	{
 		"name": "vocaloid-info",
@@ -127,12 +127,12 @@
 	{
 		"name": "JapaneseFonts",
 		"version": "1.0.3",
-		"count": 2866
+		"count": 2867
 	},
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 28060
+		"count": 28063
 	},
 	{
 		"name": "VisualRecord",
@@ -142,17 +142,17 @@
 	{
 		"name": "SimpleAudioVisualizer",
 		"version": "0.1.3",
-		"count": 21037
+		"count": 21038
 	},
 	{
 		"name": "GPTTrans",
 		"version": "0.4.1",
-		"count": 8413
+		"count": 8414
 	},
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 98913
+		"count": 98917
 	},
 	{
 		"name": "ark-theme",
@@ -162,7 +162,7 @@
 	{
 		"name": "PlaybackRate",
 		"version": "0.1.2",
-		"count": 5342
+		"count": 5343
 	},
 	{
 		"name": "Apple-Musiclike-lyrics",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 99080
+		"count": 99084
 	},
 	{
 		"name": "search-on-osu",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 58921
+		"count": 58924
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 30385
+		"count": 30386
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 58767
+		"count": 58768
 	},
 	{
 		"name": "PiPWindow",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 64117
+		"count": 64120
 	},
 	{
 		"name": "DowngradeOK",
@@ -282,27 +282,27 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 64231
+		"count": 64232
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 55171
+		"count": 55173
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 12639
+		"count": 12640
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 169630
+		"count": 169634
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 11558
+		"count": 11560
 	},
 	{
 		"name": "MoreHooks",
@@ -312,7 +312,7 @@
 	{
 		"name": "MikuPlugin",
 		"version": "0.1.2",
-		"count": 20049
+		"count": 20050
 	},
 	{
 		"name": "LiveSongPlayer",
@@ -347,11 +347,11 @@
 	{
 		"name": "CrashFix",
 		"version": "0.1.3",
-		"count": 9535
+		"count": 9536
 	},
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 8182
+		"count": 8183
 	}
 ]
