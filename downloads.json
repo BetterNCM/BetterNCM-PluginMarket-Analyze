@@ -1,6 +1,6 @@
 [
 	{
-		"count": 199049,
+		"count": 199050,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 12550,
+		"count": 12551,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 54391,
+		"count": 54393,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 253367,
+		"count": 253373,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48138,
+		"count": 48140,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,27 +45,27 @@
 		"version": "all"
 	},
 	{
-		"count": 6898,
+		"count": 6899,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 46510,
+		"count": 46512,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 147431,
+		"count": 147433,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 111701,
+		"count": 111703,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
 	{
-		"count": 5900,
+		"count": 5902,
 		"name": "vocaloid-info",
 		"version": "all"
 	},
@@ -95,12 +95,12 @@
 		"version": "all"
 	},
 	{
-		"count": 97422,
+		"count": 97424,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 67128,
+		"count": 67129,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2183,
+		"count": 2184,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 177858,
+		"count": 177859,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -125,17 +125,17 @@
 		"version": "all"
 	},
 	{
-		"count": 11543,
+		"count": 11544,
 		"name": "keyboard-seek",
 		"version": "all"
 	},
 	{
-		"count": 126063,
+		"count": 126064,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 254654,
+		"count": 254656,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 176335,
+		"count": 176336,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 139423,
+		"count": 139425,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 180026,
+		"count": 180027,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -210,7 +210,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10178,
+		"count": 10179,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41198,
+		"count": 41199,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -245,7 +245,7 @@
 		"version": "all"
 	},
 	{
-		"count": 10307,
+		"count": 10308,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 16393,
+		"count": 16394,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 161974,
+		"count": 161978,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -290,12 +290,12 @@
 		"version": "all"
 	},
 	{
-		"count": 13564,
+		"count": 13565,
 		"name": "relive-theme",
 		"version": "all"
 	},
 	{
-		"count": 45632,
+		"count": 45633,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
