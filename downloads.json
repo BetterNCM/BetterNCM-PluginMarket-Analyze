@@ -1,6 +1,6 @@
 [
 	{
-		"count": 199198,
+		"count": 199202,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 12591,
+		"count": 12593,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 54476,
+		"count": 54477,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 253837,
+		"count": 253858,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,17 +45,17 @@
 		"version": "all"
 	},
 	{
-		"count": 6916,
+		"count": 6917,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 46558,
+		"count": 46559,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 147525,
+		"count": 147526,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 34740,
+		"count": 34741,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 97477,
+		"count": 97478,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 178005,
+		"count": 178009,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 126207,
+		"count": 126211,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 254900,
+		"count": 254908,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 176462,
+		"count": 176465,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,12 +155,12 @@
 		"version": "all"
 	},
 	{
-		"count": 139508,
+		"count": 139509,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 24073,
+		"count": 24074,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
@@ -170,12 +170,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2917,
+		"count": 2918,
 		"name": "JapaneseFonts",
 		"version": "all"
 	},
 	{
-		"count": 28352,
+		"count": 28353,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 54664,
+		"count": 54665,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 180175,
+		"count": 180179,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49594,
+		"count": 49595,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41232,
+		"count": 41233,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 116425,
+		"count": 116426,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 162132,
+		"count": 162137,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 15786,
+		"count": 15787,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
