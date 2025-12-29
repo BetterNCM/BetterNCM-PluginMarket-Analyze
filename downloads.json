@@ -1,11 +1,11 @@
 [
 	{
-		"count": 200895,
+		"count": 200896,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 70450,
+		"count": 70452,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 258681,
+		"count": 258685,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48430,
+		"count": 48432,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,7 +50,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46929,
+		"count": 46930,
 		"name": "LyricBar",
 		"version": "all"
 	},
@@ -60,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112613,
+		"count": 112614,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 70424,
+		"count": 70425,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 199619,
+		"count": 199621,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2222,
+		"count": 2223,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 179675,
+		"count": 179676,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 127440,
+		"count": 127441,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 257254,
+		"count": 257256,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 177842,
+		"count": 177844,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140238,
+		"count": 140239,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 55032,
+		"count": 55033,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 181797,
+		"count": 181798,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -215,12 +215,12 @@
 		"version": "all"
 	},
 	{
-		"count": 7241,
+		"count": 7242,
 		"name": "Customize",
 		"version": "all"
 	},
 	{
-		"count": 49851,
+		"count": 49853,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 117207,
+		"count": 117208,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 10365,
+		"count": 10366,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 16524,
+		"count": 16525,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 163708,
+		"count": 163709,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
