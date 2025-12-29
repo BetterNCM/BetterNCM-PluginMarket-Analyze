@@ -1,6 +1,6 @@
 [
 	{
-		"count": 200899,
+		"count": 200905,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 258693,
+		"count": 258703,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 46931,
+		"count": 46932,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 148327,
+		"count": 148329,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 112619,
+		"count": 112621,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 70426,
+		"count": 70428,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 35180,
+		"count": 35181,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 98047,
+		"count": 98048,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 179679,
+		"count": 179685,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 127444,
+		"count": 127445,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 257260,
+		"count": 257265,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 177845,
+		"count": 177851,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140241,
+		"count": 140243,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -200,12 +200,12 @@
 		"version": "all"
 	},
 	{
-		"count": 181801,
+		"count": 181806,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 4928,
+		"count": 4929,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49854,
+		"count": 49855,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 117212,
+		"count": 117214,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -255,12 +255,12 @@
 		"version": "all"
 	},
 	{
-		"count": 33852,
+		"count": 33853,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 75498,
+		"count": 75499,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 163710,
+		"count": 163712,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46014,
+		"count": 46015,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
