@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 132233
+		"count": 132236
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 94806
+		"count": 94811
 	},
 	{
 		"name": "ActionEnhancement",
@@ -107,7 +107,7 @@
 	{
 		"name": "vocaloid-info",
 		"version": "2.0.2",
-		"count": 4624
+		"count": 4625
 	},
 	{
 		"name": "PluginMarket",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 101339
+		"count": 101344
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 101422
+		"count": 101425
 	},
 	{
 		"name": "search-on-osu",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 32689
+		"count": 32691
 	},
 	{
 		"name": "play-with-bilibili",
@@ -242,7 +242,7 @@
 	{
 		"name": "liblyric",
 		"version": "1.0.0",
-		"count": 59845
+		"count": 59846
 	},
 	{
 		"name": "PiPWindow",
@@ -252,12 +252,12 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 66033
+		"count": 66035
 	},
 	{
 		"name": "DowngradeOK",
 		"version": "0.0.5",
-		"count": 13038
+		"count": 13039
 	},
 	{
 		"name": "Apple-Musiclike-lyrics-2-0-Beta",
@@ -272,7 +272,7 @@
 	{
 		"name": "cpplyrics",
 		"version": "0.0.8",
-		"count": 1879
+		"count": 1880
 	},
 	{
 		"name": "InfLink",
@@ -282,7 +282,7 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 65413
+		"count": 65414
 	},
 	{
 		"name": "FluentProgressBar",
@@ -297,7 +297,7 @@
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 176301
+		"count": 176307
 	},
 	{
 		"name": "LogCleaner",
@@ -322,7 +322,7 @@
 	{
 		"name": "RuLyrics",
 		"version": "0.3.5",
-		"count": 37786
+		"count": 37787
 	},
 	{
 		"name": "LogCleaner",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 8294
+		"count": 8295
 	}
 ]
