@@ -1,6 +1,6 @@
 [
 	{
-		"count": 201310,
+		"count": 201311,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -10,7 +10,7 @@
 		"version": "all"
 	},
 	{
-		"count": 27483,
+		"count": 27484,
 		"name": "libsonginfo",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 259597,
+		"count": 259602,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 148540,
+		"count": 148541,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 112856,
+		"count": 112858,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 199790,
+		"count": 199791,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 98222,
+		"count": 98223,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 180078,
+		"count": 180079,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 257810,
+		"count": 257812,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 178221,
+		"count": 178224,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140432,
+		"count": 140433,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 182208,
+		"count": 182209,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 16564,
+		"count": 16566,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46109,
+		"count": 46110,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
