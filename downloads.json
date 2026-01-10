@@ -1,6 +1,6 @@
 [
 	{
-		"count": 201500,
+		"count": 201501,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 260024,
+		"count": 260026,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48563,
+		"count": 48564,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -60,7 +60,7 @@
 		"version": "all"
 	},
 	{
-		"count": 112969,
+		"count": 112970,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 98304,
+		"count": 98305,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 180259,
+		"count": 180260,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 127912,
+		"count": 127913,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 258070,
+		"count": 258071,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 28714,
+		"count": 28715,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 182397,
+		"count": 182398,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49956,
+		"count": 49957,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 16586,
+		"count": 16587,
 		"name": "CrashFix",
 		"version": "all"
 	},
