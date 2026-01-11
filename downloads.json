@@ -1,6 +1,6 @@
 [
 	{
-		"count": 201508,
+		"count": 201512,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 13189,
+		"count": 13190,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 55467,
+		"count": 55468,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 260049,
+		"count": 260055,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48565,
+		"count": 48566,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 148638,
+		"count": 148639,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 112976,
+		"count": 112977,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 70619,
+		"count": 70621,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 199879,
+		"count": 199881,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 35405,
+		"count": 35407,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 98307,
+		"count": 98308,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 180267,
+		"count": 180271,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 127919,
+		"count": 127921,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 258084,
+		"count": 258089,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 178382,
+		"count": 178384,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140521,
+		"count": 140522,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 28717,
+		"count": 28719,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 182406,
+		"count": 182409,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 49958,
+		"count": 49959,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 117575,
+		"count": 117577,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 164284,
+		"count": 164287,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 15907,
+		"count": 15908,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
