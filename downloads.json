@@ -1,6 +1,6 @@
 [
 	{
-		"count": 202004,
+		"count": 202006,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,7 +15,7 @@
 		"version": "all"
 	},
 	{
-		"count": 13321,
+		"count": 13322,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 261289,
+		"count": 261296,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48670,
+		"count": 48671,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 7156,
+		"count": 7157,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 47255,
+		"count": 47258,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 148902,
+		"count": 148903,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 113259,
+		"count": 113261,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 70799,
+		"count": 70801,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,7 +80,7 @@
 		"version": "all"
 	},
 	{
-		"count": 200092,
+		"count": 200093,
 		"name": "InfLink",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 98501,
+		"count": 98504,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 180755,
+		"count": 180757,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 128346,
+		"count": 128349,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 258802,
+		"count": 258805,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 178804,
+		"count": 178807,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140769,
+		"count": 140770,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 55319,
+		"count": 55320,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -195,12 +195,12 @@
 		"version": "all"
 	},
 	{
-		"count": 8517,
+		"count": 8518,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 182899,
+		"count": 182901,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 50045,
+		"count": 50046,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41726,
+		"count": 41727,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,12 +240,12 @@
 		"version": "all"
 	},
 	{
-		"count": 117849,
+		"count": 117851,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 10413,
+		"count": 10414,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 75984,
+		"count": 75985,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -280,7 +280,7 @@
 		"version": "all"
 	},
 	{
-		"count": 164768,
+		"count": 164770,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46258,
+		"count": 46260,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
