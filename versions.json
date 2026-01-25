@@ -12,7 +12,7 @@
 	{
 		"name": "StyleSnippet",
 		"version": "0.2.2",
-		"count": 46316
+		"count": 46317
 	},
 	{
 		"name": "ZoomNCM",
@@ -47,7 +47,7 @@
 	{
 		"name": "list-scroll-fix",
 		"version": "0.1.0",
-		"count": 134005
+		"count": 134011
 	},
 	{
 		"name": "keyboard-seek",
@@ -62,7 +62,7 @@
 	{
 		"name": "MoTheme",
 		"version": "1.2.3",
-		"count": 96023
+		"count": 96025
 	},
 	{
 		"name": "ActionEnhancement",
@@ -97,7 +97,7 @@
 	{
 		"name": "crossfade-lfp",
 		"version": "0.1.5",
-		"count": 44667
+		"count": 44669
 	},
 	{
 		"name": "What-is-the-cover-of-this-music",
@@ -117,12 +117,12 @@
 	{
 		"name": "elaina-theme",
 		"version": "1.0.6",
-		"count": 6041
+		"count": 6042
 	},
 	{
 		"name": "relive-theme",
 		"version": "0.6.0",
-		"count": 8183
+		"count": 8184
 	},
 	{
 		"name": "JapaneseFonts",
@@ -132,7 +132,7 @@
 	{
 		"name": "LyricBar",
 		"version": "0.3.6",
-		"count": 29016
+		"count": 29017
 	},
 	{
 		"name": "VisualRecord",
@@ -152,7 +152,7 @@
 	{
 		"name": "StylesheetLoader",
 		"version": "0.1.3",
-		"count": 102581
+		"count": 102583
 	},
 	{
 		"name": "ark-theme",
@@ -182,7 +182,7 @@
 	{
 		"name": "light-dark-theme-switcher",
 		"version": "0.1.3",
-		"count": 102659
+		"count": 102661
 	},
 	{
 		"name": "search-on-osu",
@@ -212,7 +212,7 @@
 	{
 		"name": "LibFrontendPlay",
 		"version": "1.1.0",
-		"count": 60911
+		"count": 60913
 	},
 	{
 		"name": "elaina-theme",
@@ -227,7 +227,7 @@
 	{
 		"name": "BGEnhanced",
 		"version": "0.3.8",
-		"count": 33895
+		"count": 33897
 	},
 	{
 		"name": "play-with-bilibili",
@@ -252,7 +252,7 @@
 	{
 		"name": "MaterialYouTheme",
 		"version": "2.9.0",
-		"count": 67106
+		"count": 67110
 	},
 	{
 		"name": "DowngradeOK",
@@ -282,27 +282,27 @@
 	{
 		"name": "LibEAPIRequest",
 		"version": "1.6.2",
-		"count": 66059
+		"count": 66060
 	},
 	{
 		"name": "FluentProgressBar",
 		"version": "1.0.3",
-		"count": 57049
+		"count": 57052
 	},
 	{
 		"name": "Transmission",
 		"version": "0.1.3",
-		"count": 12806
+		"count": 12807
 	},
 	{
 		"name": "RefinedNowPlaying",
 		"version": "2.19.5",
-		"count": 179246
+		"count": 179252
 	},
 	{
 		"name": "LogCleaner",
 		"version": "0.0.7",
-		"count": 12687
+		"count": 12689
 	},
 	{
 		"name": "MoreHooks",
@@ -352,6 +352,6 @@
 	{
 		"name": "Microrange",
 		"version": "0.1.0",
-		"count": 8350
+		"count": 8351
 	}
 ]
