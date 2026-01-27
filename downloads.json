@@ -1,6 +1,6 @@
 [
 	{
-		"count": 202294,
+		"count": 202296,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,22 +15,22 @@
 		"version": "all"
 	},
 	{
-		"count": 13413,
+		"count": 13414,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 55819,
+		"count": 55821,
 		"name": "TinyNCM",
 		"version": "all"
 	},
 	{
-		"count": 19089,
+		"count": 19090,
 		"name": "GPTTrans",
 		"version": "all"
 	},
 	{
-		"count": 262013,
+		"count": 262016,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 7189,
+		"count": 7190,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 47351,
+		"count": 47352,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 149056,
+		"count": 149057,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 113453,
+		"count": 113456,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 70897,
+		"count": 70898,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -80,12 +80,12 @@
 		"version": "all"
 	},
 	{
-		"count": 200210,
+		"count": 200211,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 35687,
+		"count": 35689,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 98626,
+		"count": 98627,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -110,12 +110,12 @@
 		"version": "all"
 	},
 	{
-		"count": 2276,
+		"count": 2277,
 		"name": "artist-all-songs",
 		"version": "all"
 	},
 	{
-		"count": 181042,
+		"count": 181043,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 128666,
+		"count": 128669,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 259265,
+		"count": 259266,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 179058,
+		"count": 179060,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 140912,
+		"count": 140913,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -165,7 +165,7 @@
 		"version": "all"
 	},
 	{
-		"count": 11151,
+		"count": 11152,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 28867,
+		"count": 28870,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -205,7 +205,7 @@
 		"version": "all"
 	},
 	{
-		"count": 5075,
+		"count": 5076,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 41795,
+		"count": 41796,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -255,22 +255,22 @@
 		"version": "all"
 	},
 	{
-		"count": 33979,
+		"count": 33980,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 76139,
+		"count": 76142,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
 	{
-		"count": 16662,
+		"count": 16663,
 		"name": "CrashFix",
 		"version": "all"
 	},
 	{
-		"count": 20043,
+		"count": 20044,
 		"name": "Microrange",
 		"version": "all"
 	},
@@ -285,7 +285,7 @@
 		"version": "all"
 	},
 	{
-		"count": 15973,
+		"count": 15974,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
@@ -295,7 +295,7 @@
 		"version": "all"
 	},
 	{
-		"count": 46324,
+		"count": 46326,
 		"name": "What-is-the-cover-of-this-music",
 		"version": "all"
 	}
