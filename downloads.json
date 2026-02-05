@@ -1,6 +1,6 @@
 [
 	{
-		"count": 202611,
+		"count": 202612,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 262800,
+		"count": 262802,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48840,
+		"count": 48842,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -50,17 +50,17 @@
 		"version": "all"
 	},
 	{
-		"count": 47463,
+		"count": 47465,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 149273,
+		"count": 149274,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 113701,
+		"count": 113703,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,22 +70,22 @@
 		"version": "all"
 	},
 	{
-		"count": 71021,
+		"count": 71022,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 4536,
+		"count": 4537,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 200401,
+		"count": 200403,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 35827,
+		"count": 35828,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 181346,
+		"count": 181347,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 128967,
+		"count": 128968,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 259753,
+		"count": 259754,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 179380,
+		"count": 179381,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 141111,
+		"count": 141112,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 55485,
+		"count": 55486,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 118270,
+		"count": 118272,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 76322,
+		"count": 76324,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
