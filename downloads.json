@@ -1,6 +1,6 @@
 [
 	{
-		"count": 202793,
+		"count": 202795,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -30,12 +30,12 @@
 		"version": "all"
 	},
 	{
-		"count": 263217,
+		"count": 263221,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
 	{
-		"count": 48877,
+		"count": 48879,
 		"name": "SimpleAudioVisualizer",
 		"version": "all"
 	},
@@ -55,12 +55,12 @@
 		"version": "all"
 	},
 	{
-		"count": 149378,
+		"count": 149379,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 113811,
+		"count": 113813,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -85,7 +85,7 @@
 		"version": "all"
 	},
 	{
-		"count": 35892,
+		"count": 35893,
 		"name": "LogCleaner",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 181519,
+		"count": 181520,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 129121,
+		"count": 129122,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 260010,
+		"count": 260011,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,12 +145,12 @@
 		"version": "all"
 	},
 	{
-		"count": 179525,
+		"count": 179528,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
 	{
-		"count": 7561,
+		"count": 7562,
 		"name": "search-on-osu",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 183668,
+		"count": 183669,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -220,12 +220,12 @@
 		"version": "all"
 	},
 	{
-		"count": 50225,
+		"count": 50226,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
 	{
-		"count": 30861,
+		"count": 30862,
 		"name": "Transmission",
 		"version": "all"
 	},
@@ -235,17 +235,17 @@
 		"version": "all"
 	},
 	{
-		"count": 24975,
+		"count": 24976,
 		"name": "Unbounded",
 		"version": "all"
 	},
 	{
-		"count": 118389,
+		"count": 118390,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 10450,
+		"count": 10451,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
@@ -260,7 +260,7 @@
 		"version": "all"
 	},
 	{
-		"count": 76407,
+		"count": 76408,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -270,7 +270,7 @@
 		"version": "all"
 	},
 	{
-		"count": 20077,
+		"count": 20078,
 		"name": "Microrange",
 		"version": "all"
 	},
