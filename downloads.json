@@ -1,11 +1,11 @@
 [
 	{
-		"count": 202999,
+		"count": 203001,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
 	{
-		"count": 71023,
+		"count": 71025,
 		"name": "Apple-Musiclike-lyrics",
 		"version": "all"
 	},
@@ -20,7 +20,7 @@
 		"version": "all"
 	},
 	{
-		"count": 56156,
+		"count": 56157,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 263753,
+		"count": 263757,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,17 +45,17 @@
 		"version": "all"
 	},
 	{
-		"count": 7283,
+		"count": 7284,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 47616,
+		"count": 47617,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 149525,
+		"count": 149527,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
@@ -70,7 +70,7 @@
 		"version": "all"
 	},
 	{
-		"count": 71181,
+		"count": 71182,
 		"name": "RuLyrics",
 		"version": "all"
 	},
@@ -95,7 +95,7 @@
 		"version": "all"
 	},
 	{
-		"count": 98938,
+		"count": 98940,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 181719,
+		"count": 181721,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -130,12 +130,12 @@
 		"version": "all"
 	},
 	{
-		"count": 129335,
+		"count": 129338,
 		"name": "MaterialYouTheme",
 		"version": "all"
 	},
 	{
-		"count": 260345,
+		"count": 260349,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 179727,
+		"count": 179728,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,7 +155,7 @@
 		"version": "all"
 	},
 	{
-		"count": 141335,
+		"count": 141337,
 		"name": "liblyric",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 55588,
+		"count": 55589,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -200,7 +200,7 @@
 		"version": "all"
 	},
 	{
-		"count": 183877,
+		"count": 183879,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
@@ -240,7 +240,7 @@
 		"version": "all"
 	},
 	{
-		"count": 118541,
+		"count": 118542,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
@@ -265,7 +265,7 @@
 		"version": "all"
 	},
 	{
-		"count": 16761,
+		"count": 16762,
 		"name": "CrashFix",
 		"version": "all"
 	},
@@ -280,12 +280,12 @@
 		"version": "all"
 	},
 	{
-		"count": 165854,
+		"count": 165855,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 16040,
+		"count": 16041,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
