@@ -1,6 +1,6 @@
 [
 	{
-		"count": 203110,
+		"count": 203113,
 		"name": "StylesheetLoader",
 		"version": "all"
 	},
@@ -15,12 +15,12 @@
 		"version": "all"
 	},
 	{
-		"count": 13713,
+		"count": 13714,
 		"name": "DowngradeOK",
 		"version": "all"
 	},
 	{
-		"count": 56213,
+		"count": 56215,
 		"name": "TinyNCM",
 		"version": "all"
 	},
@@ -30,7 +30,7 @@
 		"version": "all"
 	},
 	{
-		"count": 264033,
+		"count": 264039,
 		"name": "RefinedNowPlaying",
 		"version": "all"
 	},
@@ -45,22 +45,22 @@
 		"version": "all"
 	},
 	{
-		"count": 7302,
+		"count": 7303,
 		"name": "PiPWindow",
 		"version": "all"
 	},
 	{
-		"count": 47647,
+		"count": 47648,
 		"name": "LyricBar",
 		"version": "all"
 	},
 	{
-		"count": 149597,
+		"count": 149599,
 		"name": "LibEAPIRequest",
 		"version": "all"
 	},
 	{
-		"count": 114040,
+		"count": 114042,
 		"name": "LibFrontendPlay",
 		"version": "all"
 	},
@@ -70,37 +70,37 @@
 		"version": "all"
 	},
 	{
-		"count": 71225,
+		"count": 71226,
 		"name": "RuLyrics",
 		"version": "all"
 	},
 	{
-		"count": 4596,
+		"count": 4597,
 		"name": "LyricBarBlur",
 		"version": "all"
 	},
 	{
-		"count": 200635,
+		"count": 200636,
 		"name": "InfLink",
 		"version": "all"
 	},
 	{
-		"count": 36043,
+		"count": 36044,
 		"name": "LogCleaner",
 		"version": "all"
 	},
 	{
-		"count": 1987,
+		"count": 1988,
 		"name": "cpplyrics",
 		"version": "all"
 	},
 	{
-		"count": 98991,
+		"count": 98994,
 		"name": "StyleSnippet",
 		"version": "all"
 	},
 	{
-		"count": 68281,
+		"count": 68282,
 		"name": "Taskbar-Lyrics",
 		"version": "all"
 	},
@@ -115,7 +115,7 @@
 		"version": "all"
 	},
 	{
-		"count": 181823,
+		"count": 181826,
 		"name": "MoTheme",
 		"version": "all"
 	},
@@ -135,7 +135,7 @@
 		"version": "all"
 	},
 	{
-		"count": 260520,
+		"count": 260523,
 		"name": "list-scroll-fix",
 		"version": "all"
 	},
@@ -145,7 +145,7 @@
 		"version": "all"
 	},
 	{
-		"count": 179844,
+		"count": 179847,
 		"name": "RoundCornerNCM",
 		"version": "all"
 	},
@@ -155,17 +155,17 @@
 		"version": "all"
 	},
 	{
-		"count": 141403,
+		"count": 141405,
 		"name": "liblyric",
 		"version": "all"
 	},
 	{
-		"count": 24637,
+		"count": 24638,
 		"name": "FluentMusicCover",
 		"version": "all"
 	},
 	{
-		"count": 11375,
+		"count": 11377,
 		"name": "RevisedSecondaryWindows",
 		"version": "all"
 	},
@@ -175,7 +175,7 @@
 		"version": "all"
 	},
 	{
-		"count": 29082,
+		"count": 29083,
 		"name": "RevivedSource",
 		"version": "all"
 	},
@@ -185,7 +185,7 @@
 		"version": "all"
 	},
 	{
-		"count": 55626,
+		"count": 55627,
 		"name": "VisualRecord",
 		"version": "all"
 	},
@@ -195,22 +195,22 @@
 		"version": "all"
 	},
 	{
-		"count": 8551,
+		"count": 8552,
 		"name": "search-this-singer",
 		"version": "all"
 	},
 	{
-		"count": 183995,
+		"count": 183999,
 		"name": "light-dark-theme-switcher",
 		"version": "all"
 	},
 	{
-		"count": 5197,
+		"count": 5198,
 		"name": "ZoomNCM",
 		"version": "all"
 	},
 	{
-		"count": 10584,
+		"count": 10585,
 		"name": "BGEnhanced-Extra",
 		"version": "all"
 	},
@@ -220,7 +220,7 @@
 		"version": "all"
 	},
 	{
-		"count": 50320,
+		"count": 50322,
 		"name": "MikuPlugin",
 		"version": "all"
 	},
@@ -230,7 +230,7 @@
 		"version": "all"
 	},
 	{
-		"count": 42009,
+		"count": 42010,
 		"name": "ark-theme",
 		"version": "all"
 	},
@@ -240,27 +240,27 @@
 		"version": "all"
 	},
 	{
-		"count": 118627,
+		"count": 118628,
 		"name": "FluentProgressBar",
 		"version": "all"
 	},
 	{
-		"count": 10476,
+		"count": 10478,
 		"name": "PlaybackRate",
 		"version": "all"
 	},
 	{
-		"count": 9951,
+		"count": 9952,
 		"name": "HideScrollbar",
 		"version": "all"
 	},
 	{
-		"count": 34092,
+		"count": 34093,
 		"name": "ActionEnhancement",
 		"version": "all"
 	},
 	{
-		"count": 76587,
+		"count": 76589,
 		"name": "crossfade-lfp",
 		"version": "all"
 	},
@@ -275,17 +275,17 @@
 		"version": "all"
 	},
 	{
-		"count": 8631,
+		"count": 8632,
 		"name": "LiveSongPlayer",
 		"version": "all"
 	},
 	{
-		"count": 165978,
+		"count": 165980,
 		"name": "BGEnhanced",
 		"version": "all"
 	},
 	{
-		"count": 16051,
+		"count": 16053,
 		"name": "remove-tracking-attribute",
 		"version": "all"
 	},
